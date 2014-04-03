@@ -28,10 +28,22 @@
 	<div id="mainContentContainer">
 		<div id="leftColumn">
     		<h1>Accommodation</h1>
-    		<p>Our six ensuite bedrooms have been carefully decorated and combine antique furnishings with modern facilities, telephone, television, hairdryer and tea and coffee making facilities. The result is a mixture of comfort and charm which is evident througout the house.</p>
-            <p>Breakfast is served in the Dining Room. We provide a buffet and a varied menu from the kitchen.</p>
-            <p>When you arrive you can enjoy a cup of coffee or tea and homemade shortbread in the conservatory overlooking the lake or relax in the sitting room with its open fire, perfect for the cooler evenings.</p>
-            <p>You are welcome to arrive anytime after 4pm.</p>
+    		<p>Our six en-suite bedrooms have been carefully decorated and combine antique furnishings with modern facilities, telephone, television, hairdryer, tea/coffee making facilities and homemade oatmeal cookies, complimentary water and complimentary wine. The result is a mixture of comfort and charm which is evident throughout the house.</p>
+            <p>Breakfast is served in the Dining Room.</p>
+            <h2>Breakfast menu</h2>
+            <h3>Full Irish Breakfast</h3>
+            <p>Hamilton's Farm Organic pork sausages & bacon, fried free range egg, Potato bread, Tomato, Clonakilty Black/White Pudding, Mushrooms.</p>
+            <h3>Organic Porridge</h3>
+            <p>With whiskey &amp; cream / Honey & mixed seeds</p>
+            <h3>Pancakes</h3>
+            <p>With Crispy Bacon & maple syrup / Bananas & maple syrup</p>
+            <h3>Smoked fish with poached egg</h3>
+            <h3>Poached egg</h3>
+            <h3>Scrambled eggs with smoked salmon</h3>
+            <h3>Vegetarian breakfast</h3>
+            <p>Vegetarian sausage, Tomato, beans, Fried Organic egg, Mushrooms and potato bread.</p>
+            <hr />
+            <p>On arrival, between 4-6pm, you can enjoy a freshly brewed coffee or tea and shortbread in the conservatory.</p>
             <p>We also provide complimentary wireless Internet access to all our guests.</p>
             <p>Prices: €48 per person sharing<br />
             Single Supplement: €12</p>

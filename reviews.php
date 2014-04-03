@@ -31,19 +31,21 @@
     		<h1>Reviews</h1>
     		<p>The Mill has been featured in many magazines and guides as being on of Ireland's best places to stay and eat, including:</p>
             <ul>
+              <li>Best Chef in Donegal 2013 Irish Restaurant Association Awards</li>
               <li>Best Restaurant In Donegal 2011 Restaurant Association Of Ireland</li>
               <li>Best Hideaway 2012 Georgina Campbell Guides</li>
-              <li>Featured in Bridgestone's Top 100 Places to Eat in Ireland 2013</li>
+              <li>Featured in Bridgestone's Top 100 Places to Eat in Ireland 2014</li>
               <li>Featured in Bridgestone's Top 100 Places to Stay in Ireland 2013</li>
-              <li>Rick Steve's Ireland 2012</li>
-              <li>The Bridgestone Irish Food Guide 2011</li>
-              <li>The Good Hotel Guide 2006, 2007, 2008, 2009, 2010, 2011 - Including receiving a Cesar Award in 2007</li>
+              <li>Rick Steve's Ireland 2014</li>
+              <li>The Bridgestone Irish Food Guide 2014</li>
+              <li>The Good Hotel Guide 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014 - Including receiving a Cesar Award in 2007</li>
               <li>Georgina Campbell's The Best of the Best 2011</li>
               <li>Featured in the Observer's 'Top 50 for under £50' by Desmond Balmer</li>
               <li>Alastair Sawday's Special Places to Stay in Ireland</li>
-              <li>Frommers Ireland 2008</li>
             </ul> 
             <p>Below are some quotes taken from various publications reviewing the Mill.</p>
+            <blockquote><p>Value is exceptional, service is excellent and the experience sublime</p></blockquote>
+            <cite>Bridgestones' App 100 best restaurants in Ireland 2014</cite>
             <blockquote>
             <p>...discreet service, comfort, character and cosy ambience</p>
             </blockquote>
@@ -91,18 +93,18 @@
     	</div>
     <div id="rightColumn">
 <table style="width:240px; margin:30px auto 0 auto">
-    	<td><img src="images/georginaCampbell2013.jpg" alt="Featured in Georgina Campbells Best of the Best Guide" title="Featured in Georgina Campbells Best of the Best Guide" class="gallery" /></td>
-        <td><img src="images/bridgestone2013.jpg" alt="Featured in The Bridgestone Irish Food Guide" title="Featured in the Bridgestone Irish Food Guide" class="gallery" /></td>
+    	<td><img src="images/georginaCampbell2014.jpg" alt="Featured in Georgina Campbells Best of the Best Guide" title="Featured in Georgina Campbells Best of the Best Guide" class="gallery" /></td>
+        <td><img src="images/bridgestone2014.jpg" alt="Featured in The Bridgestone Irish Food Guide" title="Featured in the Bridgestone Irish Food Guide" class="gallery" /></td>
     </tr><tr>
     	<td><img src="images/galleryImages/thumbnails/AS-LOGO.jpg" alt="Featured in Alastair Sawday's Special Places to Stay in Ireland" title="Featured in Alastair Sawday's Special Places to Stay in Ireland" class="gallery" /></td>
-        <td><img src="images/galleryImages/thumbnails/michelin.jpg" alt="Featured in The Michelin Guide" title="Featured in the Michelin Guide" class="gallery" /></td>
+        <td><img src="images/michelin-accommodation2014.jpg" alt="Featured in The Michelin Guide" title="Featured in the Michelin Guide" class="gallery" /></td>
     </tr>
     <tr>
     	<td><img src="images/galleryImages/thumbnails/failte.jpg" alt="Featured in Frommers Ireland" title="Featured by Failte Ireland" class="gallery" /></td>
-        <td><img src="images/galleryImages/thumbnails/goodHotelGuide.jpg" alt="Featured in the Good Hotel Guide" title="Featured in the Good Hotel Guide" class="gallery" /></td>
+        <td><img src="images/goodHotelGuide2014.jpg" alt="Featured in the Good Hotel Guide" title="Featured in the Good Hotel Guide" class="gallery" /></td>
     </tr>
     <tr>
-    	<td><img src="images/ricksteves2012.gif" alt="Featured in Rick Steve's Ireland" title="Featured in Rick Steve's Ireland" class="gallery" /></td>
+    	<td><img src="images/ricksteves2014.gif" alt="Featured in Rick Steve's Ireland" title="Featured in Rick Steve's Ireland" class="gallery" /></td>
         <td></td>
     </tr>
     </table>    </div>

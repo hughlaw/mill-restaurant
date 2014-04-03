@@ -28,13 +28,12 @@
 	<div id="mainContentContainer">
     <div id="leftColumn">
       <h1>Restaurant</h1>
-      <p>The restaurant is a split level room overlooking the new lake. It is a small friendly restaurant offering a relaxing but efficient service. Dinner is served between 7pm and 9pm, Tuesday to Sunday. The dinner menu changes seasonally using fresh produce from the loca area. Derek and his small team produce food with a modern irish flavour, with an emphasis on local seafood and shellfish. We have a wine license offering wine, sherry, port and bottled beer.</p>
-      <p>To make your evening special, we welcome you to enjoy an aperatif at the open fire or conservatory while you ponder over the menu. After dinner to complete your evening coffee and petit fours are served in the same comfortable surroundings.</p>
-      <p>Price for Dinner: €41<br />
-      7pm to 9pm<br />
-      Closed on Mondays</p>
+      <p>The restaurant is a split level room overlooking the new lake. It is a small friendly restaurant offering a relaxing but efficient service. Dinner is served between 7pm and 9pm, Tuesday to Sunday. The dinner menu changes seasonally using fresh produce from the local area. Derek and his small team produce food with a modern irish flavour, with an emphasis on local seafood and shellfish. We have a wine license offering wine, sherry, port and bottled beer.</p>
+      <p>To make your evening special, we welcome you to enjoy an aperitif at the open fire or conservatory while you ponder over the menu. After dinner to complete your evening coffee and petit fours are served in the same comfortable surroundings.</p>
+      <p>Dinner menu &euro;41 including including canap&eacute;s, starter, sorbet, main, dessert, petit fours, tea/coffee.</p>
       <p>Childrens menu is available</p>
-      <p><a href="images/Menu-Spring-2013.pdf" title="Our 2013 Menu" target="_blank">View our 2013 Menu</a></p>
+      <p><a href="sample-menu.pdf" title="Our sample menu" target="_blank">View a sample menu</a></p>
+      <p><a href="opening-hours-2014.pdf" title="opening hours 2014" target="_blank">Opening hours 2014</a></p>
       
       <h2>Our Suppliers</h2>
       
@@ -67,7 +66,7 @@
         </tr>
       </table>
       <div class="centered">
-        <img src="images/rest2013.gif" alt="Featured in Sally McKennas 100 Best Places to Eat in Ireland" class="gallery" />
+        <img src="images/2014BestPlacesToEat.gif" alt="Featured in Sally McKennas 100 Best Places to Eat in Ireland" class="gallery" />
       </div>
     </div><!-- / #rightColumn -->
     

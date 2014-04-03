@@ -31,7 +31,7 @@
       <p>Dunfanaghy and the surrounding area is full of great attractions to suit all ages and tastes.</p>
       <p>
         <ul>
-          <li>The Gallery Craft Shop, Antiques and Paintings</li>
+          <li><a href="http://www.thegallerydunfanaghy.com">The Gallery Craft Shop, Antiques and Paintings</a></li>
           <li><a href="http://www.facebook.com/pages/Greenman-Dunfanaghy/205962555055">The Green Man Deli and Speciality Food</a></li>
           <li><a href="http://www.dunfanaghyworkhouse.ie/" target="_blank">The Workhouse Heritage Centre and Coffee Shop</a></li>
           <li><a href="http://www.mucknmuffins.com/" target="_blank">Muck'n'Muffins Pottery and Coffee Shop</a></li>
@@ -66,6 +66,7 @@
         <ul>
           <li>Happy Tails Dog Sitters, an overnight dog sitting service in Dunfanaghy, contact +353 (0)86 3198636</li>
           <li><a href="http://www.goodhotelguide.com/" target="_blank">The Good Hotel Guide</a></li>
+          <li><a href="http://www.discoverireland.ie/Places-To-Go/Donegal">Donegal on Discover Ireland</a></li>
         </ul>
       </p>
     </div><!-- /#leftColumn -->

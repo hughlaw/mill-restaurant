@@ -11,9 +11,9 @@ echo "<div id='footerLeftColumn'>
         </div>
         <div id='footerRightColumn'>
         <span class='footerText'>Best Restaurant in Donegal 2012 - Restaurant Association of Ireland</span>
-    	<a href='reviews.php'><img src='images/bridgestone2013.jpg' class='bordered' alt='Bridgestone Guide Logo' title='Bridgestone Guide Logo' /></a>
-    	<a href='reviews.php'><img src='images/galleryImages/thumbnails/michelin.jpg' class='bordered' alt='Michelin Guide Logo' title='Michelin Guide Logo' /></a>
-    	<a href='reviews.php'><img src='images/georginaCampbell2013.jpg' class='bordered' alt='Georgina Campbells Good Food Guide' title='Georgina Campbells Good Food Guide' /></a>
+    	<a href='reviews.php'><img src='images/bridgestone2014.jpg' class='bordered' alt='Bridgestone Guide Logo' title='Bridgestone Guide Logo' /></a>
+    	<a href='reviews.php'><img src='images/michelin-accommodation2014.jpg' class='bordered' alt='Michelin Guide Logo' title='Michelin Guide Logo' /></a>
+    	<a href='reviews.php'><img src='images/georginaCampbell2014.jpg' class='bordered' alt='Georgina Campbells Good Food Guide' title='Georgina Campbells Good Food Guide' /></a>
 		<span class='footerText'>Hideaway of the Year - Georgina Campbell Awards 2012</span>
         </div>
 	  ";
