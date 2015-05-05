@@ -57,14 +57,14 @@ caption, th, td {
 
 #container {
 	background:url(../../images/TheMillRestaurantTemplate_01.jpg) repeat-x #E6E6E6;
-	border-left:1px solid #CCCCCC;
-	border-right:1px solid #CCCCCC;
+	border-left:1px solid #dedede;
+	border-right:1px solid #dedede;
 	min-height:100%;
 	width:950px;
 	margin:auto;
-	-webkit-box-shadow: 0px -10px 5px #666;
-	-moz-box-shadow: 0px -10px 5px #666;
-	box-shadow: 0px -10px 5px #666;
+	-webkit-box-shadow: 0px 0px 2px #ddd;
+	-moz-box-shadow: 0px 0px 2px #ddd;
+	box-shadow: 0px 0px 2px #ddd;
 	position:relative;
 	}
 
@@ -73,7 +73,7 @@ caption, th, td {
 	width:1000px;
 	height:100%;
 	margin:0 auto 0 auto;
-	padding-bottom:200px;
+	padding-bottom:260px;
 	}
 	
 #leftColumn, #rightColumn {
@@ -127,7 +127,6 @@ caption, th, td {
 	color:white;
 	text-shadow:1px 1px 1px #999;
 	border-top:1px solid #CCCCCC;
-	height:200px;
 	width:100%;
 	background:#93B6E0 url(../../images/footerBackground_03.jpg) repeat-x;
 	float:none;
@@ -153,11 +152,11 @@ caption, th, td {
 	
 .footerText {
 	display:block;
-	font-size: 0.7em;
-	/*text-align: center;*/
+	font-size:1em;
+	text-align: center;
 	text-transform: uppercase;
-	margin:5px 0;
-	color: #333333;
+	margin:15px 0 5px;
+	color: #363636;
 }
 
 #guides {
@@ -179,13 +178,14 @@ a:hover, a:active {
 	color:#003399;
 }
 
-h1, h2 {
+h1,.h1, h2, .h2 {
 	font-family: "Droid+Serif", "Times New Roman", Helvetica, Verdana, Arial, sans-serif;
 	margin-bottom:18px;
 	font-variant:small-caps;
-	text-shadow:1px 1px 3px #999;
+/* 	text-shadow:1px 1px 3px #999; */
 	font-size: 30px;
-	font-weight: bold;	
+	font-weight: bold;
+	color: #333;
 	}
 
 h3, h3 a:link, h3 a:visited {
@@ -193,7 +193,7 @@ h3, h3 a:link, h3 a:visited {
 	font-size: 20px;
 	font-weight: bold;
 	margin-bottom:10px;
-	text-shadow:1px 1px 3px #999;
+/* 	text-shadow:1px 1px 3px #999; */
 	text-decoration:none;
 	color:white;
 	border:none;
@@ -224,16 +224,16 @@ li {
 	}	
 	
 .scrapbook {
-	-moz-box-shadow: 2px 2px 5px #666;
+	-moz-box-shadow: 2px 2px 2px #ddd;
 	-moz-transform: rotate(-3deg);
-	-webkit-box-shadow: 2px 2px 5px #666;
-	box-shadow: 2px 2px 5px #666;
+	-webkit-box-shadow: 2px 2px 2px #ddd;
+	box-shadow: 2px 2px 2px #ddd;
 	-webkit-transform: rotate(3deg);
-	border:1px solid #CCCCCC;
+	border:1px solid #ccc;
 	padding:3px;
 	margin-right:15px;
 	margin-left:5px;
-	background:#EEEEEE;
+	background:#fff;
 	}
 
 .bordered {
@@ -246,13 +246,13 @@ li {
 }
 
 .gallery {
-	border:1px solid #CCCCCC;
-	background:#EEEEEE;
+	border:1px solid #EDEDED;
+	background:#fff;
 	padding:3px;
 	margin:10px;
-	-webkit-box-shadow:0 0 5px #BBB;
-	-moz-box-shadow:0 0 5px #BBB;
-	box-shadow:0 0 5px #BBB;
+	-webkit-box-shadow:0 0 1px #ddd;
+	-moz-box-shadow:0 0 1px #ddd;
+	box-shadow:0 0 1px #ddd;
 }
 
 .linkBack {
@@ -335,4 +335,8 @@ Helpers
 
 .centered {
   text-align: center;
+}
+
+.cf {
+  clear: both;
 }

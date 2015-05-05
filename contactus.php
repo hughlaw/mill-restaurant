@@ -17,7 +17,7 @@
 <div id="container">
 	<div id="header">
 		<img src="images/header.jpg" alt="Header Image of restaurant and surrounding area" usemap="#Map" />
-        <map name="Map" id="Map"><area shape="rect"  alt="Go back to home page" coords="354,35,595,119" href="#" /></map>	</div>
+        <map name="Map" id="Map"><area shape="rect"  alt="Go back to home page" coords="354,35,595,119" href="/" /></map>	</div>
 	<div id="navigation">
 		<?php include 'navigation.php';	?>
 	</div>
@@ -28,7 +28,7 @@
 				<fieldset>
     				<ul>
     					<label for="phone" class="addresslabels">Tel / Fax:</label>
-    					<li id="phone">+353 (0)74 913 6985</li>
+    					<li id="phone"><a href="tel://+353749136985">+353 (0)74 913 6985<a></li>
     					<label for="address" class="addresslabels">Address:</label>
     					<li id="address">The Mill Restaurant<br />Susan &amp; Derek Alcorn<br />Dunfanaghy<br />Co. Donegal<br />Ireland</li>
     				</ul>
