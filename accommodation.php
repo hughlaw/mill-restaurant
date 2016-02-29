@@ -50,150 +50,130 @@
           <li>Open Thursday – Sunday from 14th October</li>
           <li>Weekends , Fridays and Saturdays  from 4th November-10th December</li>
         </ul>
-
-        <div id="tabs" class="c-tabs no-js">
-          <div class="c-tabs-nav">
-            <a href="#" class="c-tabs-nav__link is-active">Figart</a>
-            <a href="#" class="c-tabs-nav__link">Rinclevin</a>
-            <a href="#" class="c-tabs-nav__link">Casey</a>
-            <a href="#" class="c-tabs-nav__link">Castlebane</a>
-            <a href="#" class="c-tabs-nav__link">Marfagh</a>
-            <a href="#" class="c-tabs-nav__link">Corgannive</a>
-            <a href="#" class="c-tabs-nav__link">The Studio</a>
-          </div>
-          <div class="c-tab is-active">
-            <div class="c-tab__content">
-              <h3>Figart</h3>
-              <ul>
-                <li>168 sq feet</li>
-                <li>Double bed with ensuite bath and shower</li>
-                <li>Lake view</li>
-                <li>Also used for single occupancy</li>
-              </ul>
-              <p><strong>Price:</strong> &euro;50 per person bed &amp; breakfast / &euro;20 single supplement</p>
-            </div>
-          </div>
-          <div class="c-tab">
-            <div class="c-tab__content">
-              <h3>Rinclevin</h3>
-              <ul>
-                <li>137.5 sq feet</li>
-                <li>Double bed with ensuite shower</li>
-                <li>Lake view</li>
-                <li>Also used for single occupancy</li>
-              </ul>
-              <p><strong>Price:</strong> &euro;50 per person bed &amp; breakfast / &euro;20 single supplement</p>
-            </div>
-          </div>
-          <div class="c-tab">
-            <div class="c-tab__content">
-              <h3>Casey</h3>
-              <ul>
-                <li>176 sq feet</li>
-                <li>Kingsize bed with ensuite shower</li>
-                <li>Lake view</li>
-                <li>Nepresso Coffee Machine</li>
-              </ul>
-              <p><strong>Price:</strong> &euro;55 per person bed &amp; breakfast / &euro;20 single supplement</p>
-            </div>
-          </div>
-          <div class="c-tab">
-            <div class="c-tab__content">
-              <h3>Castlebane</h3>
-              <ul>
-                <li>196 sq feet</li>
-                <li>Kingsize sleigh bed with ensuite bath and shower</li>
-                <li>Lake view</li>
-                <li>Nepresso Coffee machine</li>
-              </ul>
-              <p><strong>Price:</strong> &euro;55 per person bed &amp; breakfast / &euro;20 single supplement</p>
-            </div>
-          </div>
-          <div class="c-tab">
-            <div class="c-tab__content">
-              <h3>Marfagh</h3>
-              <ul>
-                <li>187.5 sq feet</li>
-                <li>Double bed and single bed (Twin option)</li>
-                <li>Ensuite bath and shower</li>
-                <li>Overlooking trees</li>
-                <li>Nepresso Coffee machine</li>
-              </ul>
-              <p><strong>Price:</strong> &euro;55 per person bed &amp; breakfast / &euro;20 single supplement</p>
-            </div>
-          </div>
-          <div class="c-tab">
-            <div class="c-tab__content">
-              <h3>Corgannive</h3>
-              <ul>
-                <li>187.5 sq feet</li>
-                <li>Kingsize bed and single bed (twin option)</li>
-                <li>Ensuite bath and shower</li>
-                <li>Nepresso Coffee machine</li>
-              </ul>
-              <p><strong>Price:</strong> &euro;55 per person bed &amp; breakfast / &euro;20 single supplement</p>
-            </div>
-          </div>
-          <div class="c-tab">
-            <div class="c-tab__content">
-              <h3>The Studio</h3>
-              <ul>
-                <li>396 sq feet</li>
-                <li>Kingsize Four poster bed</li>
-                <li>Roll top bath in bedroom</li>
-                <li>Power shower</li>
-                <li>Nepresso Coffee machine</li>
-                <li>Overlooking drive and garden</li>
-                <li>Sitting Area</li>
-              </ul>
-              <p><strong>Price:</strong> &euro;75 per person bed &amp; breakfast / &euro;20 single supplement</p>
-            </div>
-          </div>
-        </div>
-
-
-
-            <p>Breakfast is served in the Dining Room.</p>
-            <h2>Breakfast menu</h2>
-            <h3>Full Irish Breakfast</h3>
-            <p>McGettigan's organic pork sausages &amp; bacon, fried free range egg, potato bread, tomato, Clonakilty black/white pudding, mushrooms.</p>
-            <h3>McGettigan's sausages</h3>
-            <p>McGettigan’s award winning Hickory smoked and Pork sausages with Billie’s homemade potato bread and red onion marmalade.</p>
-            <h3>Organic Porridge</h3>
-            <p>with whiskey &amp; cream / honey &amp; mixed seeds</p>
-            <h3>Pancakes</h3>
-            <p>with crispy bacon &amp; maple syrup / bananas &amp; maple syrup</p>
-            <h3>Eggs benedict</h3>
-            <h3>Smoked fish with poached egg</h3>
-            <h3>Poached egg</h3>
-            <h3>Scrambled eggs with smoked salmon</h3>
-            <h3>Vegetarian breakfast</h3>
-            <p>Vegetarian sausage, tomato, beans, fried organic egg, mushrooms and potato bread.</p>
-            <hr />
-            <p>On arrival, between 4-6pm, you can enjoy a freshly brewed coffee or tea and shortbread in the conservatory.</p>
-            <p>We also provide complimentary wireless Internet access to all our guests.</p>
-            <p>Prices: €48 per person sharing<br />
-            Single Supplement: €12</p>
-            <p>Bookings for the year will be taken from 1st March</p>
-        </div>
+      </div>
     <div id="rightColumn">
-<table style="width:240px; margin:30px auto 0 auto">
-    <tr>
-    	<td><a href="images/galleryImages/121_2153.jpg" rel="lightbox[accommodation]" title="The Mill and New Lake"><img src="images/galleryImages/thumbnails/121_2153.jpg" alt="The Mill and New Lake" title="The Mill and New Lake" class="gallery" /></a></td>
-        <td><a href="images/galleryImages/IMG_0104.jpg" rel="lightbox[accommodation]" title="A room at the Mill"><img src="images/galleryImages/thumbnails/IMG_0104.jpg" alt="A room at the Mill" title="One of the Bedrooms at the Mill" class="gallery" /></a></td>
-    </tr>
-    <tr>
-    <tr>
-    	<td><a href="images/galleryImages/march-2011-085.jpg" rel="lightbox[accommodation]" title="A room at The Mill"><img src="images/galleryImages/thumbnails/march-2011-085.jpg" alt="A Room at The Mill" title="A Room at The Mill" class="gallery" /></a></td>
-        <td><a href="images/galleryImages/march-2011-087.jpg" rel="lightbox[accommodation]" title="A room at the Mill"><img src="images/galleryImages/thumbnails/march-2011-087.jpg" alt="A room at the Mill" title="One of the Bedrooms at the Mill" class="gallery" /></a></td>
-    </tr>
-    <tr>
-    	<td><a href="images/galleryImages/IMG_0106.jpg" rel="lightbox[accommodation]" title="A Room at The Mill"><img src="images/galleryImages/thumbnails/IMG_0106.jpg" alt="A room at the Mill" title="A room at the Mill" class="gallery" /></a></td>
-        <td><a href="images/galleryImages/photos-april-may-09-133.jpg" rel="lightbox[accommodation]" title="Comfortable surroundings"><img src="images/galleryImages/thumbnails/photos-april-may-09-133.jpg" alt="A Room at The Mill" title="A Room at The Mill" class="gallery" /></a></td>
-    </tr>
-    </table>    </div>
-    <div style="clear:both"></div>
-    <div id="footer">
+      <table style="width:240px; margin:30px auto 0 auto">
+        <tr>
+        	<td><a href="images/galleryImages/121_2153.jpg" rel="lightbox[accommodation]" title="The Mill and New Lake"><img src="images/galleryImages/thumbnails/121_2153.jpg" alt="The Mill and New Lake" title="The Mill and New Lake" class="gallery" /></a></td>
+            <td><a href="images/galleryImages/IMG_0104.jpg" rel="lightbox[accommodation]" title="A room at the Mill"><img src="images/galleryImages/thumbnails/IMG_0104.jpg" alt="A room at the Mill" title="One of the Bedrooms at the Mill" class="gallery" /></a></td>
+        </tr>
+        <tr>
+        <tr>
+        	<td><a href="images/galleryImages/march-2011-085.jpg" rel="lightbox[accommodation]" title="A room at The Mill"><img src="images/galleryImages/thumbnails/march-2011-085.jpg" alt="A Room at The Mill" title="A Room at The Mill" class="gallery" /></a></td>
+            <td><a href="images/galleryImages/march-2011-087.jpg" rel="lightbox[accommodation]" title="A room at the Mill"><img src="images/galleryImages/thumbnails/march-2011-087.jpg" alt="A room at the Mill" title="One of the Bedrooms at the Mill" class="gallery" /></a></td>
+        </tr>
+        <tr>
+      	<td><a href="images/galleryImages/IMG_0106.jpg" rel="lightbox[accommodation]" title="A Room at The Mill"><img src="images/galleryImages/thumbnails/IMG_0106.jpg" alt="A room at the Mill" title="A room at the Mill" class="gallery" /></a></td>
+          <td><a href="images/galleryImages/photos-april-may-09-133.jpg" rel="lightbox[accommodation]" title="Comfortable surroundings"><img src="images/galleryImages/thumbnails/photos-april-may-09-133.jpg" alt="A Room at The Mill" title="A Room at The Mill" class="gallery" /></a></td>
+      </tr>
+      </table>
+    </div>
+  </div>
+  <div style="clear:both"></div>
+
+  <div id="tabs" class="c-tabs no-js">
+    <div class="c-tabs-nav">
+      <a href="#" class="c-tabs-nav__link is-active">Figart</a>
+      <a href="#" class="c-tabs-nav__link">Rinclevin</a>
+      <a href="#" class="c-tabs-nav__link">Casey</a>
+      <a href="#" class="c-tabs-nav__link">Castlebane</a>
+      <a href="#" class="c-tabs-nav__link">Marfagh</a>
+      <a href="#" class="c-tabs-nav__link">Corgannive</a>
+      <a href="#" class="c-tabs-nav__link">The Studio</a>
+    </div>
+    <div class="c-tab is-active">
+      <div class="c-tab__content">
+        <h3>Figart</h3>
+        <ul>
+          <li>168 sq feet</li>
+          <li>Double bed with ensuite bath and shower</li>
+          <li>Lake view</li>
+          <li>Also used for single occupancy</li>
+        </ul>
+        <p><strong>Price:</strong> &euro;50 per person bed &amp; breakfast / &euro;20 single supplement</p>
+      </div>
+    </div>
+    <div class="c-tab">
+      <div class="c-tab__content">
+        <h3>Rinclevin</h3>
+        <ul>
+          <li>137.5 sq feet</li>
+          <li>Double bed with ensuite shower</li>
+          <li>Lake view</li>
+          <li>Also used for single occupancy</li>
+        </ul>
+        <p><strong>Price:</strong> &euro;50 per person bed &amp; breakfast / &euro;20 single supplement</p>
+      </div>
+    </div>
+    <div class="c-tab">
+      <div class="c-tab__content">
+        <h3>Casey</h3>
+        <ul>
+          <li>176 sq feet</li>
+          <li>Kingsize bed with ensuite shower</li>
+          <li>Lake view</li>
+          <li>Nepresso Coffee Machine</li>
+        </ul>
+        <p><strong>Price:</strong> &euro;55 per person bed &amp; breakfast / &euro;20 single supplement</p>
+      </div>
+    </div>
+    <div class="c-tab">
+      <div class="c-tab__content">
+        <h3>Castlebane</h3>
+        <ul>
+          <li>196 sq feet</li>
+          <li>Kingsize sleigh bed with ensuite bath and shower</li>
+          <li>Lake view</li>
+          <li>Nepresso Coffee machine</li>
+        </ul>
+        <p><strong>Price:</strong> &euro;55 per person bed &amp; breakfast / &euro;20 single supplement</p>
+      </div>
+    </div>
+    <div class="c-tab">
+      <div class="c-tab__content">
+        <h3>Marfagh</h3>
+        <ul>
+          <li>187.5 sq feet</li>
+          <li>Double bed and single bed (Twin option)</li>
+          <li>Ensuite bath and shower</li>
+          <li>Overlooking trees</li>
+          <li>Nepresso Coffee machine</li>
+        </ul>
+        <p><strong>Price:</strong> &euro;55 per person bed &amp; breakfast / &euro;20 single supplement</p>
+      </div>
+    </div>
+    <div class="c-tab">
+      <div class="c-tab__content">
+        <h3>Corgannive</h3>
+        <ul>
+          <li>187.5 sq feet</li>
+          <li>Kingsize bed and single bed (twin option)</li>
+          <li>Ensuite bath and shower</li>
+          <li>Nepresso Coffee machine</li>
+        </ul>
+        <p><strong>Price:</strong> &euro;55 per person bed &amp; breakfast / &euro;20 single supplement</p>
+      </div>
+    </div>
+    <div class="c-tab">
+      <div class="c-tab__content">
+        <h3>The Studio</h3>
+        <ul>
+          <li>396 sq feet</li>
+          <li>Kingsize Four poster bed</li>
+          <li>Roll top bath in bedroom</li>
+          <li>Power shower</li>
+          <li>Nepresso Coffee machine</li>
+          <li>Overlooking drive and garden</li>
+          <li>Sitting Area</li>
+        </ul>
+        <p><strong>Price:</strong> &euro;75 per person bed &amp; breakfast / &euro;20 single supplement</p>
+      </div>
+    </div>
+  </div>
+
+  <div style="clear:both"></div>
+
+  <div id="footer">
     <?php include 'footer.php';	?>
 	</div>
 </div>
