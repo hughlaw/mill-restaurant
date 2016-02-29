@@ -8,6 +8,7 @@
 <link href='http://fonts.googleapis.com/css?family=Droid+Serif' rel='stylesheet' type='text/css' />
 <link href="css/screen/mainStyleSheet.css" rel="stylesheet" type="text/css" />
 <link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="css/tabs.css" media="screen">
 <!--[if IE 7]>
 <link rel="stylesheet" type="text/css" href="http://www.themillrestaurant.com/css/screen/IE.css" media="screen" />
 <![endif]-->
@@ -15,6 +16,8 @@
 <script type="text/javascript" src="js/prototype.js"></script>
 <script type="text/javascript" src="js/scriptaculous.js?load=effects,builder"></script>
 <script type="text/javascript" src="js/lightbox.js"></script>
+<script src="js/tabs.js" charset="utf-8"></script>
+
 </head>
 
   <body>
@@ -36,44 +39,155 @@
           <p>Our restaurant, seating 30 people, offers our customers a very special evening, starting the six course dinner menu with canapés and aperitifs at the turf fire or in the conservatory and ending with tea/coffee and petit fours in the same comfortable surroundings.</p>
           <p>We have a great small local team to help us. We offer local craft beers and a small interesting wine list.</p>
           <p>Reservations for the year are taken form 1st March.</p>
-          <p><a href="sample-menu.pdf" title="Our sample menu" target="_blank">View a sample menu</a></p>
-          <p><a href="opening-hours-2015.pdf" title="opening hours 2015" target="_blank">Opening hours 2015</a></p>
-
-          <h2>Our suppliers</h2>
-          <p>Our small local producers include:</p>
-          <ul>
-            <li><b>Thomas Alcorn , Horn Head, Dunfanaghy (Derek’s brother) supplies Lamb and Beef, (Hereford and Dexter)</b></li>
-            <li><b>Richard Alcorn, Horn Head, Dunfanaghy (Derek’s nephew) supplies Kid goat</b></li>
-            <li><b>Ivan McElhinney, Dunfanaghy supplies shellfish, Pollock and Mackerel</b></li>
-            <li><b>An LAN teo, Killult, Falcarragh supplies Organic Vegetables</b><br />
-            "The Glasshouses" as it is known locally, is a horticultural project which uses organic methods to produce high quality fruit, vegetables and herbs, made available to the local community through shops, restaurants, and plant sales. The centre includes a one acre Glasshouse, several large polytunnels and an extensive area of arable land. It is run by a community based company; Lárionad Acmhainní Nádúrtha Teoranta (LAN Teo.) ~ Centre for Natural Resources.</li>
-            <li><b>Mulroy Bay Mussels, Mulroy Bay</b><br />
-            A family run business supplying mussels for over thirty years.</li>
-            </li>
-            <li><b>Donegal Rapeseed Oil Company</b></br />
-              Located in Raphoe, Co. Donegal. They are a small, locally owned and operated company in Donegal. Their crops are grown by specially selected, individual, small farm holdings dispersed throughout the county.</li>
-          </ul>
-
         </div><!-- / #leftColumn -->
 
         <div id="rightColumn">
           <table style="width:240px; margin:30px auto 0 auto">
             <tr>
-              <td><a href="images/galleryImages/Deep-fried-oysters-&amp;-grilled-mackle.jpg" rel="lightbox[homepage]" title="Deep Fried Oysters and Grilled Mackerel"><img src="images/galleryImages/thumbnails/Deep-fried-oysters-&amp;-grilled-mackle.jpg" alt="Deep Fried Oysters and Grilled Mackerel" title="Deep Fried Oysters and Grilled Mackerel" class="gallery" /></a></td>
-              <td><a href="images/galleryImages/015.jpg" rel="lightbox[homepage]" title=" "><img src="images/galleryImages/thumbnails/015.jpg" alt="picture of food" title="picture of food" class="gallery" /></a></td>
+              <td>
+                <a href="images/galleryImages/Deep-fried-oysters-&amp;-grilled-mackle.jpg" rel="lightbox[homepage]" title="Deep Fried Oysters and Grilled Mackerel"><img src="images/galleryImages/thumbnails/Deep-fried-oysters-&amp;-grilled-mackle.jpg" alt="Deep Fried Oysters and Grilled Mackerel" title="Deep Fried Oysters and Grilled Mackerel" class="gallery" /></a>
+              </td>
+              <td>
+                <a href="images/galleryImages/015.jpg" rel="lightbox[homepage]" title=" "><img src="images/galleryImages/thumbnails/015.jpg" alt="picture of food" title="picture of food" class="gallery" /></a>
+              </td>
             </tr>
             <tr>
-              <td><a href="images/galleryImages/Untitled_035.jpg" rel="lightbox[homepage]" title=" "><img src="images/galleryImages/thumbnails/Untitled_035.jpg" alt="picture of food" title="Picture of food" class="gallery" /></a></td>
-              <td><a href="images/galleryImages/Untitled_044.jpg" rel="lightbox[homepage]" title="Pudding"><img src="images/galleryImages/thumbnails/Untitled_044.jpg" alt="Chocolate Pudding" title="Chocolate Pudding" class="gallery" /></a></td>
+              <td>
+                <a href="images/galleryImages/Untitled_035.jpg" rel="lightbox[homepage]" title=" "><img src="images/galleryImages/thumbnails/Untitled_035.jpg" alt="picture of food" title="Picture of food" class="gallery" /></a>
+              </td>
+              <td>
+                <a href="images/galleryImages/Untitled_044.jpg" rel="lightbox[homepage]" title="Pudding"><img src="images/galleryImages/thumbnails/Untitled_044.jpg" alt="Chocolate Pudding" title="Chocolate Pudding" class="gallery" /></a>
+              </td>
             </tr>
           </table>
         </div><!-- / #rightColumn -->
 
         <div style="clear:both"></div>
+
+        <div id="tabs" class="c-tabs no-js">
+          <div class="c-tabs-nav">
+            <a href="#" class="c-tabs-nav__link is-active">Dinner menu</a>
+            <a href="#" class="c-tabs-nav__link">Breakfast menu</a>
+            <!-- <a href="#" class="c-tabs-nav__link">Wine list</a> -->
+            <a href="#" class="c-tabs-nav__link">Local producers</a>
+          </div>
+          <div class="c-tab is-active">
+            <div class="c-tab__content">
+              <h3>Sample dinner menu</h3>
+              <h4>To begin</h4>
+              <ul>
+                <li><b>Horn Head Kid Goat</b><br />
+                Roast slow cooked Cleggan Goat with saute new potatoes, smoked bacon and
+                red onion marmalade.</li>
+                <li><b>Quails eggs</b><br />
+                Feuillete of poached Quail eggs, crisp Boille goats cheese and Hollandaise
+                sauce.
+                <li><b>Pea and Ham soup</b><br />
+                Pea and honey Ham salad with pea soup and crispy egg.</li>
+                <li><b>Leitermacaward Oysters & Home cured Salmon.</b><br />
+                Crispy oysters with cured Organic salmon, celeriac remoulade and a ginger &
+                garlic dressing.</li>
+                <li><b>Arch Lobster raviolo</b><br />
+                Raviolo with Lobster, crab, Scallop and sweetcorn in a brandy cream sauce.</li>
+                <li><b>Irish Rabbit</b><br />
+                Loin of Irish rabbit with rabbit spring roll, cous cous, mushrooms & pistachio</li>
+              </ul>
+
+              <h4>Something refreshing</h4>
+              <ul>
+                <li>Passionfruit sorbet</li>
+              </ul>
+
+              <h4>To follow</h4>
+              <ul>
+                <li><b>Killybegs Seabass</b><br />
+                Grilled fillets of Seabass , saute smoked bacon, red chicory, celeriac and a red wine sauce.</li>
+                <li><b>Greencastle Halibut</b><br />
+                Grilled Halibut with a sweet pepper risotto, clam butter sauce &amp; purple sprouting broccoli.</li>
+                <li><b>Butternut squash Raviolo</b><br />
+                Raviolo with cous cous, roast spring vegetables and a sage butter sauce.</li>
+                <li><b>Monaghan Duck</b><br />
+                Pan-roast duck with sweet potato fondant, green beans and cherry brandy sauce.</li>
+                <li><b>Horn Head Dexter Beef</b><br />
+                Dexter Beef steak, pomme anna and mushroom puree with slow cooked shin.</li>
+                <li><b>Arch Lamb</b><br />
+                Loin, shoulder and liver of lamb with kale compote, dauphinoise potatoes, roscoff onions &amp; lamb jus.</li>
+                <li><b>Ballyare Pork &amp; Seared scallops</b><br />
+                Crisp pork belly &amp; scallops with Black pudding and cauliflower puree.</li>
+              </ul>
+
+              <h4>Sides</h4>
+              <ul>
+                <li>Crispy fat chips</li>
+                <li>Organic leaf salad with coriander &amp; coconut dressing</li>
+                <li>Roast vegetables</li>
+              </ul>
+
+              <p>All main courses are served with vegetables and a side potato dish. Please inform us of any allergies as not all components of the dish are mentioned</p>
+
+            </div>
+          </div>
+          <div class="c-tab">
+            <div class="c-tab__content">
+              <h3>Breakfast menu</h3>
+              <ul>
+                <li><b>Full Irish Breakfast</b><br />
+                McGettigan's organic pork sausages &amp; bacon, fried free range egg, potato bread, tomato, Clonakilty black/white pudding, mushrooms.</li>
+                <li><b>McGettigan's sausages</b><br />
+                McGettigan’s award winning Hickory smoked and Pork sausages with Billie’s homemade potato bread and red onion marmalade.</li>
+                <li><b>Organic Porridge</b><br />
+                with whiskey &amp; cream / honey &amp; mixed seeds</li>
+                <li><b>Pancakes</b><br />
+                with crispy bacon &amp; maple syrup / bananas &amp; maple syrup</li>
+                <li><b>Eggs benedict</li>
+                <li><b>Smoked fish with poached egg</li>
+                <li><b>Poached egg</li>
+                <li><b>Scrambled eggs with smoked salmon</li>
+                <li><b>Vegetarian breakfast</b><br />
+                Vegetarian sausage, tomato, beans, fried organic egg, mushrooms and potato bread.</li>
+              </ul>
+            </div>
+          </div>
+          <!-- <div class="c-tab">
+            <div class="c-tab__content">
+              <h3>Wine list</h3>
+
+            </div>
+          </div> -->
+          <div class="c-tab">
+            <div class="c-tab__content">
+              <h3>Local producers</h3>
+              <p>Our small local producers include:</p>
+              <ul>
+                <li><b>Thomas Alcorn , Horn Head, Dunfanaghy (Derek’s brother) supplies Lamb and Beef, (Hereford and Dexter)</b></li>
+                <li><b>Richard Alcorn, Horn Head, Dunfanaghy (Derek’s nephew) supplies Kid goat</b></li>
+                <li><b>Ivan McElhinney, Dunfanaghy supplies shellfish, Pollock and Mackerel</b></li>
+                <li><b>An LAN teo, Killult, Falcarragh supplies Organic Vegetables</b><br />
+                "The Glasshouses" as it is known locally, is a horticultural project which uses organic methods to produce high quality fruit, vegetables and herbs, made available to the local community through shops, restaurants, and plant sales. The centre includes a one acre Glasshouse, several large polytunnels and an extensive area of arable land. It is run by a community based company; Lárionad Acmhainní Nádúrtha Teoranta (LAN Teo.) ~ Centre for Natural Resources.</li>
+                <li><b>Mulroy Bay Mussels, Mulroy Bay</b><br />
+                A family run business supplying mussels for over thirty years.</li>
+                </li>
+                <li><b>Donegal Rapeseed Oil Company</b></br />
+                  Located in Raphoe, Co. Donegal. They are a small, locally owned and operated company in Donegal. Their crops are grown by specially selected, individual, small farm holdings dispersed throughout the county.</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
         <div id="footer">
           <?php include 'footer.php';	?>
         </div>
       </div>
     </div>
+
+    <script>
+      var myTabs = tabs({
+        el: '#tabs',
+        tabNavigationLinks: '.c-tabs-nav__link',
+        tabContentContainers: '.c-tab'
+      });
+      myTabs.init();
+    </script>
+
   </body>
 </html>
