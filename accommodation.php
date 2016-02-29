@@ -8,6 +8,7 @@
 <link href='http://fonts.googleapis.com/css?family=Droid+Serif' rel='stylesheet' type='text/css' />
 <link href="css/screen/mainStyleSheet.css" rel="stylesheet" type="text/css" />
 <link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="css/tabs.css" media="screen">
 <!--[if IE 7]>
 <link rel="stylesheet" type="text/css" href="http://www.themillrestaurant.com/css/screen/IE.css" media="screen" />
 <![endif]-->
@@ -15,6 +16,7 @@
 <script type="text/javascript" src="js/prototype.js"></script>
 <script type="text/javascript" src="js/scriptaculous.js?load=effects,builder"></script>
 <script type="text/javascript" src="js/lightbox.js"></script>
+<script src="js/tabs.js" charset="utf-8"></script>
 </head>
 
 <body>
@@ -27,8 +29,130 @@
 	</div>
 	<div id="mainContentContainer">
 		<div id="leftColumn">
-    		<h1>Accommodation</h1>
-    		<p>Our six en-suite bedrooms have been carefully decorated and combine antique furnishings with modern facilities, telephone, television, hairdryer, tea/coffee making facilities and homemade oatmeal cookies, complimentary water and complimentary wine. The result is a mixture of comfort and charm which is evident throughout the house.</p>
+    		<h1>Rooms</h1>
+    		<p>Our seven bedrooms are individually decorated and named after our nearby townlands with the exception of The Studio, which was where my grandfather painted, our new addition for 2016.</p>
+        <p>Check in is from 4pm and Check out is 11am. On arrival tea/coffee and homemade shortbread is served in the conservatory, a lovely relaxed beginning to your stay with us. Breakfast is served in the restaurant from 8.30am-9.30am. Rooms have individual thermostats, hairdryers, televisions and use of DVD player and selection of DVDs. Bookings for the year are taken from 1st March.</p>
+
+        <p>All rooms have complimentary:</p>
+        <ul>
+          <li>Tea/coffee making facilities (larger rooms have Nepresso machines)</li>
+          <li>Homemade oat biscuits</li>
+          <li>Bottled Irish water</li>
+          <li>Wine</li>
+        </ul>
+
+        <h3>Opening times </h3>
+        <ul>
+          <li>St.Patricks weekend, 18th, 19th and 20th March</li>
+          <li>Easter  24th March -2nd April</li>
+          <li>Weekends, Fridays and Saturdays during April</li>
+          <li>Open every night from 1st May – 1st October</li>
+          <li>Open Thursday – Sunday from 14th October</li>
+          <li>Weekends , Fridays and Saturdays  from 4th November-10th December</li>
+        </ul>
+
+        <div id="tabs" class="c-tabs no-js">
+          <div class="c-tabs-nav">
+            <a href="#" class="c-tabs-nav__link is-active">Figart</a>
+            <a href="#" class="c-tabs-nav__link">Rinclevin</a>
+            <a href="#" class="c-tabs-nav__link">Casey</a>
+            <a href="#" class="c-tabs-nav__link">Castlebane</a>
+            <a href="#" class="c-tabs-nav__link">Marfagh</a>
+            <a href="#" class="c-tabs-nav__link">Corgannive</a>
+            <a href="#" class="c-tabs-nav__link">The Studio</a>
+          </div>
+          <div class="c-tab is-active">
+            <div class="c-tab__content">
+              <h3>Figart</h3>
+              <ul>
+                <li>168 sq feet</li>
+                <li>Double bed with ensuite bath and shower</li>
+                <li>Lake view</li>
+                <li>Also used for single occupancy</li>
+              </ul>
+              <p><strong>Price:</strong> &euro;50 per person bed &amp; breakfast / &euro;20 single supplement</p>
+            </div>
+          </div>
+          <div class="c-tab">
+            <div class="c-tab__content">
+              <h3>Rinclevin</h3>
+              <ul>
+                <li>137.5 sq feet</li>
+                <li>Double bed with ensuite shower</li>
+                <li>Lake view</li>
+                <li>Also used for single occupancy</li>
+              </ul>
+              <p><strong>Price:</strong> &euro;50 per person bed &amp; breakfast / &euro;20 single supplement</p>
+            </div>
+          </div>
+          <div class="c-tab">
+            <div class="c-tab__content">
+              <h3>Casey</h3>
+              <ul>
+                <li>176 sq feet</li>
+                <li>Kingsize bed with ensuite shower</li>
+                <li>Lake view</li>
+                <li>Nepresso Coffee Machine</li>
+              </ul>
+              <p><strong>Price:</strong> &euro;55 per person bed &amp; breakfast / &euro;20 single supplement</p>
+            </div>
+          </div>
+          <div class="c-tab">
+            <div class="c-tab__content">
+              <h3>Castlebane</h3>
+              <ul>
+                <li>196 sq feet</li>
+                <li>Kingsize sleigh bed with ensuite bath and shower</li>
+                <li>Lake view</li>
+                <li>Nepresso Coffee machine</li>
+              </ul>
+              <p><strong>Price:</strong> &euro;55 per person bed &amp; breakfast / &euro;20 single supplement</p>
+            </div>
+          </div>
+          <div class="c-tab">
+            <div class="c-tab__content">
+              <h3>Marfagh</h3>
+              <ul>
+                <li>187.5 sq feet</li>
+                <li>Double bed and single bed (Twin option)</li>
+                <li>Ensuite bath and shower</li>
+                <li>Overlooking trees</li>
+                <li>Nepresso Coffee machine</li>
+              </ul>
+              <p><strong>Price:</strong> &euro;55 per person bed &amp; breakfast / &euro;20 single supplement</p>
+            </div>
+          </div>
+          <div class="c-tab">
+            <div class="c-tab__content">
+              <h3>Corgannive</h3>
+              <ul>
+                <li>187.5 sq feet</li>
+                <li>Kingsize bed and single bed (twin option)</li>
+                <li>Ensuite bath and shower</li>
+                <li>Nepresso Coffee machine</li>
+              </ul>
+              <p><strong>Price:</strong> &euro;55 per person bed &amp; breakfast / &euro;20 single supplement</p>
+            </div>
+          </div>
+          <div class="c-tab">
+            <div class="c-tab__content">
+              <h3>The Studio</h3>
+              <ul>
+                <li>396 sq feet</li>
+                <li>Kingsize Four poster bed</li>
+                <li>Roll top bath in bedroom</li>
+                <li>Power shower</li>
+                <li>Nepresso Coffee machine</li>
+                <li>Overlooking drive and garden</li>
+                <li>Sitting Area</li>
+              </ul>
+              <p><strong>Price:</strong> &euro;75 per person bed &amp; breakfast / &euro;20 single supplement</p>
+            </div>
+          </div>
+        </div>
+
+
+
             <p>Breakfast is served in the Dining Room.</p>
             <h2>Breakfast menu</h2>
             <h3>Full Irish Breakfast</h3>
@@ -73,5 +197,13 @@
     <?php include 'footer.php';	?>
 	</div>
 </div>
+<script>
+  var myTabs = tabs({
+    el: '#tabs',
+    tabNavigationLinks: '.c-tabs-nav__link',
+    tabContentContainers: '.c-tab'
+  });
+  myTabs.init();
+</script>
 </body>
 </html>
