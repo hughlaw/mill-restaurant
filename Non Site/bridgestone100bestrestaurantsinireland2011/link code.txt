@@ -1,8 +1,0 @@
-<!-- copy 
-from the start of this line --> <!-- THE BRIDGESTONE BEST IN IRELAND AWARD 
---> <a href="http://www.bridgestoneguides.com">
-<img 
-src="http://www.bestofbridgestone.com/logos/bridgestoneplaque2011.jpg" 
-width="160" height="150" alt="THE BRIDGESTONE BEST IN 
-IRELAND AWARD" border="0"></a> <!-- Thank you --> 
-<!-- copy to the end of this line --> 
