@@ -12,7 +12,6 @@
 <!--[if IE 7]>
 <link rel="stylesheet" type="text/css" href="http://www.themillrestaurant.com/css/screen/IE.css" media="screen" />
 <![endif]-->
-
 <script type="text/javascript" src="js/prototype.js"></script>
 <script type="text/javascript" src="js/scriptaculous.js?load=effects,builder"></script>
 <script type="text/javascript" src="js/lightbox.js"></script>
@@ -21,49 +20,49 @@
 
 <body>
 <div id="container">
-	<div id="header">
-		<img src="images/header.jpg" alt="Header Image of restaurant and surrounding area" usemap="#Map" />
-        <map name="Map" id="Map"><area shape="rect"  alt="Go back to home page" coords="354,35,595,119" href="/" /></map>	</div>
-	<div id="navigation">
-		<?php include 'navigation.php';	?>
-	</div>
-	<div id="mainContentContainer">
-		<div id="leftColumn">
-    		<h1>Rooms</h1>
-    		<p>Our seven bedrooms are individually decorated and named after our nearby townlands with the exception of The Studio, which was where my grandfather painted, our new addition for 2016.</p>
-        <p>Check in is from 4pm and Check out is 11am. On arrival tea/coffee and homemade shortbread is served in the conservatory, a lovely relaxed beginning to your stay with us. Breakfast is served in the restaurant from 8.30am-9.30am. Rooms have individual thermostats, hairdryers, televisions and use of DVD player and selection of DVDs. Bookings for the year are taken from 1st March.</p>
+  <div id="header">
+    <img src="images/header.jpg" alt="Header Image of restaurant and surrounding area" usemap="#Map" />
+        <map name="Map" id="Map"><area shape="rect"  alt="Go back to home page" coords="354,35,595,119" href="/" /></map>  </div>
+  <div id="navigation">
+    <?php include 'navigation.php';  ?>
+  </div>
+  <div id="mainContentContainer">
+    <div id="leftColumn">
+      <h1>Rooms</h1>
+      <p>Our seven bedrooms are individually decorated and named after our nearby townlands with the exception of The Studio, which was where my grandfather painted, our new addition for 2016.</p>
+      <p>Check in is from 4pm and Check out is 11am. On arrival tea/coffee and homemade shortbread is served in the conservatory, a lovely relaxed beginning to your stay with us. Breakfast is served in the restaurant from 8.30am-9.30am. Rooms have individual thermostats, hairdryers, televisions and use of DVD player and selection of DVDs. Bookings for the year are taken from 1st March.</p>
 
-        <p>All rooms have complimentary:</p>
-        <ul>
-          <li>Tea/coffee making facilities (larger rooms have Nepresso machines)</li>
-          <li>Homemade oat biscuits</li>
-          <li>Bottled Irish water</li>
-          <li>Wine</li>
-        </ul>
+      <p>All rooms have complimentary:</p>
+      <ul>
+        <li>Tea/coffee making facilities (larger rooms have Nepresso machines)</li>
+        <li>Homemade oat biscuits</li>
+        <li>Bottled Irish water</li>
+        <li>Wine</li>
+      </ul>
 
-        <h3>Opening times </h3>
-        <ul>
-          <li>St.Patricks weekend, 18th, 19th and 20th March</li>
-          <li>Easter  24th March -2nd April</li>
-          <li>Weekends, Fridays and Saturdays during April</li>
-          <li>Open every night from 1st May – 1st October</li>
-          <li>Open Thursday – Sunday from 14th October</li>
-          <li>Weekends , Fridays and Saturdays  from 4th November-10th December</li>
-        </ul>
-      </div>
+      <h3>Opening times </h3>
+      <ul>
+        <li>St.Patricks weekend, 18th, 19th and 20th March</li>
+        <li>Easter  24th March -2nd April</li>
+        <li>Weekends, Fridays and Saturdays during April</li>
+        <li>Open every night from 1st May – 1st October</li>
+        <li>Open Thursday – Sunday from 14th October</li>
+        <li>Weekends , Fridays and Saturdays  from 4th November-10th December</li>
+      </ul>
+    </div>
     <div id="rightColumn">
       <table style="width:240px; margin:30px auto 0 auto">
         <tr>
-        	<td><a href="images/galleryImages/121_2153.jpg" rel="lightbox[accommodation]" title="The Mill and New Lake"><img src="images/galleryImages/thumbnails/121_2153.jpg" alt="The Mill and New Lake" title="The Mill and New Lake" class="gallery" /></a></td>
+          <td><a href="images/galleryImages/121_2153.jpg" rel="lightbox[accommodation]" title="The Mill and New Lake"><img src="images/galleryImages/thumbnails/121_2153.jpg" alt="The Mill and New Lake" title="The Mill and New Lake" class="gallery" /></a></td>
             <td><a href="images/galleryImages/IMG_0104.jpg" rel="lightbox[accommodation]" title="A room at the Mill"><img src="images/galleryImages/thumbnails/IMG_0104.jpg" alt="A room at the Mill" title="One of the Bedrooms at the Mill" class="gallery" /></a></td>
         </tr>
         <tr>
         <tr>
-        	<td><a href="images/galleryImages/march-2011-085.jpg" rel="lightbox[accommodation]" title="A room at The Mill"><img src="images/galleryImages/thumbnails/march-2011-085.jpg" alt="A Room at The Mill" title="A Room at The Mill" class="gallery" /></a></td>
+          <td><a href="images/galleryImages/march-2011-085.jpg" rel="lightbox[accommodation]" title="A room at The Mill"><img src="images/galleryImages/thumbnails/march-2011-085.jpg" alt="A Room at The Mill" title="A Room at The Mill" class="gallery" /></a></td>
             <td><a href="images/galleryImages/march-2011-087.jpg" rel="lightbox[accommodation]" title="A room at the Mill"><img src="images/galleryImages/thumbnails/march-2011-087.jpg" alt="A room at the Mill" title="One of the Bedrooms at the Mill" class="gallery" /></a></td>
         </tr>
         <tr>
-      	<td><a href="images/galleryImages/IMG_0106.jpg" rel="lightbox[accommodation]" title="A Room at The Mill"><img src="images/galleryImages/thumbnails/IMG_0106.jpg" alt="A room at the Mill" title="A room at the Mill" class="gallery" /></a></td>
+        <td><a href="images/galleryImages/IMG_0106.jpg" rel="lightbox[accommodation]" title="A Room at The Mill"><img src="images/galleryImages/thumbnails/IMG_0106.jpg" alt="A room at the Mill" title="A room at the Mill" class="gallery" /></a></td>
           <td><a href="images/galleryImages/photos-april-may-09-133.jpg" rel="lightbox[accommodation]" title="Comfortable surroundings"><img src="images/galleryImages/thumbnails/photos-april-may-09-133.jpg" alt="A Room at The Mill" title="A Room at The Mill" class="gallery" /></a></td>
       </tr>
       </table>
@@ -174,8 +173,8 @@
   <div style="clear:both"></div>
 
   <div id="footer">
-    <?php include 'footer.php';	?>
-	</div>
+    <?php include 'footer.php';  ?>
+  </div>
 </div>
 <script>
   var myTabs = tabs({
