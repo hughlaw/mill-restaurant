@@ -29,42 +29,30 @@
       <div id="mainContentContainer">
         <div id="leftColumn">
           <h1>Restaurant</h1>
-          <p>The restaurant is a split level room overlooking the new lake. It is a small friendly restaurant offering a relaxing but efficient service. Dinner is served between 7pm and 9pm, Tuesday to Sunday. The dinner menu changes seasonally using fresh produce from the local area. Derek and his small team produce food with a modern irish flavour, with an emphasis on local seafood and shellfish. We have a wine license offering wine, sherry, port and bottled beer.</p>
-          <p>To make your evening special, we welcome you to enjoy an aperitif at the open fire or conservatory while you ponder over the menu. After dinner to complete your evening coffee and petit fours are served in the same comfortable surroundings.</p>
-          <p>Dinner menu &euro;42.50pp including including canap&eacute;s, starter, sorbet, main, dessert, petit fours, tea/coffee.</p>
-          <p>Childrens menu is available</p>
+          <blockquote class="main-quote">simple deliciousness</blockquote>
+          <cite>The Sunday Times, Irelands Top 100 restaurants, The McKenna Guide 2016</cite>
+          <div style="clear:both"></div>
+          <p>We are very proud to be part of this infamous list since 2001, having always had an emphasis on local produce, the majority of our suppliers come from within a ten mile radius.</p>
+          <p>Our restaurant, seating 30 people, offers our customers a very special evening, starting the six course dinner menu with canapés and aperitifs at the turf fire or in the conservatory and ending with tea/coffee and petit fours in the same comfortable surroundings.</p>
+          <p>We have a great small local team to help us. We offer local craft beers and a small interesting wine list.</p>
+          <p>Reservations for the year are taken form 1st March.</p>
           <p><a href="sample-menu.pdf" title="Our sample menu" target="_blank">View a sample menu</a></p>
           <p><a href="opening-hours-2015.pdf" title="opening hours 2015" target="_blank">Opening hours 2015</a></p>
 
-          <h2>Our Suppliers</h2>
-
-          <p>Most of our produce is sourced locally, the majority within a three mile radius.</p>
-            <p>Our small local producers include</p>
+          <h2>Our suppliers</h2>
+          <p>Our small local producers include:</p>
           <ul>
-            <li>Thomas Alcorn (Derek’s brother) supplies Lamb and Beef, (Hereford and Dexter).</li>
-            <li>Richard Alcorn (Derek’s nephew) supplies Kid goat.</li>
-            <li>Ivan McElhinney supplies shellfish, Pollock and Mackerel</li>
-            <li>Stephen Kerr (Butcher)</li>
-            <li>Carrigart Turf Smoked Salmon</li>
+            <li><b>Thomas Alcorn , Horn Head, Dunfanaghy (Derek’s brother) supplies Lamb and Beef, (Hereford and Dexter)</b></li>
+            <li><b>Richard Alcorn, Horn Head, Dunfanaghy (Derek’s nephew) supplies Kid goat</b></li>
+            <li><b>Ivan McElhinney, Dunfanaghy supplies shellfish, Pollock and Mackerel</b></li>
+            <li><b>An LAN teo, Killult, Falcarragh supplies Organic Vegetables</b><br />
+            "The Glasshouses" as it is known locally, is a horticultural project which uses organic methods to produce high quality fruit, vegetables and herbs, made available to the local community through shops, restaurants, and plant sales. The centre includes a one acre Glasshouse, several large polytunnels and an extensive area of arable land. It is run by a community based company; Lárionad Acmhainní Nádúrtha Teoranta (LAN Teo.) ~ Centre for Natural Resources.</li>
+            <li><b>Mulroy Bay Mussels, Mulroy Bay</b><br />
+            A family run business supplying mussels for over thirty years.</li>
+            </li>
+            <li><b>Donegal Rapeseed Oil Company</b></br />
+              Located in Raphoe, Co. Donegal. They are a small, locally owned and operated company in Donegal. Their crops are grown by specially selected, individual, small farm holdings dispersed throughout the county.</li>
           </ul>
-          <p>Other larger suppliers include:</p>
-
-          <h3>BD Foods</h3>
-          <p>BD Foods began as a small business in the 1980’s. With an aim to supply a large range of food products to the food service sector in Ireland.They provide fine foods with an emphasis on fresh chilled products and specialty provisions. They are based at Glaslough, Co. Monaghan.</p>
-
-          <h3>Albatross Seafoods</h3>
-          <p>Albatross Seafoods is in the seafood business for over twenty years, buying fresh fish from boats fishing in the North East Atlantic and processing it in our custom built factory. They provide a range of services to their customers from telesales advice on products, special offers and best fish for each season.</p>
-
-          <h3>The Glasshouses, Killult</h3>
-          <p>"The Glasshouses" as it is known locally, is a horticultural project which uses organic methods to produce high quality fruit, vegetables and herbs, made available to the local community through shops, restaurants, and plant sales. The project is located in Killult, between Falcarragh and Gortahork, in the heart of the Gaeltacht (Gaelic-speaking region) of Cloughaneely on the northwest coast of Donegal, in the northwest of Ireland. The centre includes a one acre Glasshouse, several large tunnels and an extensive area of arable land. It is run by a community based company; Lárionad Acmhainní Nádúrtha Teoranta (LAN Teo.) ~ Centre for Natural Resources.</p>
-
-          <h3>Donegal Rapeseed Oil Co.</h3>
-          <p>Donegal Rapeseed Oil Co. is located in Raphoe, Co. Donegal. They are a small, locally owned and operated company in Donegal. Their crops are grown by specially selected, individual, small farm holdings dispersed throughout the county.</p>
-
-          <h3>Corleggy Cheese</h3>
-          <p>Corleggy Cheeses is an Irish farmhouse making a selection of cheese in County Cavan. Started by Silke Cropp in 1985 using milk from her own herd of goat, today Corleggy make a variety of different cheese from goat's milk, sheep's milk and cow's milk sourced from local farmers. Corleggy make 2 varieties of goat's cheese, one variety of sheep's cheese and 5 varieties of cow's cheese marketed under the "Drumlin" brand. The herds graze on neighbouring farms on drumlin pastures along the River Erne. The goat's cheese is made from pasteurised milk while the range of cow's cheese is made with raw milk. Vegetarian rennet is used, and for some varieties sea water is used to wash the cheese in salt water and helps form the edible rind.</p>
-
-          <p>For more up to date information please check our <a href="blog">blog</a>.</p>
 
         </div><!-- / #leftColumn -->
 
@@ -79,11 +67,6 @@
               <td><a href="images/galleryImages/Untitled_044.jpg" rel="lightbox[homepage]" title="Pudding"><img src="images/galleryImages/thumbnails/Untitled_044.jpg" alt="Chocolate Pudding" title="Chocolate Pudding" class="gallery" /></a></td>
             </tr>
           </table>
-          <!--
-    <div class="centered">
-            <img src="images/2014BestPlacesToEat.gif" alt="Featured in Sally McKennas 100 Best Places to Eat in Ireland" class="gallery" />
-          </div>
-    -->
         </div><!-- / #rightColumn -->
 
         <div style="clear:both"></div>
