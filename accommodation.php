@@ -84,15 +84,35 @@
 
   <div id="tabs" class="c-tabs no-js">
     <div class="c-tabs-nav">
-      <a href="#" class="c-tabs-nav__link is-active">Figart</a>
+      <a href="#" class="c-tabs-nav__link is-active">The Studio</a>
+      <a href="#" class="c-tabs-nav__link">Figart</a>
       <a href="#" class="c-tabs-nav__link">Rinclevin</a>
       <a href="#" class="c-tabs-nav__link">Casey</a>
       <a href="#" class="c-tabs-nav__link">Castlebane</a>
       <a href="#" class="c-tabs-nav__link">Marfagh</a>
       <a href="#" class="c-tabs-nav__link">Corgannive</a>
-      <a href="#" class="c-tabs-nav__link">The Studio</a>
     </div>
     <div class="c-tab is-active">
+      <div class="c-tab__content">
+        <h3>The Studio</h3>
+        <img
+          src="images/rooms/studio1.jpg"
+          alt="the studio room with four poster bed and free standing bath"
+          class='bordered room-photo' />
+        <ul>
+          <li>396 sq feet</li>
+          <li>Kingsize Four poster bed</li>
+          <li>Roll top bath in bedroom</li>
+          <li>Power shower</li>
+          <li>Nepresso Coffee machine</li>
+          <li>Overlooking drive and garden</li>
+          <li>Sitting Area</li>
+        </ul>
+        <p><strong>Price:</strong> &euro;75 per person bed &amp; breakfast / &euro;20 single supplement</p>
+        <div class="cf"></div>
+      </div>
+    </div>
+    <div class="c-tab">
       <div class="c-tab__content">
         <h3>Figart</h3>
         <ul>
@@ -163,21 +183,6 @@
           <li>Nepresso Coffee machine</li>
         </ul>
         <p><strong>Price:</strong> &euro;55 per person bed &amp; breakfast / &euro;20 single supplement</p>
-      </div>
-    </div>
-    <div class="c-tab">
-      <div class="c-tab__content">
-        <h3>The Studio</h3>
-        <ul>
-          <li>396 sq feet</li>
-          <li>Kingsize Four poster bed</li>
-          <li>Roll top bath in bedroom</li>
-          <li>Power shower</li>
-          <li>Nepresso Coffee machine</li>
-          <li>Overlooking drive and garden</li>
-          <li>Sitting Area</li>
-        </ul>
-        <p><strong>Price:</strong> &euro;75 per person bed &amp; breakfast / &euro;20 single supplement</p>
       </div>
     </div>
   </div>
