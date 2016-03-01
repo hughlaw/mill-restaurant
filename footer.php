@@ -25,7 +25,7 @@ echo "
   </a>
   <br />
   <br />
-  <img src='images/waw-logo.png' alt='Wild atlantic way logo' />
+  <img src='images/WAW-logo.png' alt='Wild atlantic way logo' />
   <img src='images/Welcome-Standard-Logo.png' alt='Welcome standard logo' />
 </div>
 <div class='cf'></div>";
