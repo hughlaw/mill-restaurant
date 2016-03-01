@@ -30,9 +30,7 @@
           <h1>Welcome</h1>
           <img src="images/bodyImage.png" class="scrapbook" style="float:left" alt="Picture of the Mill"/>
           <p>Welcome to the Mill restaurant and accommodation, a small award winning restaurant with 7 individually decorated bedrooms. Offering a unique blend of old and new, we provide a warm friendly welcome and ensure a very special stay with us. We provide a relaxed mixture of excellent food, comfortable interiors, local craft beer and good wine in a stunning rural location</p>
-          <p>In 1949, the Mill was bought by my Grandfather, Frank Egginton, a famous watercolour artist. He converted the old flax mill into his studio and home where he lived until his death in 1990. In 1999 work began again to modernise and enlarge the house so as to accommodate a restaurant, six ensuite bedrooms and our own living area.</p>
-          <p>Ideally situated along the Wild Atlantic Way with the natural beauty of the North West and the combination of antique furnishings and modern facilities make this friendly, family run restaurant and guesthouse a very special place to visit.</p>
-          <p>We are open from Mid-March to December.</p>
+          <p>In 1949, the Mill was bought by my Grandfather, Frank Egginton, a famous watercolour artist. He converted the old flax mill into his studio and home where he lived until his death in 1990. In 1999 work began again to modernise and enlarge the house so as to accommodate a restaurant, seven ensuite bedrooms and our own living area.</p>
         </div>
         <div id="rightColumn">
           <table style="width:240px; margin:30px auto 0 auto">

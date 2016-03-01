@@ -40,7 +40,7 @@
         <li>Wine</li>
       </ul>
 
-      <h3>Opening times </h3>
+      <h3>Opening times 2016</h3>
       <ul>
         <li>St.Patricks weekend, 18th, 19th and 20th March</li>
         <li>Easter  24th March -2nd April</li>
@@ -108,7 +108,7 @@
           <li>Overlooking drive and garden</li>
           <li>Sitting Area</li>
         </ul>
-        <p><strong>Price:</strong> &euro;75 per person bed &amp; breakfast / &euro;20 single supplement</p>
+        <p><strong>Price:</strong> &euro;75 per person bed &amp; breakfast</p>
         <a class="btn" href="mailto:&#105;&#110;&#102;&#111;&#064;&#116;&#104;&#101;&#109;&#105;&#108;&#108;&#114;&#101;&#115;&#116;&#097;&#117;&#114;&#097;&#110;&#116;&#046;&#099;&#111;&#109;?subject=Website enquiry about a room (The Studio)">Enquire about this room</a>
         <div class="cf"></div>
       </div>
@@ -129,6 +129,10 @@
     <div class="c-tab">
       <div class="c-tab__content">
         <h3>Rinclevin</h3>
+        <img
+          src="images/rooms/rinclevin1.jpg"
+          alt="a room at the mill"
+          class='bordered room-photo' />
         <ul>
           <li>137.5 sq feet</li>
           <li>Double bed with ensuite shower</li>
@@ -137,37 +141,52 @@
         </ul>
         <p><strong>Price:</strong> &euro;50 per person bed &amp; breakfast / &euro;20 single supplement</p>
         <a class="btn" href="mailto:&#105;&#110;&#102;&#111;&#064;&#116;&#104;&#101;&#109;&#105;&#108;&#108;&#114;&#101;&#115;&#116;&#097;&#117;&#114;&#097;&#110;&#116;&#046;&#099;&#111;&#109;?subject=Website enquiry about a room (Rinclevin)">Enquire about this room</a>
+        <div class="cf"></div>
       </div>
     </div>
     <div class="c-tab">
       <div class="c-tab__content">
         <h3>Casey</h3>
+        <img
+          src="images/rooms/casey1.jpg"
+          alt="a room at the mill"
+          class='bordered room-photo' />
         <ul>
           <li>176 sq feet</li>
           <li>Kingsize bed with ensuite shower</li>
           <li>Lake view</li>
           <li>Nepresso Coffee Machine</li>
         </ul>
-        <p><strong>Price:</strong> &euro;55 per person bed &amp; breakfast / &euro;20 single supplement</p>
+        <p><strong>Price:</strong> &euro;55 per person bed &amp; breakfast</p>
         <a class="btn" href="mailto:&#105;&#110;&#102;&#111;&#064;&#116;&#104;&#101;&#109;&#105;&#108;&#108;&#114;&#101;&#115;&#116;&#097;&#117;&#114;&#097;&#110;&#116;&#046;&#099;&#111;&#109;?subject=Website enquiry about a room (Casey)">Enquire about this room</a>
+        <div class="cf"></div>
       </div>
     </div>
     <div class="c-tab">
       <div class="c-tab__content">
         <h3>Castlebane</h3>
+        <img
+          src="images/rooms/castlebane1.jpg"
+          alt="a room at the mill"
+          class='bordered room-photo' />
         <ul>
           <li>196 sq feet</li>
           <li>Kingsize sleigh bed with ensuite bath and shower</li>
           <li>Lake view</li>
           <li>Nepresso Coffee machine</li>
         </ul>
-        <p><strong>Price:</strong> &euro;55 per person bed &amp; breakfast / &euro;20 single supplement</p>
+        <p><strong>Price:</strong> &euro;55 per person bed &amp; breakfast</p>
         <a class="btn" href="mailto:&#105;&#110;&#102;&#111;&#064;&#116;&#104;&#101;&#109;&#105;&#108;&#108;&#114;&#101;&#115;&#116;&#097;&#117;&#114;&#097;&#110;&#116;&#046;&#099;&#111;&#109;?subject=Website enquiry about a room (Castlebane)">Enquire about this room</a>
+        <div class="cf"></div>
       </div>
     </div>
     <div class="c-tab">
       <div class="c-tab__content">
         <h3>Marfagh</h3>
+        <img
+          src="images/rooms/marfagh1.jpg"
+          alt="a room at the mill"
+          class='bordered room-photo' />
         <ul>
           <li>187.5 sq feet</li>
           <li>Double bed and single bed (Twin option)</li>
@@ -175,8 +194,9 @@
           <li>Overlooking trees</li>
           <li>Nepresso Coffee machine</li>
         </ul>
-        <p><strong>Price:</strong> &euro;55 per person bed &amp; breakfast / &euro;20 single supplement</p>
+        <p><strong>Price:</strong> &euro;55 per person bed &amp; breakfast</p>
         <a class="btn" href="mailto:&#105;&#110;&#102;&#111;&#064;&#116;&#104;&#101;&#109;&#105;&#108;&#108;&#114;&#101;&#115;&#116;&#097;&#117;&#114;&#097;&#110;&#116;&#046;&#099;&#111;&#109;?subject=Website enquiry about a room (Marfagh)">Enquire about this room</a>
+        <div class="cf"></div>
       </div>
     </div>
     <div class="c-tab">
@@ -188,7 +208,7 @@
           <li>Ensuite bath and shower</li>
           <li>Nepresso Coffee machine</li>
         </ul>
-        <p><strong>Price:</strong> &euro;55 per person bed &amp; breakfast / &euro;20 single supplement</p>
+        <p><strong>Price:</strong> &euro;55 per person bed &amp; breakfast</p>
         <a class="btn" href="mailto:&#105;&#110;&#102;&#111;&#064;&#116;&#104;&#101;&#109;&#105;&#108;&#108;&#114;&#101;&#115;&#116;&#097;&#117;&#114;&#097;&#110;&#116;&#046;&#099;&#111;&#109;?subject=Website enquiry about a room (Corgannive)">Enquire about this room</a>
       </div>
     </div>
