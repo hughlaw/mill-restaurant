@@ -35,10 +35,9 @@
           <blockquote class="main-quote">simple deliciousness</blockquote>
           <cite>The Sunday Times, Irelands Top 100 restaurants, The McKenna Guide 2016</cite>
           <div style="clear:both"></div>
-          <p>We are very proud to be part of this infamous list since 2001, having always had an emphasis on local produce, the majority of our suppliers come from within a ten mile radius.</p>
           <p>Our restaurant, seating 30 people, offers our customers a very special evening, starting the six course dinner menu with canapés and aperitifs at the turf fire or in the conservatory and ending with tea/coffee and petit fours in the same comfortable surroundings.</p>
-          <p>We have a great small local team to help us. We offer local craft beers and a small interesting wine list.</p>
-          <p>Reservations for the year are taken form 1st March.</p>
+          <p>Our menu is based on seasonal local produce, with the majority of our suppliers living within a ten mile radius. We offer local craft beers and a small interesting wine list.</p>
+          <p>Reservations for the year are taken from 1st March.</p>
         </div><!-- / #leftColumn -->
 
         <div id="rightColumn">
@@ -68,7 +67,7 @@
           <div class="c-tabs-nav">
             <a href="#" class="c-tabs-nav__link is-active">Dinner menu</a>
             <a href="#" class="c-tabs-nav__link">Breakfast menu</a>
-            <!-- <a href="#" class="c-tabs-nav__link">Wine list</a> -->
+            <a href="#" class="c-tabs-nav__link">Opening hours 2016</a>
             <a href="#" class="c-tabs-nav__link">Local producers</a>
           </div>
           <div class="c-tab is-active">
@@ -148,12 +147,21 @@
               </ul>
             </div>
           </div>
-          <!-- <div class="c-tab">
+          <div class="c-tab">
             <div class="c-tab__content">
-              <h3>Wine list</h3>
-
+              <h3>Opening hours 2016</h3>
+              <ul>
+                <li>Open 18th, 19th, 20th March 2016</li>
+                <li>Easter 24th March to 2nd April</li>
+                <li>Weekends, Fridays and Saturdays in April.</li>
+                <li>Open Wednesday to Sunday for May and June</li>
+                <li>Open Tuesday to Sunday for July and August</li>
+                <li>Open Wednesday to Sunday during September</li>
+                <li>Open Thursday to Sunday from 14th October</li>
+                <li>Fridays and Saturdays from November until the 10th December</li>
+              </ul>
             </div>
-          </div> -->
+          </div>
           <div class="c-tab">
             <div class="c-tab__content">
               <h3>Local producers</h3>

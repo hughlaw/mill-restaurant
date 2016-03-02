@@ -42,7 +42,6 @@
               <li>The Good Hotel Guide 2006 - 2014, including receiving a Cesar Award in 2007</li>
               <li>Georgina Campbell's The Best of the Best 2011</li>
               <li>Featured in the Observer's 'Top 50 for under £50' by Desmond Balmer</li>
-              <li>Alastair Sawday's Special Places to Stay in Ireland</li>
             </ul>
             <p>Below are some quotes taken from various publications reviewing the Mill.</p>
             <blockquote>
@@ -90,7 +89,7 @@
               </td>
             </tr>
             <tr>
-                <td><img src="images/bridgestone2015.jpg" alt="McKennas best in Ireland logo" title="Featured in the McKennas best in Ireland guide" class="gallery" /></td>
+                <td><img src="images/mckennas2016.jpg" alt="McKennas best in Ireland logo" title="Featured in the McKennas best in Ireland guide" class="gallery" /></td>
                 <td><img src="images/michelin-accommodation2016.jpg" alt="Featured in The Michelin Guide" title="Featured in the Michelin Guide" class="gallery" /></td>
             </tr>
             <tr>
