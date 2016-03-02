@@ -29,18 +29,35 @@
         <div id="leftColumn">
           <h1>Welcome</h1>
           <img src="images/bodyImage.png" class="scrapbook" style="float:left" alt="Picture of the Mill"/>
-          <p>Welcome to the Mill restaurant and accommodation, a small award winning restaurant with 7 individually decorated bedrooms. Offering a unique blend of old and new, we provide a warm friendly welcome and ensure a very special stay with us. We provide a relaxed mixture of excellent food, comfortable interiors, local craft beer and good wine in a stunning rural location</p>
-          <p>In 1949, the Mill was bought by my Grandfather, Frank Egginton, a famous watercolour artist. He converted the old flax mill into his studio and home where he lived until his death in 1990. In 1999 work began again to modernise and enlarge the house so as to accommodate a restaurant, seven ensuite bedrooms and our own living area.</p>
+          <p>Welcome to the Mill restaurant and accommodation, a small award winning restaurant with 7 individually decorated bedrooms.</p>
+          <p>We provide a relaxed mixture of excellent food, comfortable interiors, local craft beer and good wine in a stunning rural location.</p>
+          <p>In 1949, the Mill was bought by my Grandfather, Frank Egginton, a famous watercolour artist. He converted the old flax mill into his studio and home where he lived until his death in 1990. In 1999 work began again to modernise and enlarge the house so as to accommodate a restaurant, six ensuite bedrooms and our own living area. In 2016 we added the seventh bedroom, The Studio.</p>
         </div>
         <div id="rightColumn">
           <table style="width:240px; margin:30px auto 0 auto">
             <tr>
-              <td><a href="images/galleryImages/Deep-fried-oysters-&amp;-grilled-mackle.jpg" rel="lightbox[homepage]" title="Deep Fried Oysters and Grilled Mackerel"><img src="images/galleryImages/thumbnails/Deep-fried-oysters-&amp;-grilled-mackle.jpg" alt="Deep Fried Oysters and Grilled Mackerel" title="Deep Fried Oysters and Grilled Mackerel" class="gallery" /></a></td>
-              <td><a href="images/galleryImages/IMG_0077.jpg" rel="lightbox[homepage]" title="Hanging Glasses"><img src="images/galleryImages/thumbnails/IMG_0077.jpg" alt="Glasses" title="Glasses" class="gallery" /></a></td>
+              <td>
+                <a href="images/galleryImages/Deep-fried-oysters-&amp;-grilled-mackle.jpg" rel="lightbox[homepage]" title="Deep Fried Oysters and Grilled Mackerel">
+                  <img src="images/galleryImages/thumbnails/Deep-fried-oysters-&amp;-grilled-mackle.jpg" alt="Deep Fried Oysters and Grilled Mackerel" title="Deep Fried Oysters and Grilled Mackerel" class="gallery" />
+                </a>
+              </td>
+              <td>
+                <a href="images/galleryImages/IMG_0077.jpg" rel="lightbox[homepage]" title="Hanging Glasses">
+                  <img src="images/galleryImages/thumbnails/IMG_0077.jpg" alt="Glasses" title="Glasses" class="gallery" />
+                </a>
+              </td>
             </tr>
             <tr>
-              <td><a href="images/galleryImages/S1051146.jpg" rel="lightbox[homepage]" title="Nearby view of Dunfanaghy, beach and Muckish"><img src="images/galleryImages/thumbnails/S1051146.jpg" alt="View of Muckish nearby" title="View of Muckish Mountain" class="gallery" /></a></td>
-              <td><a href="images/galleryImages/DSC_0042.jpg" rel="lightbox[homepage]" title="Derek prepares another delicious meal"><img src="images/galleryImages/thumbnails/DSC_0042.jpg" alt="Derek preparing another delicious meal" title="Derek prepares another delicious meal" class="gallery" /></a></td>
+              <td>
+                <a href="images/rooms/studio1.jpg" rel="lightbox[homepage]" title="The Studio">
+                  <img src="images/galleryImages/thumbnails/studio1.jpg" alt="room at the mill" title="The studio" class="gallery" />
+                </a>
+              </td>
+              <td>
+                <a href="images/galleryImages/DSC_0042.jpg" rel="lightbox[homepage]" title="Derek prepares another delicious meal">
+                  <img src="images/galleryImages/thumbnails/DSC_0042.jpg" alt="Derek preparing another delicious meal" title="Derek prepares another delicious meal" class="gallery" />
+                </a>
+              </td>
             </tr>
           </table>
         </div>
