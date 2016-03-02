@@ -35,7 +35,7 @@ body {
 	line-height: 1.25;
 	color: black;
 	background: white;
-	text-align:center;
+	/*text-align:center;*/
 }
 ol, ul {
 	list-style:circle;
@@ -70,12 +70,12 @@ caption, th, td {
 
 #mainContentContainer {
 	text-align:left;
-	width:1000px;
+	/*width:1000px;*/
 	height:100%;
 	margin:0 auto 0 auto;
-	padding-bottom:260px;
+	/*padding-bottom:260px;*/
 	}
-	
+
 #leftColumn, #rightColumn {
 	width:455px;
 	padding:10px;
@@ -85,15 +85,16 @@ caption, th, td {
 #rightColumn a, #footerRightColumn a {
 	border:none;
 }
-	
+
 #navigation {
+  text-align: center;
 	height:29px;
 	padding-top:10px;
 	background:url(../../images/navGradient.png) repeat-x #7CA5D8;
 	color:white;
 	}
-	
-#navigation ul 
+
+#navigation ul
 	{
 		padding:0;
 	}
@@ -115,14 +116,14 @@ caption, th, td {
 	text-decoration:none;
 	border:none;
 	}
-	
+
 .nav a:hover {
 	-webkit-transition:color 0.2s;
 	-moz-transition:color 0.2s;
 	transition:color 0.2s;
 	color:#000000;
 	}
-	
+
 #footer {
 	color:white;
 	text-shadow:1px 1px 1px #999;
@@ -131,17 +132,17 @@ caption, th, td {
 	background:#93B6E0 url(../../images/footerBackground_03.jpg) repeat-x;
 	float:none;
 	clear:both;
-	position:absolute;
-	bottom:0;
+	/*position:absolute;
+	bottom:0;*/
 	padding:5px 0 5px 0;
 	}
-	
+
 #footerLeftColumn {
 	padding:10px;
 	padding-left:10px;
 	float:left;
 	}
-	
+
 #footerRightColumn {
 	padding:10px;
 	/*padding-right:40px;*/
@@ -149,7 +150,7 @@ caption, th, td {
 	text-align:right;
 	float:right;
 	}
-	
+
 .footerText {
 	display:block;
 	font-size:1em;
@@ -163,18 +164,18 @@ caption, th, td {
 	text-align:center;
 	margin:10px 0 10px 0;
 	}
-	
+
 /* Element Styling
 ------------------------------------------------- */
 
 a:link, a:visited {
 	text-decoration:none;
-	border-bottom:1px dotted #0033FF;
+	/*border-bottom:1px dotted #0033FF;*/
 	color:#0033FF;
 }
 
 a:hover, a:active {
-	border-bottom:1px solid;
+	/*border-bottom:1px solid;*/
 	color:#003399;
 }
 
@@ -198,22 +199,25 @@ h3, h3 a:link, h3 a:visited {
 	color:white;
 	border:none;
 	}
-	
+
+#leftColumn, #rightColumn, p {
+  font:13px normal Helvetica, Arial, sans-serif;
+}
+
 #leftColumn h3 {
 	color:black;
 	}
-	
+
 h4 {
 	font-family: "Droid+Serif", "Times New Roman", Helvetica, Verdana, Arial, sans-serif;
 	font-size: 18px;
 	font-weight: bold;
 	margin-bottom:10px;
-	text-shadow:1px 1px 3px #999;	
+	/*text-shadow:1px 1px 3px #999;*/
 	}
 
 
 p {
-	font:13px normal Helvetica, Arial, sans-serif;
 	line-height:1.25em;
 	margin-bottom:15px;
 	}
@@ -221,8 +225,8 @@ p {
 li {
 	font:13px normal Helvetica, Arial, sans-serif;
 	line-height:1.25em;
-	}	
-	
+	}
+
 .scrapbook {
 	-moz-box-shadow: 2px 2px 2px #ddd;
 	-moz-transform: rotate(-3deg);
@@ -237,12 +241,12 @@ li {
 	}
 
 .bordered {
-	border:1px solid #CCCCCC;
-	background:#EEEEEE;
-	padding:3px;
-	-webkit-box-shadow: 2px 2px 5px #666;
+	border:1px solid #ddd;
+	background:white;
+	padding:5px;
+	/*-webkit-box-shadow: 2px 2px 5px #666;
 	-moz-box-shadow: 2px 2px 5px #666;
-	box-shadow: 2px 2px 5px #666;
+	box-shadow: 2px 2px 5px #666;*/
 }
 
 .gallery {
@@ -265,13 +269,13 @@ li {
 
 .tableLeft, .tableRight {
 	font:13px normal Helvetica, Arial, sans-serif;
-	padding:5px 0 0 10px;	
+	padding:5px 0 0 10px;
 }
 
 iframe {
 	border:1px solid black;
 	}
-	
+
 blockquote {
 	padding:10px 10px 0 10px;
 }
@@ -320,15 +324,15 @@ fieldset ul {
 	padding: 1em 1em 0 0;
 	list-style:none;
 	}
-	
+
 fieldset li {
 	padding-bottom:1em;
 	}
-	
+
 fieldset.submit {
 	border-style:none;
 	}
-	
+
 /*============================
 Helpers
 ============================*/
@@ -339,4 +343,46 @@ Helpers
 
 .cf {
   clear: both;
+}
+
+.main-quote {
+  font-size: 1.75em;
+  quotes: '"' '"' "'" "'";
+  margin-bottom: 5px;
+  font-style: italic;
+}
+
+.main-quote+cite {
+  margin-bottom: 20px;
+}
+
+.main-quote::before {
+  content: open-quote;
+}
+
+.main-quote::after {
+  content: close-quote;
+}
+
+.room-photo {
+  float: right;
+}
+
+.btn {
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+  font-family: Arial;
+  color: #ffffff !important;
+  font-size: 16px;
+  background: #96BCE3;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 10px;
+}
+
+.btn:hover {
+  background: #77abe0;
+  text-decoration: none;
 }

@@ -1,21 +1,32 @@
 <?php
 echo "
-    <div id='footerLeftColumn'>
-        <h3>Contact Us</h3>
-        <p>Susan &amp; Derek Alcorn<br />
-    The Mill Restaurant<br />
-            Dunfanaghy<br />
-            Co. Donegal<br />
-            Ireland</p>
-    <p>tel: <a href='tel://+353749136985'>+353 (0)74 913 6985</a></p>
-        <p class='linkBack'>Web Design by <a href='http://www.marblemultimedia.com' target='_blank'>Marble Multimedia</a></p>
-        </div>
-        <div id='footerRightColumn'>
-        <a href='reviews.php'><img src='images/georginaCampbell2015.jpg' class='bordered' alt='Georgina Campbell logo' title='Featured in the Georgina Campbell Best of the best guide' /></a>
-      <a href='reviews.php'><img src='images/top100accommodation2015.jpg' class='bordered' alt='Top 100 places to stay logo' title='Part of the McKennas top 100 places to stay in Ireland' /></a>
-      <a href='reviews.php'><img src='images/waw2015.jpg' class='bordered' alt='Wild atlantic way logo' title='Features in the McKennas \"Where to eat on the Wild Atlantic Way\" guide' /></a>
-      <a href='reviews.php'><img src='images/top100restaurants2015.jpg' class='bordered' alt='Top 100 restaurants logo' title='Part of the McKennas top 100 restaurants in Ireland' /></a>
-        <a href='reviews.php'><img src='images/michelin-accommodation2015.jpg' class='bordered' alt='Michelin logo' title='Featured in the Michelin guide' /></a>
-        </div><div class='cf'></div>
-    ";
+<div id='footerLeftColumn'>
+  <h3>Contact Us</h3>
+  <p>Susan &amp; Derek Alcorn<br />
+  The Mill Restaurant<br />
+  Dunfanaghy<br />
+  Co. Donegal<br />
+  Ireland</p>
+  <p>tel: <a href='tel://+353749136985'>+353 (0)74 913 6985</a><br />
+  email: <a href='mailto:&#105;&#110;&#102;&#111;&#064;&#116;&#104;&#101;&#109;&#105;&#108;&#108;&#114;&#101;&#115;&#116;&#097;&#117;&#114;&#097;&#110;&#116;&#046;&#099;&#111;&#109;?subject=Website enquiry'>&#105;&#110;&#102;&#111;&#064;&#116;&#104;&#101;&#109;&#105;&#108;&#108;&#114;&#101;&#115;&#116;&#097;&#117;&#114;&#097;&#110;&#116;&#046;&#099;&#111;&#109;</a></p>
+</div>
+<div id='footerRightColumn'>
+  <a href='reviews.php'>
+    <img src='images/georginaCampbell2016.jpg' alt='Georgina Campbell logo' title='Featured in the Georgina Campbell Best of the best guide' />
+  </a>
+  <a href='http://www.guides.ie' target='_blank'>
+    <img src='images/mckennas2016.jpg' alt='Irelands top 100 restaurants logo' title='Irelands top 100 restaurants' />
+  </a>
+  <a href='reviews.php'>
+    <img src='images/ghg2016.png' alt='good hotels guide 2016' title='Featured in the good hotel guide 2016' />
+  </a>
+  <a href='reviews.php'>
+    <img src='images/michelin-accommodation2016.jpg' alt='michelin guide logo' title='Featured in the Michelin guide 2016' />
+  </a>
+  <br />
+  <br />
+  <img src='images/WAW-logo.png' alt='Wild atlantic way logo' />
+  <img src='images/Welcome-Standard-Logo.png' alt='Welcome standard logo' />
+</div>
+<div class='cf'></div>";
 ?>

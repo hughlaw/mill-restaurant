@@ -24,7 +24,7 @@
 	<div id="mainContentContainer">
 		<div id="leftColumn">
     		<h1>Contact Us</h1>
-    		<p>You can use any of the below methods to get in contact with us, or fill in the form to send us an email directly</p>            
+    		<p>You can use any of the below methods to get in contact with us, or fill in the form to send us an email directly</p>
 				<fieldset>
     				<ul>
     					<label for="phone" class="addresslabels">Tel / Fax:</label>
@@ -33,7 +33,7 @@
     					<li id="address">The Mill Restaurant<br />Susan &amp; Derek Alcorn<br />Dunfanaghy<br />Co. Donegal<br />Ireland</li>
     				</ul>
 				</fieldset>
-    
+
 
 <!-- Start of Contact Form -->
 <form action="sendmail.php">
@@ -65,10 +65,9 @@
 </form>
 
 <!-- End of Contact Form -->
-            
+
     	</div>
     <div id="rightColumn">
-    <h4>Location &amp; Directions</h4>
     <div align="left">
     <iframe width="455" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=115181840989460186947.00046f21e5f2222fd0392&amp;ll=54.977614,-7.855225&amp;spn=1.103395,2.197266&amp;z=8&amp;output=embed"></iframe><br /><p><a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=115181840989460186947.00046f21e5f2222fd0392&amp;ll=54.977614,-7.855225&amp;spn=1.103395,2.197266&amp;z=8&amp;source=embed" style="color:#0000FF;text-align:left">View a larger version of this map</a></p>
     <p>The Mill is situated at Dunfanaghy, in North West Donegal.</p>

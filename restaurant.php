@@ -8,6 +8,7 @@
 <link href='http://fonts.googleapis.com/css?family=Droid+Serif' rel='stylesheet' type='text/css' />
 <link href="css/screen/mainStyleSheet.css" rel="stylesheet" type="text/css" />
 <link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="css/tabs.css" media="screen">
 <!--[if IE 7]>
 <link rel="stylesheet" type="text/css" href="http://www.themillrestaurant.com/css/screen/IE.css" media="screen" />
 <![endif]-->
@@ -15,6 +16,8 @@
 <script type="text/javascript" src="js/prototype.js"></script>
 <script type="text/javascript" src="js/scriptaculous.js?load=effects,builder"></script>
 <script type="text/javascript" src="js/lightbox.js"></script>
+<script src="js/tabs.js" charset="utf-8"></script>
+
 </head>
 
   <body>
@@ -29,68 +32,170 @@
       <div id="mainContentContainer">
         <div id="leftColumn">
           <h1>Restaurant</h1>
-          <p>The restaurant is a split level room overlooking the new lake. It is a small friendly restaurant offering a relaxing but efficient service. Dinner is served between 7pm and 9pm, Tuesday to Sunday. The dinner menu changes seasonally using fresh produce from the local area. Derek and his small team produce food with a modern irish flavour, with an emphasis on local seafood and shellfish. We have a wine license offering wine, sherry, port and bottled beer.</p>
-          <p>To make your evening special, we welcome you to enjoy an aperitif at the open fire or conservatory while you ponder over the menu. After dinner to complete your evening coffee and petit fours are served in the same comfortable surroundings.</p>
-          <p>Dinner menu &euro;42.50pp including including canap&eacute;s, starter, sorbet, main, dessert, petit fours, tea/coffee.</p>
-          <p>Childrens menu is available</p>
-          <p><a href="sample-menu.pdf" title="Our sample menu" target="_blank">View a sample menu</a></p>
-          <p><a href="opening-hours-2015.pdf" title="opening hours 2015" target="_blank">Opening hours 2015</a></p>
-
-          <h2>Our Suppliers</h2>
-
-          <p>Most of our produce is sourced locally, the majority within a three mile radius.</p>
-            <p>Our small local producers include</p>
-          <ul>
-            <li>Thomas Alcorn (Derek’s brother) supplies Lamb and Beef, (Hereford and Dexter).</li>
-            <li>Richard Alcorn (Derek’s nephew) supplies Kid goat.</li>
-            <li>Ivan McElhinney supplies shellfish, Pollock and Mackerel</li>
-            <li>Stephen Kerr (Butcher)</li>
-            <li>Carrigart Turf Smoked Salmon</li>
-          </ul>
-          <p>Other larger suppliers include:</p>
-
-          <h3>BD Foods</h3>
-          <p>BD Foods began as a small business in the 1980’s. With an aim to supply a large range of food products to the food service sector in Ireland.They provide fine foods with an emphasis on fresh chilled products and specialty provisions. They are based at Glaslough, Co. Monaghan.</p>
-
-          <h3>Albatross Seafoods</h3>
-          <p>Albatross Seafoods is in the seafood business for over twenty years, buying fresh fish from boats fishing in the North East Atlantic and processing it in our custom built factory. They provide a range of services to their customers from telesales advice on products, special offers and best fish for each season.</p>
-
-          <h3>The Glasshouses, Killult</h3>
-          <p>"The Glasshouses" as it is known locally, is a horticultural project which uses organic methods to produce high quality fruit, vegetables and herbs, made available to the local community through shops, restaurants, and plant sales. The project is located in Killult, between Falcarragh and Gortahork, in the heart of the Gaeltacht (Gaelic-speaking region) of Cloughaneely on the northwest coast of Donegal, in the northwest of Ireland. The centre includes a one acre Glasshouse, several large tunnels and an extensive area of arable land. It is run by a community based company; Lárionad Acmhainní Nádúrtha Teoranta (LAN Teo.) ~ Centre for Natural Resources.</p>
-
-          <h3>Donegal Rapeseed Oil Co.</h3>
-          <p>Donegal Rapeseed Oil Co. is located in Raphoe, Co. Donegal. They are a small, locally owned and operated company in Donegal. Their crops are grown by specially selected, individual, small farm holdings dispersed throughout the county.</p>
-
-          <h3>Corleggy Cheese</h3>
-          <p>Corleggy Cheeses is an Irish farmhouse making a selection of cheese in County Cavan. Started by Silke Cropp in 1985 using milk from her own herd of goat, today Corleggy make a variety of different cheese from goat's milk, sheep's milk and cow's milk sourced from local farmers. Corleggy make 2 varieties of goat's cheese, one variety of sheep's cheese and 5 varieties of cow's cheese marketed under the "Drumlin" brand. The herds graze on neighbouring farms on drumlin pastures along the River Erne. The goat's cheese is made from pasteurised milk while the range of cow's cheese is made with raw milk. Vegetarian rennet is used, and for some varieties sea water is used to wash the cheese in salt water and helps form the edible rind.</p>
-
-          <p>For more up to date information please check our <a href="blog">blog</a>.</p>
-
+          <blockquote class="main-quote">simple deliciousness</blockquote>
+          <cite>The Sunday Times, Irelands Top 100 restaurants, The McKenna Guide 2016</cite>
+          <div style="clear:both"></div>
+          <p>Our restaurant, seating 30 people, offers our customers a very special evening, starting the six course dinner menu with canapés and aperitifs at the turf fire or in the conservatory and ending with tea/coffee and petit fours in the same comfortable surroundings.</p>
+          <p>Our menu is based on seasonal local produce, with the majority of our suppliers living within a ten mile radius. We offer local craft beers and a small interesting wine list.</p>
+          <p>Reservations for the year are taken from 1st March.</p>
         </div><!-- / #leftColumn -->
 
         <div id="rightColumn">
           <table style="width:240px; margin:30px auto 0 auto">
             <tr>
-              <td><a href="images/galleryImages/Deep-fried-oysters-&amp;-grilled-mackle.jpg" rel="lightbox[homepage]" title="Deep Fried Oysters and Grilled Mackerel"><img src="images/galleryImages/thumbnails/Deep-fried-oysters-&amp;-grilled-mackle.jpg" alt="Deep Fried Oysters and Grilled Mackerel" title="Deep Fried Oysters and Grilled Mackerel" class="gallery" /></a></td>
-              <td><a href="images/galleryImages/015.jpg" rel="lightbox[homepage]" title=" "><img src="images/galleryImages/thumbnails/015.jpg" alt="picture of food" title="picture of food" class="gallery" /></a></td>
+              <td>
+                <a href="images/galleryImages/Deep-fried-oysters-&amp;-grilled-mackle.jpg" rel="lightbox[homepage]" title="Deep Fried Oysters and Grilled Mackerel"><img src="images/galleryImages/thumbnails/Deep-fried-oysters-&amp;-grilled-mackle.jpg" alt="Deep Fried Oysters and Grilled Mackerel" title="Deep Fried Oysters and Grilled Mackerel" class="gallery" /></a>
+              </td>
+              <td>
+                <a href="images/galleryImages/015.jpg" rel="lightbox[homepage]" title=" "><img src="images/galleryImages/thumbnails/015.jpg" alt="picture of food" title="picture of food" class="gallery" /></a>
+              </td>
             </tr>
             <tr>
-              <td><a href="images/galleryImages/Untitled_035.jpg" rel="lightbox[homepage]" title=" "><img src="images/galleryImages/thumbnails/Untitled_035.jpg" alt="picture of food" title="Picture of food" class="gallery" /></a></td>
-              <td><a href="images/galleryImages/Untitled_044.jpg" rel="lightbox[homepage]" title="Pudding"><img src="images/galleryImages/thumbnails/Untitled_044.jpg" alt="Chocolate Pudding" title="Chocolate Pudding" class="gallery" /></a></td>
+              <td>
+                <a href="images/galleryImages/Untitled_035.jpg" rel="lightbox[homepage]" title=" "><img src="images/galleryImages/thumbnails/Untitled_035.jpg" alt="picture of food" title="Picture of food" class="gallery" /></a>
+              </td>
+              <td>
+                <a href="images/galleryImages/Untitled_044.jpg" rel="lightbox[homepage]" title="Pudding"><img src="images/galleryImages/thumbnails/Untitled_044.jpg" alt="Chocolate Pudding" title="Chocolate Pudding" class="gallery" /></a>
+              </td>
             </tr>
           </table>
-          <!--
-    <div class="centered">
-            <img src="images/2014BestPlacesToEat.gif" alt="Featured in Sally McKennas 100 Best Places to Eat in Ireland" class="gallery" />
-          </div>
-    -->
         </div><!-- / #rightColumn -->
 
         <div style="clear:both"></div>
+
+        <div id="tabs" class="c-tabs no-js">
+          <div class="c-tabs-nav">
+            <a href="#" class="c-tabs-nav__link is-active">Dinner menu</a>
+            <a href="#" class="c-tabs-nav__link">Breakfast menu</a>
+            <a href="#" class="c-tabs-nav__link">Opening hours 2016</a>
+            <a href="#" class="c-tabs-nav__link">Local producers</a>
+          </div>
+          <div class="c-tab is-active">
+            <div class="c-tab__content">
+              <h3>Sample dinner menu</h3>
+              <h4>To begin</h4>
+              <ul>
+                <li><b>Horn Head Kid Goat</b><br />
+                Roast slow cooked Cleggan Goat with saute new potatoes, smoked bacon and
+                red onion marmalade.</li>
+                <li><b>Quails eggs</b><br />
+                Feuillete of poached Quail eggs, crisp Boille goats cheese and Hollandaise
+                sauce.
+                <li><b>Pea and Ham soup</b><br />
+                Pea and honey Ham salad with pea soup and crispy egg.</li>
+                <li><b>Leitermacaward Oysters & Home cured Salmon.</b><br />
+                Crispy oysters with cured Organic salmon, celeriac remoulade and a ginger &
+                garlic dressing.</li>
+                <li><b>Arch Lobster raviolo</b><br />
+                Raviolo with Lobster, crab, Scallop and sweetcorn in a brandy cream sauce.</li>
+                <li><b>Irish Rabbit</b><br />
+                Loin of Irish rabbit with rabbit spring roll, cous cous, mushrooms & pistachio</li>
+              </ul>
+
+              <h4>Something refreshing</h4>
+              <ul>
+                <li>Passionfruit sorbet</li>
+              </ul>
+
+              <h4>To follow</h4>
+              <ul>
+                <li><b>Killybegs Seabass</b><br />
+                Grilled fillets of Seabass , saute smoked bacon, red chicory, celeriac and a red wine sauce.</li>
+                <li><b>Greencastle Halibut</b><br />
+                Grilled Halibut with a sweet pepper risotto, clam butter sauce &amp; purple sprouting broccoli.</li>
+                <li><b>Butternut squash Raviolo</b><br />
+                Raviolo with cous cous, roast spring vegetables and a sage butter sauce.</li>
+                <li><b>Monaghan Duck</b><br />
+                Pan-roast duck with sweet potato fondant, green beans and cherry brandy sauce.</li>
+                <li><b>Horn Head Dexter Beef</b><br />
+                Dexter Beef steak, pomme anna and mushroom puree with slow cooked shin.</li>
+                <li><b>Arch Lamb</b><br />
+                Loin, shoulder and liver of lamb with kale compote, dauphinoise potatoes, roscoff onions &amp; lamb jus.</li>
+                <li><b>Ballyare Pork &amp; Seared scallops</b><br />
+                Crisp pork belly &amp; scallops with Black pudding and cauliflower puree.</li>
+              </ul>
+
+              <h4>Sides</h4>
+              <ul>
+                <li>Crispy fat chips</li>
+                <li>Organic leaf salad with coriander &amp; coconut dressing</li>
+                <li>Roast vegetables</li>
+              </ul>
+
+              <p>All main courses are served with vegetables and a side potato dish. Please inform us of any allergies as not all components of the dish are mentioned</p>
+
+            </div>
+          </div>
+          <div class="c-tab">
+            <div class="c-tab__content">
+              <h3>Breakfast menu</h3>
+              <ul>
+                <li><b>Full Irish Breakfast</b><br />
+                McGettigan's organic pork sausages &amp; bacon, fried free range egg, potato bread, tomato, Clonakilty black/white pudding, mushrooms.</li>
+                <li><b>McGettigan's sausages</b><br />
+                McGettigan’s award winning Hickory smoked and Pork sausages with Billie’s homemade potato bread and red onion marmalade.</li>
+                <li><b>Organic Porridge</b><br />
+                with whiskey &amp; cream / honey &amp; mixed seeds</li>
+                <li><b>Pancakes</b><br />
+                with crispy bacon &amp; maple syrup / bananas &amp; maple syrup</li>
+                <li><b>Eggs benedict</li>
+                <li><b>Smoked fish with poached egg</li>
+                <li><b>Poached egg</li>
+                <li><b>Scrambled eggs with smoked salmon</li>
+                <li><b>Vegetarian breakfast</b><br />
+                Vegetarian sausage, tomato, beans, fried organic egg, mushrooms and potato bread.</li>
+              </ul>
+            </div>
+          </div>
+          <div class="c-tab">
+            <div class="c-tab__content">
+              <h3>Opening hours 2016</h3>
+              <ul>
+                <li>Open 18th, 19th, 20th March 2016</li>
+                <li>Easter 24th March to 2nd April</li>
+                <li>Weekends, Fridays and Saturdays in April.</li>
+                <li>Open Wednesday to Sunday for May and June</li>
+                <li>Open Tuesday to Sunday for July and August</li>
+                <li>Open Wednesday to Sunday during September</li>
+                <li>Open Thursday to Sunday from 14th October</li>
+                <li>Fridays and Saturdays from November until the 10th December</li>
+              </ul>
+            </div>
+          </div>
+          <div class="c-tab">
+            <div class="c-tab__content">
+              <h3>Local producers</h3>
+              <p>Our small local producers include:</p>
+              <ul>
+                <li><b>Thomas Alcorn , Horn Head, Dunfanaghy (Derek’s brother) supplies Lamb and Beef, (Hereford and Dexter)</b></li>
+                <li><b>Richard Alcorn, Horn Head, Dunfanaghy (Derek’s nephew) supplies Kid goat</b></li>
+                <li><b>Ivan McElhinney, Dunfanaghy supplies shellfish, Pollock and Mackerel</b></li>
+                <li><b>An LAN teo, Killult, Falcarragh supplies Organic Vegetables</b><br />
+                "The Glasshouses" as it is known locally, is a horticultural project which uses organic methods to produce high quality fruit, vegetables and herbs, made available to the local community through shops, restaurants, and plant sales. The centre includes a one acre Glasshouse, several large polytunnels and an extensive area of arable land. It is run by a community based company; Lárionad Acmhainní Nádúrtha Teoranta (LAN Teo.) ~ Centre for Natural Resources.</li>
+                <li><b>Mulroy Bay Mussels, Mulroy Bay</b><br />
+                A family run business supplying mussels for over thirty years.</li>
+                </li>
+                <li><b>Donegal Rapeseed Oil Company</b></br />
+                  Located in Raphoe, Co. Donegal. They are a small, locally owned and operated company in Donegal. Their crops are grown by specially selected, individual, small farm holdings dispersed throughout the county.</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
         <div id="footer">
           <?php include 'footer.php';	?>
         </div>
       </div>
     </div>
+
+    <script>
+      var myTabs = tabs({
+        el: '#tabs',
+        tabNavigationLinks: '.c-tabs-nav__link',
+        tabContentContainers: '.c-tab'
+      });
+      myTabs.init();
+    </script>
+
   </body>
 </html>

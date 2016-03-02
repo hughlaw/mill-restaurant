@@ -42,8 +42,7 @@
               <li>The Good Hotel Guide 2006 - 2014, including receiving a Cesar Award in 2007</li>
               <li>Georgina Campbell's The Best of the Best 2011</li>
               <li>Featured in the Observer's 'Top 50 for under £50' by Desmond Balmer</li>
-              <li>Alastair Sawday's Special Places to Stay in Ireland</li>
-            </ul> 
+            </ul>
             <p>Below are some quotes taken from various publications reviewing the Mill.</p>
             <blockquote>
                 <p>Value is excellent, service is excellent, and the experience sublime</p>
@@ -54,7 +53,7 @@
             </blockquote>
             <cite>Georgina campbell Guide 2015</cite>
             <blockquote>
-            <p>...discreet service, comfort, character and cosy ambience</p>
+            <p>&hellip;discreet service, comfort, character and cosy ambience</p>
             </blockquote>
             <cite>Georgina Cambell 2011</cite>
             <blockquote>
@@ -66,36 +65,41 @@
             </blockquote>
             <cite>John and Sally McKenna - 100 best restaurants in ireland 2009</cite>
             <blockquote>
-            <p>The setting of the house by New Lake is blissful...</p>
+            <p>The setting of the house by New Lake is blissful&hellip;</p>
             </blockquote>
             <cite>McKenna 100 Best Places to Stay</cite>
             <blockquote>
-            <p>A friendly place in a lovely setting.... remarkable value...</p>
+            <p>A friendly place in a lovely setting&hellip;. remarkable value&hellip;</p>
             </blockquote>
             <cite>The Good Hotel Guide 2009</cite>
             <blockquote>
-            <p>It feels like home...</p>
+            <p>It feels like home&hellip;</p>
             </blockquote>
             <cite>Ruth Hegarty - Food and Wine Magazine, 2009</cite>
     	</div>
     <div id="rightColumn">
         <table style="width:240px; margin:30px auto 0 auto">
             <tr>
-                <td><img src="images/georginaCampbell2015.jpg" alt="Featured in Georgina Campbell's Best of the Best Guide" title="Featured in Georgina Campbell's Best of the Best Guide" class="gallery" /></td>
+                <td><img src="images/georginaCampbell2016.jpg" alt="Featured in Georgina Campbell's Best of the Best Guide" title="Featured in Georgina Campbell's Best of the Best Guide" class="gallery" /></td>
                 <td><img src="images/waw2015.jpg" class="gallery" alt="Wild atlantic way logo" title="Features in the McKennas 'Where to eat on the Wild Atlantic Way' guide"/></td>
             </tr>
             <tr>
-                <td><img src="images/bridgestone2015.jpg" alt="McKennas best in Ireland logo" title="Featured in the McKennas best in Ireland guide" class="gallery" /></td>
-                <td><img src="images/michelin-accommodation2015.jpg" alt="Featured in The Michelin Guide" title="Featured in the Michelin Guide" class="gallery" /></td>
-                <!--<td><img src="images/galleryImages/thumbnails/AS-LOGO.jpg" alt="Featured in Alastair Sawday's Special Places to Stay in Ireland" title="Featured in Alastair Sawday's Special Places to Stay in Ireland" class="gallery" /></td>-->
+              <td colspan="2" style="text-align:center; padding:30px 0;">
+                <img src="images/WAW-logo.png" alt="Wild atlantic way logo" />
+              </td>
+            </tr>
+            <tr>
+                <td><img src="images/mckennas2016.jpg" alt="McKennas best in Ireland logo" title="Featured in the McKennas best in Ireland guide" class="gallery" /></td>
+                <td><img src="images/michelin-accommodation2016.jpg" alt="Featured in The Michelin Guide" title="Featured in the Michelin Guide" class="gallery" /></td>
+            </tr>
+            <tr>
+              <td colspan="2" style="text-align:center; padding:30px 0;">
+                <img src="images/Welcome-Standard-Logo.png" alt="Fáilte Ireland welcome standard logo" />
+              </td>
             </tr>
             <tr>
                 <td><img src="images/galleryImages/thumbnails/failte.jpg" alt="Featured in Frommers Ireland" title="Featured by Failte Ireland" class="gallery" /></td>
-                <td><img src="images/ricksteves2015.gif" alt="Featured in Rick Steve's Ireland" title="Featured in Rick Steve's Ireland" class="gallery" /></td>
-            </tr>
-            <tr>
-                <td><img src="images/goodHotelGuide2015.jpg" alt="Featured in the Good Hotel Guide" title="Featured in the Good Hotel Guide" class="gallery" /></td>
-                <td></td>
+                <td><img src="images/ghg2016.png" alt="Featured in the Good Hotel Guide" title="Featured in the Good Hotel Guide" class="gallery" /></td>
             </tr>
         </table>
     </div>
