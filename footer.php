@@ -9,6 +9,7 @@ echo "
   Ireland</p>
   <p>tel: <a href='tel://+353749136985'>+353 (0)74 913 6985</a><br />
   email: <a href='mailto:&#105;&#110;&#102;&#111;&#064;&#116;&#104;&#101;&#109;&#105;&#108;&#108;&#114;&#101;&#115;&#116;&#097;&#117;&#114;&#097;&#110;&#116;&#046;&#099;&#111;&#109;?subject=Website enquiry'>&#105;&#110;&#102;&#111;&#064;&#116;&#104;&#101;&#109;&#105;&#108;&#108;&#114;&#101;&#115;&#116;&#097;&#117;&#114;&#097;&#110;&#116;&#046;&#099;&#111;&#109;</a></p>
+  <p><a href='https://www.facebook.com/themilldunfanaghy/' target='_blank'><img src='images/FB-FindUsonFacebook-online-100.png' alt='find us on facebook logo' title='Find us on facebook'/></a></p>
 </div>
 <div id='footerRightColumn'>
   <a href='reviews.php'>
