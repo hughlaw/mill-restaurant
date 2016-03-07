@@ -91,6 +91,7 @@
       <a href="#" class="c-tabs-nav__link">Castlebane</a>
       <a href="#" class="c-tabs-nav__link">Marfagh</a>
       <a href="#" class="c-tabs-nav__link">Corgannive</a>
+      <a href="#" class="c-tabs-nav__link">Packages</a>
     </div>
     <div class="c-tab is-active">
       <div class="c-tab__content">
@@ -206,10 +207,34 @@
           <li>187.5 sq feet</li>
           <li>Kingsize bed and single bed (twin option)</li>
           <li>Ensuite bath and shower</li>
+          <li>Overlooking the trees</li>
           <li>Nepresso Coffee machine</li>
         </ul>
         <p><strong>Price:</strong> &euro;55 per person bed &amp; breakfast</p>
         <a class="btn" href="mailto:&#105;&#110;&#102;&#111;&#064;&#116;&#104;&#101;&#109;&#105;&#108;&#108;&#114;&#101;&#115;&#116;&#097;&#117;&#114;&#097;&#110;&#116;&#046;&#099;&#111;&#109;?subject=Website enquiry about a room (Corgannive)">Enquire about this room</a>
+      </div>
+    </div>
+    <div class="c-tab">
+      <div class="c-tab__content">
+        <h3>Packages</h3>
+        <p>We have some fantastic packages available for May, June and September 2016.</p>
+        <h4>Cosy rooms - Figart and Rinclevin</h4>
+        <p>Two night B&amp;B and one dinner / Sunday and Monday / Tuesday and Wednesday</p>
+        <p><strong>Price:</strong> &euro;260 / single &euro;170</p>
+        <a class="btn" href="mailto:&#105;&#110;&#102;&#111;&#064;&#116;&#104;&#101;&#109;&#105;&#108;&#108;&#114;&#101;&#115;&#116;&#097;&#117;&#114;&#097;&#110;&#116;&#046;&#099;&#111;&#109;?subject=Website enquiry about cosy room package">Enquire about the cosy package</a>
+
+        <hr>
+        <h4>Comfy rooms - Casey, Castlebane, Corgannive or Marfagh</h4>
+        <p>Two night B&amp;B and one dinner / Sunday and Monday / Tuesday and Wednesday</p>
+        <p><strong>Price:</strong> &euro;280</p>
+        <a class="btn" href="mailto:&#105;&#110;&#102;&#111;&#064;&#116;&#104;&#101;&#109;&#105;&#108;&#108;&#114;&#101;&#115;&#116;&#097;&#117;&#114;&#097;&#110;&#116;&#046;&#099;&#111;&#109;?subject=Website enquiry about comfy room package">Enquire about the comfy package</a>
+
+        <hr>
+        <h4>Classic - The Studio</h4>
+        <p>Two night B&amp;B and one dinner / Sunday and Monday / Tuesday and Wednesday</p>
+        <p><strong>Price:</strong> &euro;360</p>
+        <a class="btn" href="mailto:&#105;&#110;&#102;&#111;&#064;&#116;&#104;&#101;&#109;&#105;&#108;&#108;&#114;&#101;&#115;&#116;&#097;&#117;&#114;&#097;&#110;&#116;&#046;&#099;&#111;&#109;?subject=Website enquiry about classic room package">Enquire about the classic package</a>
+
       </div>
     </div>
   </div>
