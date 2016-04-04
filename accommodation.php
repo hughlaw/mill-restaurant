@@ -117,6 +117,10 @@
     <div class="c-tab">
       <div class="c-tab__content">
         <h3>Figart</h3>
+        <img
+          src="images/rooms/figart1.jpg"
+          alt="the figart room at the mill"
+          class='bordered room-photo' />
         <ul>
           <li>168 sq feet</li>
           <li>Double bed with ensuite bath and shower</li>
@@ -125,6 +129,7 @@
         </ul>
         <p><strong>Price:</strong> &euro;50 per person bed &amp; breakfast / &euro;20 single supplement</p>
         <a class="btn" href="mailto:&#105;&#110;&#102;&#111;&#064;&#116;&#104;&#101;&#109;&#105;&#108;&#108;&#114;&#101;&#115;&#116;&#097;&#117;&#114;&#097;&#110;&#116;&#046;&#099;&#111;&#109;?subject=Website enquiry about a room (Figart)">Enquire about this room</a>
+        <div class="cf"></div>
       </div>
     </div>
     <div class="c-tab">
@@ -203,6 +208,10 @@
     <div class="c-tab">
       <div class="c-tab__content">
         <h3>Corgannive</h3>
+        <img
+          src="images/rooms/corgannive1.jpg"
+          alt="a room at the mill"
+          class='bordered room-photo' />
         <ul>
           <li>187.5 sq feet</li>
           <li>Kingsize bed and single bed (twin option)</li>
@@ -212,6 +221,7 @@
         </ul>
         <p><strong>Price:</strong> &euro;55 per person bed &amp; breakfast</p>
         <a class="btn" href="mailto:&#105;&#110;&#102;&#111;&#064;&#116;&#104;&#101;&#109;&#105;&#108;&#108;&#114;&#101;&#115;&#116;&#097;&#117;&#114;&#097;&#110;&#116;&#046;&#099;&#111;&#109;?subject=Website enquiry about a room (Corgannive)">Enquire about this room</a>
+        <div class="cf"></div>
       </div>
     </div>
     <div class="c-tab">
