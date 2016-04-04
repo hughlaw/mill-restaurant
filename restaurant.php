@@ -44,18 +44,18 @@
           <table style="width:240px; margin:30px auto 0 auto">
             <tr>
               <td>
-                <a href="images/galleryImages/Deep-fried-oysters-&amp;-grilled-mackle.jpg" rel="lightbox[homepage]" title="Deep Fried Oysters and Grilled Mackerel"><img src="images/galleryImages/thumbnails/Deep-fried-oysters-&amp;-grilled-mackle.jpg" alt="Deep Fried Oysters and Grilled Mackerel" title="Deep Fried Oysters and Grilled Mackerel" class="gallery" /></a>
+                <a href="images/galleryImages/IMG_0541.jpg" rel="lightbox[homepage]"><img src="images/galleryImages/thumbnails/IMG_0541.jpg" class="gallery" /></a>
               </td>
               <td>
-                <a href="images/galleryImages/015.jpg" rel="lightbox[homepage]" title=" "><img src="images/galleryImages/thumbnails/015.jpg" alt="picture of food" title="picture of food" class="gallery" /></a>
+                <a href="images/galleryImages/IMG_0523.jpg" rel="lightbox[homepage]"><img src="images/galleryImages/thumbnails/IMG_0523.jpg" alt="picture of food" title="picture of food" class="gallery" /></a>
               </td>
             </tr>
             <tr>
               <td>
-                <a href="images/galleryImages/Untitled_035.jpg" rel="lightbox[homepage]" title=" "><img src="images/galleryImages/thumbnails/Untitled_035.jpg" alt="picture of food" title="Picture of food" class="gallery" /></a>
+                <a href="images/galleryImages/IMG_0520.jpg" rel="lightbox[homepage]"><img src="images/galleryImages/thumbnails/IMG_0520.jpg" class="gallery" /></a>
               </td>
               <td>
-                <a href="images/galleryImages/Untitled_044.jpg" rel="lightbox[homepage]" title="Pudding"><img src="images/galleryImages/thumbnails/Untitled_044.jpg" alt="Chocolate Pudding" title="Chocolate Pudding" class="gallery" /></a>
+                <a href="images/galleryImages/IMG_0533.jpg" rel="lightbox[homepage]"><img src="images/galleryImages/thumbnails/IMG_0533.jpg" alt="picture of food" title="Picture of food" class="gallery" /></a>
               </td>
             </tr>
           </table>

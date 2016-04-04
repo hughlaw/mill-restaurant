@@ -57,24 +57,25 @@
             <a href="images/galleryImages/121_2153.jpg" rel="lightbox[accommodation]" title="The Mill and New Lake"><img src="images/galleryImages/thumbnails/121_2153.jpg" alt="The Mill and New Lake" title="The Mill and New Lake" class="gallery" /></a>
           </td>
           <td>
-            <a href="images/galleryImages/IMG_0104.jpg" rel="lightbox[accommodation]" title="A room at the Mill"><img src="images/galleryImages/thumbnails/IMG_0104.jpg" alt="A room at the Mill" title="One of the Bedrooms at the Mill" class="gallery" /></a>
+            <a href="images/galleryImages/P1000279.jpg" rel="lightbox[accommodation]"><img src="images/galleryImages/thumbnails/P1000279.jpg" class="gallery" /></a>
           </td>
         </tr>
         <tr></tr>
         <tr>
           <td>
-            <a href="images/galleryImages/march-2011-085.jpg" rel="lightbox[accommodation]" title="A room at The Mill"><img src="images/galleryImages/thumbnails/march-2011-085.jpg" alt="A Room at The Mill" title="A Room at The Mill" class="gallery" /></a>
+            <a href="images/galleryImages/P1000277.jpg" rel="lightbox[accommodation]"><img src="images/galleryImages/thumbnails/P1000277.jpg" class="gallery" /></a>
           </td>
           <td>
-            <a href="images/galleryImages/march-2011-087.jpg" rel="lightbox[accommodation]" title="A room at the Mill"><img src="images/galleryImages/thumbnails/march-2011-087.jpg" alt="A room at the Mill" title="One of the Bedrooms at the Mill" class="gallery" /></a>
+            <a href="images/galleryImages/P1000278.jpg" rel="lightbox[accommodation]"><img src="images/galleryImages/thumbnails/P1000278.jpg" class="gallery" /></a>
           </td>
         </tr>
         <tr></tr>
+        <tr>
           <td>
-            <a href="images/galleryImages/IMG_0106.jpg" rel="lightbox[accommodation]" title="A Room at The Mill"><img src="images/galleryImages/thumbnails/IMG_0106.jpg" alt="A room at the Mill" title="A room at the Mill" class="gallery" /></a>
+            <a href="images/galleryImages/P1000290.jpg" rel="lightbox[accommodation]"><img src="images/galleryImages/thumbnails/P1000290.jpg" class="gallery" /></a>
           </td>
           <td>
-            <a href="images/galleryImages/photos-april-may-09-133.jpg" rel="lightbox[accommodation]" title="Comfortable surroundings"><img src="images/galleryImages/thumbnails/photos-april-may-09-133.jpg" alt="A Room at The Mill" title="A Room at The Mill" class="gallery" /></a>
+            <a href="images/galleryImages/IMG_0001_a.jpg" rel="lightbox[accommodation]"><img src="images/galleryImages/thumbnails/IMG_0001_a.jpg" class="gallery" /></a>
           </td>
         </tr>
       </table>
