@@ -54,7 +54,7 @@
       <table style="width:240px; margin:30px auto 0 auto">
         <tr>
           <td>
-            <a href="images/galleryImages/121_2153.jpg" rel="lightbox[accommodation]" title="The Mill and New Lake"><img src="images/galleryImages/thumbnails/121_2153.jpg" alt="The Mill and New Lake" title="The Mill and New Lake" class="gallery" /></a>
+            <a href="images/galleryImages/121_2153.jpg" rel="lightbox[accommodation]"><img src="images/galleryImages/thumbnails/121_2153.jpg" class="gallery" /></a>
           </td>
           <td>
             <a href="images/galleryImages/P1000279.jpg" rel="lightbox[accommodation]"><img src="images/galleryImages/thumbnails/P1000279.jpg" class="gallery" /></a>
