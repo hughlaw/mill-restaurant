@@ -28,7 +28,7 @@
       <div id="mainContentContainer">
         <div id="leftColumn">
           <h1>Welcome</h1>
-          <img src="images/bodyImage.png" class="scrapbook" style="float:left" alt="Picture of the Mill"/>
+          <img src="images/bodyImage.png" class="scrapbook" alt="Picture of the Mill"/>
           <p>Welcome to the Mill restaurant and accommodation, a small award winning restaurant with 7 individually decorated bedrooms.</p>
           <p>We provide a relaxed mixture of excellent food, comfortable interiors, local craft beer and good wine in a stunning rural location.</p>
           <p>In 1949, the Mill was bought by my Grandfather, Frank Egginton, a famous watercolour artist. He converted the old flax mill into his studio and home where he lived until his death in 1990. In 1999 work began again to modernise and enlarge the house so as to accommodate a restaurant, six ensuite bedrooms and our own living area. In 2016 we added the seventh bedroom, The Studio.</p>
@@ -42,15 +42,15 @@
                 </a>
               </td>
               <td>
-                <a href="images/galleryImages/IMG_0077.jpg" rel="lightbox[homepage]" title="Hanging Glasses">
-                  <img src="images/galleryImages/thumbnails/IMG_0077.jpg" alt="Glasses" title="Glasses" class="gallery" />
+                <a href="images/galleryImages/DSC_0049.jpg" rel="lightbox[homepage]" title="A view from one of our tables">
+                  <img src="images/galleryImages/thumbnails/DSC_0049.jpg" alt="The view from a table in the restaurant" title="A view from one of our tables" class="gallery" />
                 </a>
               </td>
             </tr>
             <tr>
               <td>
-                <a href="images/rooms/studio1.jpg" rel="lightbox[homepage]" title="The Studio">
-                  <img src="images/galleryImages/thumbnails/studio1.jpg" alt="room at the mill" title="The studio" class="gallery" />
+                <a href="images/galleryImages/DSC_0456.jpg" rel="lightbox[homepage]" title="The view over one of our many nearby beaches">
+                  <img src="images/galleryImages/thumbnails/DSC_0456.jpg" alt="the view overlooking nearby tra mor beach" title="The view over one of our many nearby beaches" class="gallery" />
                 </a>
               </td>
               <td>

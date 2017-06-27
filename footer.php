@@ -13,16 +13,16 @@ echo "
 </div>
 <div id='footerRightColumn'>
   <a href='reviews.php'>
-    <img src='images/georginaCampbell2016.jpg' alt='Georgina Campbell logo' title='Featured in the Georgina Campbell Best of the best guide' />
-  </a>
-  <a href='http://www.guides.ie' target='_blank'>
-    <img src='images/mckennas2016.jpg' alt='Irelands top 100 restaurants logo' title='Irelands top 100 restaurants' />
+    <img src='images/breakfast2017.png' alt='Georgina Campbell breakfast awards logo' title='Featured in the Georgina Campbell best breakfasts' />
   </a>
   <a href='reviews.php'>
-    <img src='images/ghg2016.png' alt='good hotels guide 2016' title='Featured in the good hotel guide 2016' />
+    <img src='images/county-winner-2017.png' alt='Irish restaurant awards winner logo' title='County winner of for the irish restaurant awards' />
   </a>
   <a href='reviews.php'>
-    <img src='images/michelin-accommodation2016.jpg' alt='michelin guide logo' title='Featured in the Michelin guide 2016' />
+    <img src='images/irish-hospitality-finalist-2017.png' alt='2017 Irish hospitality awards logo' title='Finalist in the 2017 Irish hospitality awards' />
+  </a>
+  <a href='reviews.php'>
+    <img src='images/mckennas2017.jpg' alt='McKenna guide logo' title='Awarded best in Ireland by the McKennas guide 2017' />
   </a>
   <br />
   <br />
