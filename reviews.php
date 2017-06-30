@@ -29,8 +29,11 @@
 	<div id="mainContentContainer">
 		<div id="leftColumn">
     		<h1>Reviews</h1>
-    		<p>The Mill has been featured in many magazines and guides as being on of Ireland's best places to stay and eat, including:</p>
+    		<p>The Mill has been featured in many magazines and guides as being one of Ireland's best places to stay and eat, including:</p>
             <ul>
+              <li>County winner in the Irish Restaurant Awards 2017</li>
+              <li>Highly commended in the Georgina Cambell Irish Breakfast Awards</li>
+              <li>Fetuared in the <a href="http://www.guides.ie/recommendations/mill-restaurant" target="_blank">McKenna 100 Best Restaurants</a> 2017</li>
               <li>Best Restaurant in Donegal 2014, Irish Restaurant Association of Ireland</li>
               <li>Best Chef in Donegal 2013 Irish Restaurant Association Awards</li>
               <li>Best Restaurant In Donegal 2011 &amp; 2012, Restaurant Association Of Ireland</li>
@@ -80,26 +83,27 @@
     <div id="rightColumn">
         <table style="width:240px; margin:30px auto 0 auto">
             <tr>
-                <td><img src="images/georginaCampbell2016.jpg" alt="Featured in Georgina Campbell's Best of the Best Guide" title="Featured in Georgina Campbell's Best of the Best Guide" class="gallery" /></td>
+                <td><a href="http://www.ireland-guide.com/establishment/mill-restaurant-and-accommodation-the.3355.html" target="_blank"><img src="images/georgina-campbell-logo.png" alt="Featured in Georgina Campbell's Best of the Best Guide" title="Featured in Georgina Campbell's Best of the Best Guide" class="gallery" /></a></td>
+                <td><a href="http://www.guides.ie/recommendations/mill-restaurant" target="_blank"><img src="images/mckennas2017.jpg" alt="McKennas best in Ireland logo" title="Featured in the McKennas best in Ireland guide" class="gallery" /></a></td>
+
+            </tr>
+            <tr>
+              <td colspan="2" style="text-align:center; padding:30px 0;">
+                <a href="http://www.wildatlanticway.com/" target="_blank"><img src="images/WAW-logo.png" alt="Wild atlantic way logo" /></a>
+              </td>
+            </tr>
+            <tr>
                 <td><img src="images/waw2015.jpg" class="gallery" alt="Wild atlantic way logo" title="Features in the McKennas 'Where to eat on the Wild Atlantic Way' guide"/></td>
+                <td><img src="images/michelin-accommodation2017.jpg" alt="Featured in The Michelin Guide" title="Featured in the Michelin Guide" class="gallery" /></td>
             </tr>
             <tr>
               <td colspan="2" style="text-align:center; padding:30px 0;">
-                <img src="images/WAW-logo.png" alt="Wild atlantic way logo" />
+                <a href="http://www.failteireland.ie/" target="_blank"><img src="images/Welcome-Standard-Logo.png" alt="Fáilte Ireland welcome standard logo" /></a>
               </td>
             </tr>
             <tr>
-                <td><img src="images/mckennas2016.jpg" alt="McKennas best in Ireland logo" title="Featured in the McKennas best in Ireland guide" class="gallery" /></td>
-                <td><img src="images/michelin-accommodation2016.jpg" alt="Featured in The Michelin Guide" title="Featured in the Michelin Guide" class="gallery" /></td>
-            </tr>
-            <tr>
-              <td colspan="2" style="text-align:center; padding:30px 0;">
-                <img src="images/Welcome-Standard-Logo.png" alt="Fáilte Ireland welcome standard logo" />
-              </td>
-            </tr>
-            <tr>
-                <td><img src="images/galleryImages/thumbnails/failte.jpg" alt="Featured in Frommers Ireland" title="Featured by Failte Ireland" class="gallery" /></td>
-                <td><img src="images/ghg2016.png" alt="Featured in the Good Hotel Guide" title="Featured in the Good Hotel Guide" class="gallery" /></td>
+                <td><a href="http://www.failteireland.ie/" target="_blank"><img src="images/galleryImages/thumbnails/failte.jpg" alt="Featured in Frommers Ireland" title="Featured by Failte Ireland" class="gallery" /></a></td>
+                <td><img src="images/ghg2017.jpg" alt="Featured in the Good Hotel Guide" title="Featured in the Good Hotel Guide" class="gallery" /></td>
             </tr>
         </table>
     </div>

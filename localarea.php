@@ -28,18 +28,19 @@
         <div id="mainContentContainer">
             <div id="leftColumn">
                 <h1>Local Area</h1>
-                <p>Dunfanaghy and the surrounding area is full of great attractions to suit all ages and tastes.</p>
+                <p>Dunfanaghy and the surrounding area is full of great attractions to suit all ages and tastes, not to mention Donegal being named <a href="http://www.natgeotraveller.co.uk/smart-travel/features/cool-list-17-2017/" target="_blank">the &quot;coolest place on the planet&quot; by National Geographic</a>.</p>
                 <ul>
-                    <li><a href="http://www.thegallerydunfanaghy.com">The Gallery Craft Shop, Antiques and Paintings</a></li>
-                    <li><a href="http://www.narosalife.com/">Narosa Surf School</a> and shop</li>
-                    <li><a href="http://www.facebook.com/pages/Greenman-Dunfanaghy/205962555055">The Green Man Deli and Speciality Food</a></li>
+                    <li><a href="http://www.thegallerydunfanaghy.com" target="_blank">The Gallery Craft Shop, Antiques and Paintings</a></li>
+                    <li><a href="http://www.narosalife.com/" target="_blank">Narosa Surf School</a> and shop</li>
+                    <li><a href="http://www.jawswatersports.com/" target="_blank">Jaws Surf Club and School</a>, Dunfanaghy</li>
+                    <li><a href="http://www.facebook.com/pages/Greenman-Dunfanaghy/205962555055" target="_blank">The Green Man Deli and Speciality Food</a></li>
+                    <li><a href="https://www.facebook.com/ShackCoffee.ie/" target="_blank">The Shack</a> - coffee with a view of Marble Hill beach</li>
                     <li><a href="http://www.dunfanaghyworkhouse.ie/" target="_blank">The Workhouse Heritage Centre and Coffee Shop</a></li>
                     <li><a href="http://www.mucknmuffins.com/" target="_blank">Muck'n'Muffins Pottery and Coffee Shop</a></li>
                     <li>McAuliffes Craft Shop</li>
                     <li>Dunfanaghy Cinema Club - contact The Workhouse, Dunfanaghy</li>
                     <li>Olivia's Gifts and Boutique</li>
                     <li><a href="http://www.coillteoutdoors.ie/?id=53&amp;rec_site=58" target="_blank">Ards Forest Park</a></li>
-                    <li>Joe and Anne Kanes Pottery and Coffee Shop</li>
                     <li><a href="http://en.wikipedia.org/wiki/Doe_Castle" target="_blank">Doe Castle</a></li>
                     <li><a href="http://www.glenveaghnationalpark.ie/" target="_blank">Glenveagh National Park</a></li>
                     <li>Glebe Gallery</li>
@@ -49,7 +50,6 @@
                 <ul>
                     <li><a href="http://www.dunfanaghygolfclub.com/" target="_blank">18 hole links golf course, Dunfanaghy</a></li>
                     <li>9 hole course, Falcarragh</li>
-                    <li><a href="http://www.jawswatersports.com/" target="_blank">Jaws Surf Club and School, Dunfanaghy</a></li>
                     <li><a href="http://www.arnoldshotel.com" target="_blank">Horse riding at Arnolds Hotel</a></li>
                     <li>Sea fishing and boat trips</li>
                     <li>Lake fishing and boat hire</li>
@@ -63,7 +63,6 @@
                 <p>For further information about what's going on, visit <a href="http://www.dunfanaghy.info">www.dunfanaghy.info</a></p>
                 <p>Other useful links:</p>
                 <ul>
-                    <li>Happy Tails Dog Sitters, an overnight dog sitting service in Dunfanaghy, contact +353 (0)86 3198636</li>
                     <li><a href="http://www.goodhotelguide.com/" target="_blank">The Good Hotel Guide</a></li>
                     <li><a href="http://www.discoverireland.ie/Places-To-Go/Donegal">Donegal on Discover Ireland</a></li>
                 </ul>

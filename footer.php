@@ -26,8 +26,8 @@ echo "
   </a>
   <br />
   <br />
-  <img src='images/WAW-logo.png' alt='Wild atlantic way logo' />
-  <img src='images/Welcome-Standard-Logo.png' alt='Welcome standard logo' />
+  <a href='http://www.wildatlanticway.com/'><img src='images/WAW-logo.png' alt='Wild atlantic way logo' /></a>
+  <a href='http://www.failteireland.ie/' target='_blank'><img src='images/Welcome-Standard-Logo.png' alt='Welcome standard logo' /></a>
 </div>
 <div class='cf'></div>";
 ?>

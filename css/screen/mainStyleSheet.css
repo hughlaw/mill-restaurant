@@ -7,8 +7,8 @@
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
-del, dfn, em, font, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
+del, dfn, font, img, ins, kbd, q, s, samp,
+small, strike, sub, sup, tt, var,
 dl, dt, dd,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td {
@@ -37,7 +37,7 @@ body {
 	background: white;
 	/*text-align:center;*/
 }
-ol, ul {
+ul {
 	list-style:circle;
 }
 /* tables still need 'cellspacing="0"' in the markup */
@@ -229,13 +229,20 @@ p {
 li {
 	font:13px normal Helvetica, Arial, sans-serif;
 	line-height:1.25em;
-	}
+}
+ol {
+  list
+}
+
+ol li {
+  display: inline;
+}
 
 .scrapbook {
   float:right;
 	border:1px solid #ccc;
 	padding:3px;
-	margin-right:10px;
+	margin:0 0 10px 10px;
 	background:#fff;
 	}
 

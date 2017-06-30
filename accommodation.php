@@ -29,8 +29,8 @@
   <div id="mainContentContainer">
     <div id="leftColumn">
       <h1>Rooms</h1>
-      <p>Our seven bedrooms are individually decorated and named after our nearby townlands with the exception of The Studio, which was where my grandfather painted, our new addition for 2016.</p>
-      <p>Check in is from 4pm and Check out is 11am. On arrival tea/coffee and homemade shortbread is served in the conservatory, a lovely relaxed beginning to your stay with us. Breakfast is served in the restaurant from 8.30am-9.30am. Rooms have individual thermostats, hairdryers, televisions and use of DVD player and selection of DVDs. Bookings for the year are taken from 1st March.</p>
+      <p><a href="images/galleryImages/breakfast-award-2017.png" rel="lightbox"><img src="images/breakfast2017.png" alt="Irish breakfast awards logo" title="Winner in the Georgina Campbell Irish Breakfast Awards 2017" class="scrapbook"></a>Our seven bedrooms are individually decorated and named after our nearby townlands with the exception of The Studio, which was where my grandfather painted.</p>
+      <p>Check in is from 4pm and Check out is 11am. On arrival tea/coffee and homemade shortbread is served in the conservatory, a lovely relaxed beginning to your stay with us. Our <em>award winning breakfast</em> is served in the restaurant from 8.30am-9.30am. Rooms have individual thermostats, hairdryers, televisions and use of DVD player and selection of DVDs. Bookings for the year are taken from 1st March.</p>
 
       <p>All rooms have complimentary:</p>
       <ul>
@@ -40,14 +40,14 @@
         <li>Wine</li>
       </ul>
 
-      <h3>Opening times 2016</h3>
+      <h3>Opening times 2017</h3>
       <ul>
-        <li>St.Patricks weekend, 18th, 19th and 20th March</li>
-        <li>Easter  24th March -2nd April</li>
-        <li>Weekends, Fridays and Saturdays during April</li>
-        <li>Open every night from 1st May – 1st October</li>
-        <li>Open Thursday – Sunday from 14th October</li>
-        <li>Weekends , Fridays and Saturdays  from 4th November-10th December</li>
+        <li><strong>March to April</strong> - Weekends only, Fridays &amp; Saturdays 7-9pm</li>
+        <li><strong>May to June</strong> - Accommodation open every night, Restaurant open Wednesday to Sunday</li>
+        <li><strong>July to August</strong> - Accommodation open every night, Restaurant open Tuesday - Sunday</li>
+        <li><strong>September</strong> - Accommodation open every night, Restaurant open Wednesday - Sunday</li>
+        <li><strong>October</strong> - Accommodation and Restaurant open from 12 th October, Thursday - Sunday</li>
+        <li><strong>November</strong> - Open Fridays and Saturdays</li>
       </ul>
     </div>
     <div id="rightColumn">
