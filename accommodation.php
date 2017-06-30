@@ -29,8 +29,8 @@
   <div id="mainContentContainer">
     <div id="leftColumn">
       <h1>Rooms</h1>
-      <p>Our seven bedrooms are individually decorated and named after our nearby townlands with the exception of The Studio, which was where my grandfather painted, our new addition for 2016.</p>
-      <p>Check in is from 4pm and Check out is 11am. On arrival tea/coffee and homemade shortbread is served in the conservatory, a lovely relaxed beginning to your stay with us. Breakfast is served in the restaurant from 8.30am-9.30am. Rooms have individual thermostats, hairdryers, televisions and use of DVD player and selection of DVDs. Bookings for the year are taken from 1st March.</p>
+      <p><a href="images/galleryImages/breakfast-award-2017.png" rel="lightbox"><img src="images/breakfast2017.png" alt="Irish breakfast awards logo" title="Winner in the Georgina Campbell Irish Breakfast Awards 2017" class="scrapbook"></a>Our seven bedrooms are individually decorated and named after our nearby townlands with the exception of The Studio, which was where my grandfather painted.</p>
+      <p>Check in is from 4pm and Check out is 11am. On arrival tea/coffee and homemade shortbread is served in the conservatory, a lovely relaxed beginning to your stay with us. Our <em>award winning breakfast</em> is served in the restaurant from 8.30am-9.30am. Rooms have individual thermostats, hairdryers, televisions and use of DVD player and selection of DVDs. Bookings for the year are taken from 1st March.</p>
 
       <p>All rooms have complimentary:</p>
       <ul>
@@ -40,41 +40,42 @@
         <li>Wine</li>
       </ul>
 
-      <h3>Opening times 2016</h3>
+      <h3>Opening times 2017</h3>
       <ul>
-        <li>St.Patricks weekend, 18th, 19th and 20th March</li>
-        <li>Easter  24th March -2nd April</li>
-        <li>Weekends, Fridays and Saturdays during April</li>
-        <li>Open every night from 1st May – 1st October</li>
-        <li>Open Thursday – Sunday from 14th October</li>
-        <li>Weekends , Fridays and Saturdays  from 4th November-10th December</li>
+        <li><strong>March to April</strong> - Weekends only, Fridays &amp; Saturdays 7-9pm</li>
+        <li><strong>May to June</strong> - Accommodation open every night, Restaurant open Wednesday to Sunday</li>
+        <li><strong>July to August</strong> - Accommodation open every night, Restaurant open Tuesday - Sunday</li>
+        <li><strong>September</strong> - Accommodation open every night, Restaurant open Wednesday - Sunday</li>
+        <li><strong>October</strong> - Accommodation and Restaurant open from 12 th October, Thursday - Sunday</li>
+        <li><strong>November</strong> - Open Fridays and Saturdays</li>
       </ul>
     </div>
     <div id="rightColumn">
       <table style="width:240px; margin:30px auto 0 auto">
         <tr>
           <td>
-            <a href="images/galleryImages/121_2153.jpg" rel="lightbox[accommodation]" title="The Mill and New Lake"><img src="images/galleryImages/thumbnails/121_2153.jpg" alt="The Mill and New Lake" title="The Mill and New Lake" class="gallery" /></a>
+            <a href="images/galleryImages/121_2153.jpg" rel="lightbox[accommodation]"><img src="images/galleryImages/thumbnails/121_2153.jpg" class="gallery" /></a>
           </td>
           <td>
-            <a href="images/galleryImages/IMG_0104.jpg" rel="lightbox[accommodation]" title="A room at the Mill"><img src="images/galleryImages/thumbnails/IMG_0104.jpg" alt="A room at the Mill" title="One of the Bedrooms at the Mill" class="gallery" /></a>
+            <a href="images/galleryImages/P1000279.jpg" rel="lightbox[accommodation]"><img src="images/galleryImages/thumbnails/P1000279.jpg" class="gallery" /></a>
           </td>
         </tr>
         <tr></tr>
         <tr>
           <td>
-            <a href="images/galleryImages/march-2011-085.jpg" rel="lightbox[accommodation]" title="A room at The Mill"><img src="images/galleryImages/thumbnails/march-2011-085.jpg" alt="A Room at The Mill" title="A Room at The Mill" class="gallery" /></a>
+            <a href="images/galleryImages/P1000277.jpg" rel="lightbox[accommodation]"><img src="images/galleryImages/thumbnails/P1000277.jpg" class="gallery" /></a>
           </td>
           <td>
-            <a href="images/galleryImages/march-2011-087.jpg" rel="lightbox[accommodation]" title="A room at the Mill"><img src="images/galleryImages/thumbnails/march-2011-087.jpg" alt="A room at the Mill" title="One of the Bedrooms at the Mill" class="gallery" /></a>
+            <a href="images/galleryImages/P1000278.jpg" rel="lightbox[accommodation]"><img src="images/galleryImages/thumbnails/P1000278.jpg" class="gallery" /></a>
           </td>
         </tr>
         <tr></tr>
+        <tr>
           <td>
-            <a href="images/galleryImages/IMG_0106.jpg" rel="lightbox[accommodation]" title="A Room at The Mill"><img src="images/galleryImages/thumbnails/IMG_0106.jpg" alt="A room at the Mill" title="A room at the Mill" class="gallery" /></a>
+            <a href="images/galleryImages/P1000290.jpg" rel="lightbox[accommodation]"><img src="images/galleryImages/thumbnails/P1000290.jpg" class="gallery" /></a>
           </td>
           <td>
-            <a href="images/galleryImages/photos-april-may-09-133.jpg" rel="lightbox[accommodation]" title="Comfortable surroundings"><img src="images/galleryImages/thumbnails/photos-april-may-09-133.jpg" alt="A Room at The Mill" title="A Room at The Mill" class="gallery" /></a>
+            <a href="images/galleryImages/IMG_0001_a.jpg" rel="lightbox[accommodation]"><img src="images/galleryImages/thumbnails/IMG_0001_a.jpg" class="gallery" /></a>
           </td>
         </tr>
       </table>
@@ -117,6 +118,10 @@
     <div class="c-tab">
       <div class="c-tab__content">
         <h3>Figart</h3>
+        <img
+          src="images/rooms/figart1.jpg"
+          alt="the figart room at the mill"
+          class='bordered room-photo' />
         <ul>
           <li>168 sq feet</li>
           <li>Double bed with ensuite bath and shower</li>
@@ -125,6 +130,7 @@
         </ul>
         <p><strong>Price:</strong> &euro;50 per person bed &amp; breakfast / &euro;20 single supplement</p>
         <a class="btn" href="mailto:&#105;&#110;&#102;&#111;&#064;&#116;&#104;&#101;&#109;&#105;&#108;&#108;&#114;&#101;&#115;&#116;&#097;&#117;&#114;&#097;&#110;&#116;&#046;&#099;&#111;&#109;?subject=Website enquiry about a room (Figart)">Enquire about this room</a>
+        <div class="cf"></div>
       </div>
     </div>
     <div class="c-tab">
@@ -203,6 +209,10 @@
     <div class="c-tab">
       <div class="c-tab__content">
         <h3>Corgannive</h3>
+        <img
+          src="images/rooms/corgannive1.jpg"
+          alt="a room at the mill"
+          class='bordered room-photo' />
         <ul>
           <li>187.5 sq feet</li>
           <li>Kingsize bed and single bed (twin option)</li>
@@ -212,6 +222,7 @@
         </ul>
         <p><strong>Price:</strong> &euro;55 per person bed &amp; breakfast</p>
         <a class="btn" href="mailto:&#105;&#110;&#102;&#111;&#064;&#116;&#104;&#101;&#109;&#105;&#108;&#108;&#114;&#101;&#115;&#116;&#097;&#117;&#114;&#097;&#110;&#116;&#046;&#099;&#111;&#109;?subject=Website enquiry about a room (Corgannive)">Enquire about this room</a>
+        <div class="cf"></div>
       </div>
     </div>
     <div class="c-tab">
