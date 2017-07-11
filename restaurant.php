@@ -22,10 +22,7 @@
 
   <body>
     <div id="container">
-      <div id="header">
-        <img src="images/header.jpg" alt="Header Image of restaurant and surrounding area" usemap="#Map" />
-        <map name="Map" id="Map"><area shape="rect" alt="Go back to home page" coords="354,35,595,119" href="/" /></map>
-      </div>
+      <?php include 'header.php'; ?>
       <div id="navigation">
         <?php include 'navigation.php';?>
       </div>
@@ -37,6 +34,7 @@
           <div style="clear:both"></div>
           <p><a href="images/galleryImages/County-Winner-2017.jpg" rel="lightbox" title="County winner of the Irish resturant awards 2017"><img src="images/galleryImages/thumbnails/County-Winner-2017.jpg" alt="Irish restaurant awards logo" class="scrapbook" /></a>Our restaurant, seating 30 people, offers our customers a very special evening, starting the six course dinner menu with canapés and aperitifs at the turf fire or in the conservatory and ending with tea/coffee and petit fours in the same comfortable surroundings.</p>
           <p>Our menu is based on seasonal local produce, with the majority of our suppliers living within a ten mile radius. We offer local craft beers and a small interesting wine list.</p>
+          <p><strong>Dinner menu price: &euro;45 per person</strong></p>
           <p>Reservations for the year are taken from 1st March.</p>
         </div><!-- / #leftColumn -->
 
@@ -65,7 +63,7 @@
 
         <div id="tabs" class="c-tabs no-js">
           <div class="c-tabs-nav">
-            <a href="#" class="c-tabs-nav__link is-active">Opening hours 2016</a>
+            <a href="#" class="c-tabs-nav__link is-active">Opening hours</a>
             <a href="#" class="c-tabs-nav__link">Dinner menu</a>
             <a href="#" class="c-tabs-nav__link">Breakfast menu</a>
             <a href="#" class="c-tabs-nav__link">Local producers</a>
@@ -73,7 +71,7 @@
 
           <div class="c-tab is-active">
             <div class="c-tab__content">
-              <h3>Opening hours 2016</h3>
+              <h3>Opening hours</h3>
               <ul>
                   <li><strong>May to June</strong> - Wednesday to Sunday</li>
                   <li><strong>July to August</strong> - Tuesday to Sunday </li>

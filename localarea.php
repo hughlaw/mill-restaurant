@@ -19,9 +19,7 @@
 
     <body>
         <div id="container">
-        <div id="header">
-            <img src="images/header.jpg" alt="Header Image of restaurant and surrounding area" usemap="#Map" />
-            <map name="Map" id="Map"><area shape="rect"  alt="Go back to home page" coords="354,35,595,119" href="/" /></map>	</div>
+          <?php include 'header.php'; ?>
         <div id="navigation">
             <?php include 'navigation.php';	?>
         </div>
@@ -58,7 +56,6 @@
                     <li><a href="http://www.gartan.com" target="_blank">Gartan Outdoor Centre</a></li>
                     <li>Numerous safe and sandy beaches, Killyhoey and Marble Hill beaches fly the coveted Blue Flag</li>
                     <li>Traditional and contemporary music in local pubs</li>
-                    <li>Archery, Fanad</li>
                 </ul>
                 <p>For further information about what's going on, visit <a href="http://www.dunfanaghy.info">www.dunfanaghy.info</a></p>
                 <p>Other useful links:</p>
@@ -84,7 +81,7 @@
                     <td><a href="images/galleryImages/Marble-Hill-Cove.jpg" rel="lightbox[homepage]" title="Marble Hill Beach"><img src="images/galleryImages/thumbnails/Marble-Hill-Cove.jpg" alt="Marble Hill Beach" title="Marble Hill Beach" class="gallery" /></a></td>
                 </tr>
                 <tr>
-                    <td><a href="images/galleryImages/Sessiagh-Lough-card.jpg" rel="lightbox[homepage]" title="Nearby Sessiagh Lough"><img src="images/galleryImages/thumbnails/Sessiagh-Lough-card.jpg" alt="Nearby Sessiagh Lough" title="Nearby Sessiagh Lough" class="gallery" /></a></td>
+                    <td><a href="images/galleryImages/dunfanaghy-from-hornhead.jpg" rel="lightbox[homepage]" title="The view of Dunfanaghy from Horn Head"><img src="images/galleryImages/thumbnails/dunfanaghy-from-hornhead.jpg" alt="Evening Sunset" title="The view of Dunfanaghy from Horn Head" class="gallery" /></a></td>
                     <td><a href="images/galleryImages/Yacht-Ards-landscape.jpg" rel="lightbox[homepage]" title="One of the many beautiful beaches at Ards"><img src="images/galleryImages/thumbnails/Yacht-Ards-landscape.jpg" alt="One of the many beautiful beaches at Ards" title="One of the many beuatiful beaches at Ards" class="gallery" /></a></td>
                 </tr>
             </table>    </div>
