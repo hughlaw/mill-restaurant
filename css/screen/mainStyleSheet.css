@@ -175,7 +175,7 @@ caption, th, td {
 a:link, a:visited {
 	text-decoration:none;
 	/*border-bottom:1px dotted #0033FF;*/
-	color:#0033FF;
+	color:#5f82a9;
 }
 
 a:hover, a:active {
@@ -279,7 +279,10 @@ ol li {
 }
 
 iframe {
-	border:1px solid black;
+	outline:8px solid white;
+  width: 442px;
+  height: 430px;
+  margin: 40px 0 30px;
 	}
 
 blockquote {
@@ -391,4 +394,8 @@ Helpers
 .btn:hover {
   background: #77abe0;
   text-decoration: none;
+}
+
+.text-center {
+  text-align: center;
 }

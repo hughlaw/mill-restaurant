@@ -18,10 +18,7 @@
 
   <body>
     <div id="container">
-      <div id="header">
-        <img src="images/header.jpg" alt="Header Image of restaurant and surrounding area" border="0" usemap="#Map" />
-        <map name="Map" id="Map"><area shape="rect"  alt="Go back to home page" coords="354,35,595,119" href="/" /></map>
-      </div>
+      <?php include 'header.php'; ?>
       <div id="navigation">
         <?php include 'navigation.php';  ?>
       </div>
@@ -35,6 +32,14 @@
         </div>
         <div id="rightColumn">
           <table style="width:240px; margin:30px auto 0 auto">
+            <tr>
+                <td><a href="http://www.ireland-guide.com/establishment/mill-restaurant-and-accommodation-the.3355.html" target="_blank"><img src="images/georgina-campbell-logo.png" alt="Featured in Georgina Campbell's Best of the Best Guide" title="Featured in Georgina Campbell's Best of the Best Guide" class="gallery" /></a></td>
+                <td><a href="http://www.guides.ie/recommendations/mill-restaurant" target="_blank"><img src="images/mckennas2017.jpg" alt="McKennas best in Ireland logo" title="Featured in the McKennas best in Ireland guide" class="gallery" /></a></td>
+            </tr>
+            <tr>
+                <td><img src="images/ghg2017.jpg" alt="Featured in the Good Hotel Guide" title="Featured in the Good Hotel Guide" class="gallery" /></td>
+                <td><img src="images/michelin-accommodation2017.jpg" alt="Featured in The Michelin Guide" title="Featured in the Michelin Guide" class="gallery" /></td>
+            </tr>
             <tr>
               <td>
                 <a href="images/galleryImages/Deep-fried-oysters-&amp;-grilled-mackle.jpg" rel="lightbox[homepage]" title="Deep Fried Oysters and Grilled Mackerel">

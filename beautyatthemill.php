@@ -19,9 +19,7 @@
 
 <body>
 <div id="container">
-	<div id="header">
-		<img src="images/header.jpg" alt="Header Image of restaurant and surrounding area" usemap="#Map" />
-        <map name="Map" id="Map"><area shape="rect"  alt="Go back to home page" coords="354,35,595,119" href="/" /></map>	</div>
+	<?php include 'header.php'; ?>
 	<div id="navigation">
 		<?php include 'navigation.php';	?>
 	</div>
@@ -93,7 +91,7 @@
                 <td class="tableRight">€20</td>
             </tr>
             </table>
-            
+
             <h4>Hands &amp; Feet</h4>
              <table class="priceList">
             <tr>
@@ -174,7 +172,7 @@
             </tr>
             </table>
 
-            
+
     	</div>
     <div id="rightColumn">
 <table style="width:240px; margin:30px auto 30px auto">
@@ -188,7 +186,7 @@
         	<img class="gallery" src="images/manicure.jpg" title="Manicure" alt="Manicure" />
         </td>
     </tr>
-    </table> 
+    </table>
     </div>
     <div style="clear:both"></div>
     <div id="footer">

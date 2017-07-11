@@ -15,9 +15,7 @@
 
 <body>
 <div id="container">
-	<div id="header">
-		<img src="images/header.jpg" alt="Header Image of restaurant and surrounding area" usemap="#Map" />
-        <map name="Map" id="Map"><area shape="rect"  alt="Go back to home page" coords="354,35,595,119" href="/" /></map>	</div>
+	<?php include 'header.php'; ?>
 	<div id="navigation">
 		<?php include 'navigation.php';	?>
 	</div>
@@ -69,10 +67,13 @@
     	</div>
     <div id="rightColumn">
     <div align="left">
-    <iframe width="455" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=115181840989460186947.00046f21e5f2222fd0392&amp;ll=54.977614,-7.855225&amp;spn=1.103395,2.197266&amp;z=8&amp;output=embed"></iframe><br /><p><a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=115181840989460186947.00046f21e5f2222fd0392&amp;ll=54.977614,-7.855225&amp;spn=1.103395,2.197266&amp;z=8&amp;source=embed" style="color:#0000FF;text-align:left">View a larger version of this map</a></p>
-    <p>The Mill is situated at Dunfanaghy, in North West Donegal.</p>
-    <p>From Letterkenny, take the N56, we are situated half a mile past the village on the right, at the shores of the new lake.<br /> You can use the interactive map to the right to see our exact location, marked by the blue pin.</p>
-    <p>You can also get directions by clicking the blue pin and then selecting 'Get Directions to Here'</p>
+      <iframe src="//www.google.com/maps/embed/v1/place?q=The%20Mill,Dunfanaghy,Ireland
+        &zoom=13
+        &key=AIzaSyCSO1PN83N-tMO9d41wvhQEjN8H7w3aPfY">
+      </iframe>
+      <p>The Mill is situated at Dunfanaghy, in North West Donegal.</p>
+      <p>From Letterkenny, take the N56, we are situated half a mile past the village on the right, at the shores of the new lake.<br /> You can use the interactive map to the right to see our exact location, marked by the blue pin.</p>
+      <p>You can also get directions by clicking the blue pin and then selecting 'Get Directions to Here'</p>
     </div>
     </div>
     <div style="clear:both"></div>
