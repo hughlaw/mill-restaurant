@@ -73,11 +73,12 @@
             <div class="c-tab__content">
               <h3>Opening hours</h3>
               <ul>
-                  <li><strong>May to June</strong> - Wednesday to Sunday</li>
-                  <li><strong>July to August</strong> - Tuesday to Sunday </li>
-                  <li><strong>September</strong> - Wednesday to Sunday</li>
-                  <li><strong>October</strong> - From 12th October, Thursday to Sunday</li>
-                  <li><strong>November</strong> - Fridays and Saturdays only</li>
+                <li><strong>March to April</strong> - Weekends only, Fridays &amp; Saturdays 7-9pm</li>
+                <li><strong>May to June</strong> - Accommodation open every night, Restaurant open Wednesday to Sunday</li>
+                <li><strong>July to August</strong> - Accommodation open every night, Restaurant open Tuesday - Sunday</li>
+                <li><strong>September</strong> - Accommodation open every night, Restaurant open Wednesday - Sunday</li>
+                <li><strong>October</strong> - Accommodation and Restaurant open from 12 th October, Thursday - Sunday</li>
+                <li><strong>November</strong> - Open Fridays and Saturdays</li>
               </ul>
             </div>
           </div>
