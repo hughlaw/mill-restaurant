@@ -168,6 +168,10 @@ caption, th, td {
   margin-bottom: 10px;
 }
 
+#footer img.footer-image {
+  width:80px;
+}
+
 #guides {
 	text-align:center;
 	margin:10px 0 10px 0;

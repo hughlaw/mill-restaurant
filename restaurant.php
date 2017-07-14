@@ -77,7 +77,7 @@
                 <li><strong>May to June</strong> - Accommodation open every night, Restaurant open Wednesday to Sunday</li>
                 <li><strong>July to August</strong> - Accommodation open every night, Restaurant open Tuesday - Sunday</li>
                 <li><strong>September</strong> - Accommodation open every night, Restaurant open Wednesday - Sunday</li>
-                <li><strong>October</strong> - Accommodation and Restaurant open from 12 th October, Thursday - Sunday</li>
+                <li><strong>October</strong> - Accommodation and Restaurant open from 13th October, Thursday - Sunday</li>
                 <li><strong>November</strong> - Open Fridays and Saturdays</li>
               </ul>
             </div>
