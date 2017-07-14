@@ -12,19 +12,27 @@ echo "
   <p><a href='https://www.facebook.com/themilldunfanaghy/' target='_blank'><img src='images/FB-FindUsonFacebook-online-100.png' alt='find us on facebook logo' title='Find us on facebook'/></a></p>
 </div>
 <div id='footerRightColumn'>
-  <a href='reviews.php'>
-    <img src='images/breakfast2017.png' alt='Georgina Campbell breakfast awards logo' title='Featured in the Georgina Campbell best breakfasts' />
+  <a href='http://www.ireland-guide.com/establishment/mill-restaurant-and-accommodation-the.3355.html' target='_blank'>
+    <img class='footer-image' src='images/georgina-campbell-logo.png' alt='Featured in Georgina Campbell's Best of the Best Guide' title='Featured in Georgina Campbell's Best of the Best Guide' />
   </a>
   <a href='reviews.php'>
-    <img src='images/county-winner-2017.png' alt='Irish restaurant awards winner logo' title='County winner of for the irish restaurant awards' />
+    <img class='footer-image' src='images/county-winner-2017.png' alt='Irish restaurant awards winner logo' title='County winner of for the irish restaurant awards' />
+  </a>
+  <a href='http://www.guides.ie/recommendations/mill-restaurant' target='_blank'>
+    <img class='footer-image' src='images/mckennas2017.jpg' alt='McKenna guide logo' title='Awarded best in Ireland by the McKennas guide 2017' />
   </a>
   <a href='reviews.php'>
-    <img src='images/irish-hospitality-finalist-2017.png' alt='2017 Irish hospitality awards logo' title='Finalist in the 2017 Irish hospitality awards' />
+    <img class='footer-image' src='images/irish-hospitality-finalist-2017.png' alt='2017 Irish hospitality awards logo' title='Finalist in the 2017 Irish hospitality awards' />
   </a>
   <a href='reviews.php'>
-    <img src='images/mckennas2017.jpg' alt='McKenna guide logo' title='Awarded best in Ireland by the McKennas guide 2017' />
+    <img class='footer-image' src='images/michelin-accommodation2017.jpg' alt='Featured in The Michelin Guide' title='Featured in the Michelin Guide' />
   </a>
-  <br />
+  <a href='reviews.php'>
+    <img class='footer-image' src='images/breakfast2017.png' alt='Georgina Campbell breakfast awards logo' title='Featured in the Georgina Campbell best breakfasts' />
+  </a>
+  <a href='reviews.php'>
+    <img class='footer-image' src='images/ghg2017.jpg' alt='Featured in the Good Hotel Guide' title='Featured in the Good Hotel Guide' />
+  </a>
   <br />
   <a href='http://www.wildatlanticway.com/'><img src='images/WAW-logo.png' alt='Wild atlantic way logo' /></a>
   <a href='http://www.failteireland.ie/' target='_blank'><img src='images/Welcome-Standard-Logo.png' alt='Welcome standard logo' /></a>

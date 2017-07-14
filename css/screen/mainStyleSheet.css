@@ -164,6 +164,14 @@ caption, th, td {
 	color: #363636;
 }
 
+#footer img {
+  margin-bottom: 10px;
+}
+
+#footer img.footer-image {
+  width:80px;
+}
+
 #guides {
 	text-align:center;
 	margin:10px 0 10px 0;
