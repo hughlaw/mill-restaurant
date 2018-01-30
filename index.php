@@ -23,6 +23,9 @@
         <?php include 'navigation.php';  ?>
       </div>
       <div id="mainContentContainer">
+        <div class="alert">
+          <p>Please note we are closed until 16th March. We will be taking bookings from the 1st of March.</p>
+        </div>
         <div id="leftColumn">
           <h1>Welcome</h1>
           <img src="images/bodyImage.png" class="scrapbook" alt="Picture of the Mill"/>
