@@ -50,6 +50,14 @@
     <div id="rightColumn">
       <table style="width:240px; margin:30px auto 0 auto">
         <tr>
+          <td colspan="2" style="text-align:center">
+            <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room now</a>
+          </td>
+        </tr>
+        <tr>
+
+        </tr>
+        <tr>
           <td>
             <a href="images/galleryImages/121_2153.jpg" rel="lightbox[accommodation]"><img src="images/galleryImages/thumbnails/121_2153.jpg" class="gallery" /></a>
           </td>
@@ -108,7 +116,7 @@
           <li>Sitting Area</li>
         </ul>
         <p><strong>Price:</strong> &euro;75 per person bed &amp; breakfast</p>
-        <a class="btn" href="mailto:&#105;&#110;&#102;&#111;&#064;&#116;&#104;&#101;&#109;&#105;&#108;&#108;&#114;&#101;&#115;&#116;&#097;&#117;&#114;&#097;&#110;&#116;&#046;&#099;&#111;&#109;?subject=Website enquiry about a room (The Studio)">Enquire about this room</a>
+        <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room now</a>
         <div class="cf"></div>
       </div>
     </div>
@@ -126,7 +134,7 @@
           <li>Also used for single occupancy</li>
         </ul>
         <p><strong>Price:</strong> &euro;50 per person bed &amp; breakfast / &euro;20 single supplement</p>
-        <a class="btn" href="mailto:&#105;&#110;&#102;&#111;&#064;&#116;&#104;&#101;&#109;&#105;&#108;&#108;&#114;&#101;&#115;&#116;&#097;&#117;&#114;&#097;&#110;&#116;&#046;&#099;&#111;&#109;?subject=Website enquiry about a room (Figart)">Enquire about this room</a>
+        <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room now</a>
         <div class="cf"></div>
       </div>
     </div>
@@ -144,7 +152,7 @@
           <li>Also used for single occupancy</li>
         </ul>
         <p><strong>Price:</strong> &euro;50 per person bed &amp; breakfast / &euro;20 single supplement</p>
-        <a class="btn" href="mailto:&#105;&#110;&#102;&#111;&#064;&#116;&#104;&#101;&#109;&#105;&#108;&#108;&#114;&#101;&#115;&#116;&#097;&#117;&#114;&#097;&#110;&#116;&#046;&#099;&#111;&#109;?subject=Website enquiry about a room (Rinclevin)">Enquire about this room</a>
+        <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room now</a>
         <div class="cf"></div>
       </div>
     </div>
@@ -162,7 +170,7 @@
           <li>Nepresso Coffee Machine</li>
         </ul>
         <p><strong>Price:</strong> &euro;55 per person bed &amp; breakfast</p>
-        <a class="btn" href="mailto:&#105;&#110;&#102;&#111;&#064;&#116;&#104;&#101;&#109;&#105;&#108;&#108;&#114;&#101;&#115;&#116;&#097;&#117;&#114;&#097;&#110;&#116;&#046;&#099;&#111;&#109;?subject=Website enquiry about a room (Casey)">Enquire about this room</a>
+        <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room now</a>
         <div class="cf"></div>
       </div>
     </div>
@@ -180,7 +188,7 @@
           <li>Nepresso Coffee machine</li>
         </ul>
         <p><strong>Price:</strong> &euro;55 per person bed &amp; breakfast</p>
-        <a class="btn" href="mailto:&#105;&#110;&#102;&#111;&#064;&#116;&#104;&#101;&#109;&#105;&#108;&#108;&#114;&#101;&#115;&#116;&#097;&#117;&#114;&#097;&#110;&#116;&#046;&#099;&#111;&#109;?subject=Website enquiry about a room (Castlebane)">Enquire about this room</a>
+        <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room now</a>
         <div class="cf"></div>
       </div>
     </div>
@@ -199,7 +207,7 @@
           <li>Nepresso Coffee machine</li>
         </ul>
         <p><strong>Price:</strong> &euro;55 per person bed &amp; breakfast</p>
-        <a class="btn" href="mailto:&#105;&#110;&#102;&#111;&#064;&#116;&#104;&#101;&#109;&#105;&#108;&#108;&#114;&#101;&#115;&#116;&#097;&#117;&#114;&#097;&#110;&#116;&#046;&#099;&#111;&#109;?subject=Website enquiry about a room (Marfagh)">Enquire about this room</a>
+        <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room now</a>
         <div class="cf"></div>
       </div>
     </div>
@@ -218,7 +226,7 @@
           <li>Nepresso Coffee machine</li>
         </ul>
         <p><strong>Price:</strong> &euro;55 per person bed &amp; breakfast</p>
-        <a class="btn" href="mailto:&#105;&#110;&#102;&#111;&#064;&#116;&#104;&#101;&#109;&#105;&#108;&#108;&#114;&#101;&#115;&#116;&#097;&#117;&#114;&#097;&#110;&#116;&#046;&#099;&#111;&#109;?subject=Website enquiry about a room (Corgannive)">Enquire about this room</a>
+        <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room now</a>
         <div class="cf"></div>
       </div>
     </div>

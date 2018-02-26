@@ -404,15 +404,17 @@ Helpers
   font-family: Arial;
   color: #ffffff !important;
   font-size: 16px;
-  background: #96BCE3;
+  background: #eca228;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
   display: inline-block;
   margin-top: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #e49d27 !important;
 }
 
 .btn:hover {
-  background: #77abe0;
+  background: #e28d00;
   text-decoration: none;
 }
 

@@ -21,7 +21,7 @@
   </div>
   <div id="mainContentContainer">
     <div class="alert">
-      <p><strong>Please note we are closed until 16th March.</strong><br />Online bookings will be available for restaurant and room bookings from 1st March.</p>
+      <p><strong>Please note we are closed until 16th March.</strong></p>
     </div>
     <div id="leftColumn">
         <h1>Contact Us</h1>

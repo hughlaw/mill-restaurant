@@ -41,6 +41,11 @@
         <div id="rightColumn">
           <table style="width:240px; margin:30px auto 0 auto">
             <tr>
+              <td colspan="2" style="text-align:center">
+                <a href="https://www.resdiary.com/restaurant/themillrestaurantaccommodation" class="btn" target="restaurantBoookings">Book a table now</a>
+              </td>
+            </tr>
+            <tr>
               <td>
                 <a href="images/galleryImages/IMG_0541.jpg" rel="lightbox[homepage]"><img src="images/galleryImages/thumbnails/IMG_0541.jpg" class="gallery" /></a>
               </td>
@@ -80,6 +85,7 @@
                 <li><strong>October</strong> - Accommodation and Restaurant open from 13th October, Thursday - Sunday</li>
                 <li><strong>November</strong> - Open Fridays and Saturdays</li>
               </ul>
+              <a href="https://www.resdiary.com/restaurant/themillrestaurantaccommodation" class="btn" target="restaurantBoookings">Book a table now</a>
             </div>
           </div>
 
@@ -146,7 +152,7 @@
                 <li>13:Lupin</li>
                 <li>14:Molluscs</li>
               </ol>
-
+              <a href="https://www.resdiary.com/restaurant/themillrestaurantaccommodation" class="btn" target="restaurantBoookings">Book a table now</a>
             </div>
           </div>
 
