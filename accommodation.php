@@ -55,9 +55,6 @@
           </td>
         </tr>
         <tr>
-
-        </tr>
-        <tr>
           <td>
             <a href="images/galleryImages/121_2153.jpg" rel="lightbox[accommodation]"><img src="images/galleryImages/thumbnails/121_2153.jpg" class="gallery" /></a>
           </td>
