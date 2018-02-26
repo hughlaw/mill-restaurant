@@ -19,7 +19,7 @@ echo "
     <img class='footer-image' src='images/county-winner-2017.png' alt='Irish restaurant awards winner logo' title='County winner of for the irish restaurant awards' />
   </a>
   <a href='http://www.guides.ie/recommendations/mill-restaurant' target='_blank'>
-    <img class='footer-image' src='images/mckennas2017.jpg' alt='McKenna guide logo' title='Awarded best in Ireland by the McKennas guide 2017' />
+    <img class='footer-image' src='images/mckennas2018.png' alt='McKenna guide logo' title='Awarded best in Ireland by the McKennas guide 2018' />
   </a>
   <a href='reviews.php'>
     <img class='footer-image' src='images/irish-hospitality-finalist-2017.png' alt='2017 Irish hospitality awards logo' title='Finalist in the 2017 Irish hospitality awards' />

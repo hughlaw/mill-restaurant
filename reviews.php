@@ -44,7 +44,7 @@
         <blockquote>
           <p>What you eat here is quite simply some of the best food in the North West.</p>
         </blockquote>
-        <cite>John and Sally McKennas' Guides 2017</cite>
+        <cite>John and Sally McKennas' Guides 2018</cite>
         <blockquote>
           <p>An 'open secret' destination&hellip; There's a real sense of place about everything at The Mill, and especially the food. Derek's menus are a seasonal expression of the surrounding sea and landscape.</p>
         </blockquote>
@@ -74,7 +74,7 @@
         <table style="width:240px; margin:30px auto 0 auto">
             <tr>
                 <td><a href="http://www.ireland-guide.com/establishment/mill-restaurant-and-accommodation-the.3355.html" target="_blank"><img src="images/georgina-campbell-logo.png" alt="Featured in Georgina Campbell's Best of the Best Guide" title="Featured in Georgina Campbell's Best of the Best Guide" class="gallery" /></a></td>
-                <td><a href="http://www.guides.ie/recommendations/mill-restaurant" target="_blank"><img src="images/mckennas2017.jpg" alt="McKennas best in Ireland logo" title="Featured in the McKennas best in Ireland guide" class="gallery" /></a></td>
+                <td><a href="http://www.guides.ie/recommendations/mill-restaurant" target="_blank"><img src="images/mckennas2018.png" alt="McKennas best in Ireland logo" title="Featured in the McKennas best in Ireland guide" class="gallery" /></a></td>
             </tr>
             <tr>
               <td colspan="2" style="text-align:center; padding:30px 0;">

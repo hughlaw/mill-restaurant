@@ -15,33 +15,33 @@
 
 <body>
 <div id="container">
-	<?php include 'header.php'; ?>
-	<div id="navigation">
-		<?php include 'navigation.php';	?>
-	</div>
-	<div id="mainContentContainer">
+  <?php include 'header.php'; ?>
+  <div id="navigation">
+    <?php include 'navigation.php'; ?>
+  </div>
+  <div id="mainContentContainer">
     <div class="alert">
-      <p>Please note we are closed until 16th March. We will be taking bookings from the 1st of March.</p>
+      <p><strong>Please note we are closed until 16th March.</strong><br />Online bookings will be available for restaurant and room bookings from 1st March.</p>
     </div>
-		<div id="leftColumn">
-    		<h1>Contact Us</h1>
-    		<p>You can use any of the below methods to get in contact with us, or fill in the form to send us an email directly</p>
-				<fieldset>
-    				<ul>
-    					<label for="phone" class="addresslabels">Tel / Fax:</label>
-    					<li id="phone"><a href="tel://+353749136985">+353 (0)74 913 6985<a></li>
-    					<label for="address" class="addresslabels">Address:</label>
-    					<li id="address">The Mill Restaurant<br />Susan &amp; Derek Alcorn<br />Dunfanaghy<br />Co. Donegal<br />Ireland</li>
-    				</ul>
-				</fieldset>
+    <div id="leftColumn">
+        <h1>Contact Us</h1>
+        <p>You can use any of the below methods to get in contact with us, or fill in the form to send us an email directly</p>
+        <fieldset>
+            <ul>
+              <label for="phone" class="addresslabels">Tel / Fax:</label>
+              <li id="phone"><a href="tel://+353749136985">+353 (0)74 913 6985<a></li>
+              <label for="address" class="addresslabels">Address:</label>
+              <li id="address">The Mill Restaurant<br />Susan &amp; Derek Alcorn<br />Dunfanaghy<br />Co. Donegal<br />Ireland</li>
+            </ul>
+        </fieldset>
 
 
 <!-- Start of Contact Form -->
 <form action="sendmail.php">
-	<fieldset>
-    	<legend>Your Contact Details</legend>
+  <fieldset>
+      <legend>Your Contact Details</legend>
         <ul>
-        	<li>
+          <li>
             <label for="name">Name:</label>
             <input id="name" name="name" class="textfield" type="text" />
             </li>
@@ -53,21 +53,21 @@
             <label for="phone">Telephone Number:</label>
             <input id="phone" name="phone" class="textfield" type="text" />
             </li>
-        	<li>
+          <li>
             <label for="comment">Comment or Question:</label>
-        	<textarea name="comment" cols="50" rows="5" class="textfield" id="comment"></textarea>
+          <textarea name="comment" cols="50" rows="5" class="textfield" id="comment"></textarea>
             </li>
         </ul>
-	</fieldset>
+  </fieldset>
 
     <fieldset class="submit">
-    	<input class="submit" type="submit" value="Send Email"  />
+      <input class="submit" type="submit" value="Send Email"  />
     </fieldset><br />
 </form>
 
 <!-- End of Contact Form -->
 
-    	</div>
+      </div>
     <div id="rightColumn">
     <div align="left">
       <iframe src="//www.google.com/maps/embed/v1/place?q=The%20Mill,Dunfanaghy,Ireland
@@ -81,8 +81,8 @@
     </div>
     <div style="clear:both"></div>
     <div id="footer">
-    <?php include 'footer.php';	?>
-	</div>
+    <?php include 'footer.php';  ?>
+  </div>
 </div>
 </body>
 </html>
