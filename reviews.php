@@ -40,37 +40,36 @@
         <li>Georgina Campbell's The Best of the Best 2011</li>
         <li>Featured in the Observer's 'Top 50 for under £50' by Desmond Balmer</li>
       </ul>
-      <p>Below are some quotes taken from various publications reviewing the Mill.</p>
-      <blockquote>
-        <p>What you eat here is quite simply some of the best food in the North West.</p>
-      </blockquote>
-      <cite>John and Sally McKennas' Guides 2017</cite>
-      <blockquote>
-        <p>An 'open secret' destination&hellip; There's a real sense of place about everything at The Mill, and especially the food. Derek's menus are a seasonal expression of the surrounding sea and landscape.</p>
-      </blockquote>
-      <cite>Georgina Campbell Breakfast Awards 2017</cite>
-      <blockquote>
-        <p>Value is excellent, service is excellent, and the experience sublime</p>
-      </blockquote>
-      <cite>100 best restaurants in Ireland App, John and Sally Mc Kenna</cite>
-      <blockquote>
-        <p>Derek Alcorn's cooking style is his own - sometimes the ingredients may be unusual or under-used, but the originality is more in the way ingredients are combined, and in the detail, than in the choice of main ingredients.</p>
-      </blockquote>
-      <cite>Georgina Campbell Guide 2015</cite>
-      <blockquote>
-        <p>&hellip;discreet service, comfort, character and cosy ambience</p>
-      </blockquote>
-      <cite>Georgina Cambell 2011</cite>
-      <blockquote>
-        <p>The jewel in the crown of many an Irish culinary tour.</p>
-      </blockquote>
-      <cite>Alastair Sawdays's Special Places to Stay in Ireland</cite>
-      <blockquote>
-        <p>The setting of the house by New Lake is blissful&hellip;</p>
-      </blockquote>
-      <cite>McKenna 100 Best Places to Stay</cite>
-    </div>
-
+        <p>Below are some quotes taken from various publications reviewing the Mill.</p>
+        <blockquote>
+          <p>What you eat here is quite simply some of the best food in the North West.</p>
+        </blockquote>
+        <cite>John and Sally McKennas' Guides 2017</cite>
+        <blockquote>
+          <p>An 'open secret' destination&hellip; There's a real sense of place about everything at The Mill, and especially the food. Derek's menus are a seasonal expression of the surrounding sea and landscape.</p>
+        </blockquote>
+        <cite>Georgina Campbell Breakfast Awards 2017</cite>
+        <blockquote>
+          <p>Value is excellent, service is excellent, and the experience sublime</p>
+        </blockquote>
+        <cite>100 best restaurants in Ireland App, John and Sally Mc Kenna</cite>
+        <blockquote>
+          <p>Derek Alcorn's cooking style is his own - sometimes the ingredients may be unusual or under-used, but the originality is more in the way ingredients are combined, and in the detail, than in the choice of main ingredients.</p>
+        </blockquote>
+        <cite>Georgina Campbell Guide 2015</cite>
+        <blockquote>
+          <p>&hellip;discreet service, comfort, character and cosy ambience</p>
+        </blockquote>
+        <cite>Georgina Cambell 2011</cite>
+        <blockquote>
+          <p>The jewel in the crown of many an Irish culinary tour.</p>
+        </blockquote>
+        <cite>Alastair Sawdays's Special Places to Stay in Ireland</cite>
+        <blockquote>
+          <p>The setting of the house by New Lake is blissful&hellip;</p>
+        </blockquote>
+        <cite>McKenna 100 Best Places to Stay</cite>
+      </div>
     <div id="rightColumn">
         <table style="width:240px; margin:30px auto 0 auto">
             <tr>

@@ -23,6 +23,9 @@
         <?php include 'navigation.php';  ?>
       </div>
       <div id="mainContentContainer">
+        <div class="alert">
+          <p>Please note we are closed until 16th March. We will be taking bookings from the 1st of March.</p>
+        </div>
         <div id="leftColumn">
           <h1>Welcome</h1>
           <img src="images/bodyImage.png" class="scrapbook" alt="Picture of the Mill"/>
@@ -32,14 +35,6 @@
         </div>
         <div id="rightColumn">
           <table style="width:240px; margin:30px auto 0 auto">
-            <tr>
-                <td><a href="http://www.ireland-guide.com/establishment/mill-restaurant-and-accommodation-the.3355.html" target="_blank"><img src="images/georgina-campbell-logo.png" alt="Featured in Georgina Campbell's Best of the Best Guide" title="Featured in Georgina Campbell's Best of the Best Guide" class="gallery" /></a></td>
-                <td><a href="http://www.guides.ie/recommendations/mill-restaurant" target="_blank"><img src="images/mckennas2017.jpg" alt="McKennas best in Ireland logo" title="Featured in the McKennas best in Ireland guide" class="gallery" /></a></td>
-            </tr>
-            <tr>
-                <td><img src="images/ghg2017.jpg" alt="Featured in the Good Hotel Guide" title="Featured in the Good Hotel Guide" class="gallery" /></td>
-                <td><img src="images/michelin-accommodation2017.jpg" alt="Featured in The Michelin Guide" title="Featured in the Michelin Guide" class="gallery" /></td>
-            </tr>
             <tr>
               <td>
                 <a href="images/galleryImages/Deep-fried-oysters-&amp;-grilled-mackle.jpg" rel="lightbox[homepage]" title="Deep Fried Oysters and Grilled Mackerel">

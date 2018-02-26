@@ -20,6 +20,9 @@
 		<?php include 'navigation.php';	?>
 	</div>
 	<div id="mainContentContainer">
+    <div class="alert">
+      <p>Please note we are closed until 16th March. We will be taking bookings from the 1st of March.</p>
+    </div>
 		<div id="leftColumn">
     		<h1>Contact Us</h1>
     		<p>You can use any of the below methods to get in contact with us, or fill in the form to send us an email directly</p>
