@@ -14,6 +14,7 @@
   <script type="text/javascript" src="js/prototype.js"></script>
   <script type="text/javascript" src="js/scriptaculous.js?load=effects,builder"></script>
   <script type="text/javascript" src="js/lightbox.js"></script>
+  <script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
 </head>
 
   <body>
@@ -24,6 +25,9 @@
       </div>
       <div id="mainContentContainer">
         <div class="alert">
+          <i class="fas fa-camera-retro"></i>
+          <p><strong>Online bookings now available</strong></p>
+          <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings"><i class="fas fa-bed"></i> Book a room</a>          <span class="spacer"></span><a href="https://www.resdiary.com/restaurant/themillrestaurantaccommodation" class="btn" target="restaurantBookings"><i class="fas fa-utensils"></i> Book a table</a>
           <p><strong>Please note we are closed until 16th March.</strong></p>
         </div>
         <div id="leftColumn">

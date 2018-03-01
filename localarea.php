@@ -33,6 +33,7 @@
                     <li><a href="http://www.jawswatersports.com/" target="_blank">Jaws Surf Club and School</a>, Dunfanaghy</li>
                     <li><a href="http://www.facebook.com/pages/Greenman-Dunfanaghy/205962555055" target="_blank">The Green Man Deli and Speciality Food</a></li>
                     <li><a href="https://www.facebook.com/ShackCoffee.ie/" target="_blank">The Shack</a> - coffee with a view of Marble Hill beach</li>
+                    <li><a href="https://wildadventuredonegal.com" target="_blank">Wild adventure Donegal</a> - guided tours of Donegal</li>
                     <li><a href="http://www.dunfanaghyworkhouse.ie/" target="_blank">The Workhouse Heritage Centre and Coffee Shop</a></li>
                     <li><a href="http://www.mucknmuffins.com/" target="_blank">Muck'n'Muffins Pottery and Coffee Shop</a></li>
                     <li>McAuliffes Craft Shop</li>

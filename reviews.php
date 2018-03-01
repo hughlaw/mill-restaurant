@@ -73,7 +73,7 @@
     <div id="rightColumn">
         <table style="width:240px; margin:30px auto 0 auto">
             <tr>
-                <td><a href="http://www.ireland-guide.com/establishment/mill-restaurant-and-accommodation-the.3355.html" target="_blank"><img src="images/georgina-campbell-logo.png" alt="Featured in Georgina Campbell's Best of the Best Guide" title="Featured in Georgina Campbell's Best of the Best Guide" class="gallery" /></a></td>
+                <td><a href="http://www.ireland-guide.com/establishment/mill-restaurant-and-accommodation-the.3355.html" target="_blank"><img src="images/georginaCampbell2018.jpg" alt="Featured in Georgina Campbell's Best of the Best Guide" title="Featured in Georgina Campbell's Best of the Best Guide" class="gallery" /></a></td>
                 <td><a href="http://www.guides.ie/recommendations/mill-restaurant" target="_blank"><img src="images/mckennas2018.png" alt="McKennas best in Ireland logo" title="Featured in the McKennas best in Ireland guide" class="gallery" /></a></td>
             </tr>
             <tr>
@@ -92,7 +92,7 @@
             </tr>
             <tr>
                 <td><a href="http://www.failteireland.ie/" target="_blank"><img src="images/galleryImages/thumbnails/failte.jpg" alt="Featured in Frommers Ireland" title="Featured by Failte Ireland" class="gallery" /></a></td>
-                <td><img src="images/ghg2017.jpg" alt="Featured in the Good Hotel Guide" title="Featured in the Good Hotel Guide" class="gallery" /></td>
+                <td><img src="images/ghg2018.png" alt="Featured in the Good Hotel Guide" title="Featured in the Good Hotel Guide" class="gallery" /></td>
             </tr>
         </table>
     </div>

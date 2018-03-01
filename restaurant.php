@@ -1,23 +1,23 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta name="description" content="Restaurant and accommodation providing the highest quality food and experience based in Dunfanaghy, Co. Donegal." />
-<meta name="keywords" content="restaurant, good food, accommodation, donegal, dunfanaghy, acommodation, B&#38;B dunfanaghy" />
-<title>Restaurant - The Mill Restaurant, Dunfanaghy</title>
-<link href='http://fonts.googleapis.com/css?family=Droid+Serif' rel='stylesheet' type='text/css' />
-<link href="css/screen/mainStyleSheet.css" rel="stylesheet" type="text/css" />
-<link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen" />
-<link rel="stylesheet" href="css/tabs.css" media="screen">
-<!--[if IE 7]>
-<link rel="stylesheet" type="text/css" href="http://www.themillrestaurant.com/css/screen/IE.css" media="screen" />
-<![endif]-->
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="description" content="Restaurant and accommodation providing the highest quality food and experience based in Dunfanaghy, Co. Donegal." />
+  <meta name="keywords" content="restaurant, good food, accommodation, donegal, dunfanaghy, acommodation, B&#38;B dunfanaghy" />
+  <title>Restaurant - The Mill Restaurant, Dunfanaghy</title>
+  <link href='http://fonts.googleapis.com/css?family=Droid+Serif' rel='stylesheet' type='text/css' />
+  <link href="css/screen/mainStyleSheet.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen" />
+  <link rel="stylesheet" href="css/tabs.css" media="screen">
+  <!--[if IE 7]>
+  <link rel="stylesheet" type="text/css" href="http://www.themillrestaurant.com/css/screen/IE.css" media="screen" />
+  <![endif]-->
 
-<script type="text/javascript" src="js/prototype.js"></script>
-<script type="text/javascript" src="js/scriptaculous.js?load=effects,builder"></script>
-<script type="text/javascript" src="js/lightbox.js"></script>
-<script src="js/tabs.js" charset="utf-8"></script>
-
+  <script type="text/javascript" src="js/prototype.js"></script>
+  <script type="text/javascript" src="js/scriptaculous.js?load=effects,builder"></script>
+  <script type="text/javascript" src="js/lightbox.js"></script>
+  <script src="js/tabs.js" charset="utf-8"></script>
+  <script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
 </head>
 
   <body>
@@ -29,20 +29,19 @@
       <div id="mainContentContainer">
         <div id="leftColumn">
           <h1>Restaurant</h1>
-          <blockquote class="main-quote">simple deliciousness</blockquote>
-          <cite>The Sunday Times, Irelands Top 100 restaurants, The McKenna Guide 2016</cite>
+          <blockquote class="main-quote">what you eat here is quite simply some of the best food in the North West</blockquote>
+          <cite>McKenna Guides 2017</cite>
           <div style="clear:both"></div>
           <p><a href="images/galleryImages/County-Winner-2017.jpg" rel="lightbox" title="County winner of the Irish resturant awards 2017"><img src="images/galleryImages/thumbnails/County-Winner-2017.jpg" alt="Irish restaurant awards logo" class="scrapbook" /></a>Our restaurant, seating 30 people, offers our customers a very special evening, starting the six course dinner menu with canapés and aperitifs at the turf fire or in the conservatory and ending with tea/coffee and petit fours in the same comfortable surroundings.</p>
           <p>Our menu is based on seasonal local produce, with the majority of our suppliers living within a ten mile radius. We offer local craft beers and a small interesting wine list.</p>
           <p><strong>Dinner menu price: &euro;45 per person</strong></p>
-          <p>Reservations for the year are taken from 1st March.</p>
         </div><!-- / #leftColumn -->
 
         <div id="rightColumn">
           <table style="width:240px; margin:30px auto 0 auto">
             <tr>
               <td colspan="2" style="text-align:center">
-                <a href="https://www.resdiary.com/restaurant/themillrestaurantaccommodation" class="btn" target="restaurantBoookings">Book a table now</a>
+                <a href="https://www.resdiary.com/restaurant/themillrestaurantaccommodation" class="btn" target="restaurantBookings">Book a table</a>
               </td>
             </tr>
             <tr>
@@ -76,16 +75,12 @@
 
           <div class="c-tab is-active">
             <div class="c-tab__content">
-              <h3>Opening hours</h3>
+              <h3>Restaurant opening hours</h3>
               <ul>
-                <li><strong>March to April</strong> - Weekends only, Fridays &amp; Saturdays 7-9pm</li>
-                <li><strong>May to June</strong> - Accommodation open every night, Restaurant open Wednesday to Sunday</li>
-                <li><strong>July to August</strong> - Accommodation open every night, Restaurant open Tuesday - Sunday</li>
-                <li><strong>September</strong> - Accommodation open every night, Restaurant open Wednesday - Sunday</li>
-                <li><strong>October</strong> - Accommodation and Restaurant open from 13th October, Thursday - Sunday</li>
-                <li><strong>November</strong> - Open Fridays and Saturdays</li>
+                <li><strong>March to April</strong> - Open weekends with the exception of Easter week when we are open every night but Monday</li>
+                <li><strong>May to October</strong> - Wednesday to Sunday 6:30 - 8:30pm</li>
               </ul>
-              <a href="https://www.resdiary.com/restaurant/themillrestaurantaccommodation" class="btn" target="restaurantBoookings">Book a table now</a>
+              <a href="https://www.resdiary.com/restaurant/themillrestaurantaccommodation" class="btn" target="restaurantBookings">Book a table</a>
             </div>
           </div>
 
@@ -152,7 +147,7 @@
                 <li>13:Lupin</li>
                 <li>14:Molluscs</li>
               </ol>
-              <a href="https://www.resdiary.com/restaurant/themillrestaurantaccommodation" class="btn" target="restaurantBoookings">Book a table now</a>
+              <a href="https://www.resdiary.com/restaurant/themillrestaurantaccommodation" class="btn" target="restaurantBookings">Book a table</a>
             </div>
           </div>
 
@@ -188,7 +183,7 @@
                 <li><b>Thomas Alcorn , Horn Head, Dunfanaghy (Derek’s brother) supplies Lamb and Beef, (Hereford and Dexter)</b></li>
                 <li><b>Richard Alcorn, Horn Head, Dunfanaghy (Derek’s nephew) supplies Kid goat</b></li>
                 <li><b>Ivan McElhinney, Dunfanaghy supplies shellfish, Pollock and Mackerel</b></li>
-                <li><b>Karl Burrowes, Illistrin</b></li>
+                <li><b>Karl Burrowes, Butcher, Illistrin</b></li>
                 <li><b>An LAN teo, Killult, Falcarragh supplies Organic Vegetables</b><br />
                 "The Glasshouses" as it is known locally, is a horticultural project which uses organic methods to produce high quality fruit, vegetables and herbs, made available to the local community through shops, restaurants, and plant sales. The centre includes a one acre Glasshouse, several large polytunnels and an extensive area of arable land. It is run by a community based company; Lárionad Acmhainní Nádúrtha Teoranta (LAN Teo.) ~ Centre for Natural Resources.</li>
                 <li><b>Mulroy Bay Mussels, Mulroy Bay</b><br />
