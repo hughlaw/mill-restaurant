@@ -16,6 +16,7 @@
 <script type="text/javascript" src="js/scriptaculous.js?load=effects,builder"></script>
 <script type="text/javascript" src="js/lightbox.js"></script>
 <script src="js/tabs.js" charset="utf-8"></script>
+<script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
 </head>
 
 <body>
@@ -38,17 +39,23 @@
         <li>Wine</li>
       </ul>
 
-      <h3>Opening times</h3>
+      <h3>Dinner bookings for residents</h3>
+      <p>Our restaurant is small so to avoid disappointment please book your preferred time to dine on our <a href="https://www.resdiary.com/restaurant/themillrestaurantaccommodation" target="restaurantBookings">online booking system</a>. If booking a two night bed and breakfast and dinner package please note the restaurant is closed Mondays and Tuesdays.</p>
+
+      <h3>Opening hours</h3>
       <ul>
-          <li><strong>May to June</strong> - Wednesday to Sunday</li>
-          <li><strong>July to August</strong> - Tuesday to Sunday </li>
-          <li><strong>September</strong> - Wednesday to Sunday</li>
-          <li><strong>October</strong> - From 13th October, Thursday to Sunday</li>
-          <li><strong>November</strong> - Fridays and Saturdays only</li>
+          <li><strong>1st March - 28th April</strong> - Weekends only with the exception of Easter week</li>
+          <li><strong>29th April - 29th October</strong> - Open 7 days a week (please note the restaurant is closed on Monday and Tuesday)</li>
+          <li>Bookings for 2019 will be available <strong>online</strong> from 1st January 2019</li>
       </ul>
     </div>
     <div id="rightColumn">
       <table style="width:240px; margin:30px auto 0 auto">
+        <tr>
+          <td colspan="2" style="text-align:center">
+            <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a>
+          </td>
+        </tr>
         <tr>
           <td>
             <a href="images/galleryImages/121_2153.jpg" rel="lightbox[accommodation]"><img src="images/galleryImages/thumbnails/121_2153.jpg" class="gallery" /></a>
@@ -89,7 +96,6 @@
       <a href="#" class="c-tabs-nav__link">Castlebane</a>
       <a href="#" class="c-tabs-nav__link">Marfagh</a>
       <a href="#" class="c-tabs-nav__link">Corgannive</a>
-      <a href="#" class="c-tabs-nav__link">Packages</a>
     </div>
     <div class="c-tab is-active">
       <div class="c-tab__content">
@@ -107,8 +113,8 @@
           <li>Overlooking drive and garden</li>
           <li>Sitting Area</li>
         </ul>
-        <p><strong>Price:</strong> &euro;75 per person bed &amp; breakfast</p>
-        <a class="btn" href="mailto:&#105;&#110;&#102;&#111;&#064;&#116;&#104;&#101;&#109;&#105;&#108;&#108;&#114;&#101;&#115;&#116;&#097;&#117;&#114;&#097;&#110;&#116;&#046;&#099;&#111;&#109;?subject=Website enquiry about a room (The Studio)">Enquire about this room</a>
+        <p><strong>Price:</strong> From &euro;70 per person B&amp;B</p>
+        <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a>
         <div class="cf"></div>
       </div>
     </div>
@@ -125,8 +131,8 @@
           <li>Lake view</li>
           <li>Also used for single occupancy</li>
         </ul>
-        <p><strong>Price:</strong> &euro;50 per person bed &amp; breakfast / &euro;20 single supplement</p>
-        <a class="btn" href="mailto:&#105;&#110;&#102;&#111;&#064;&#116;&#104;&#101;&#109;&#105;&#108;&#108;&#114;&#101;&#115;&#116;&#097;&#117;&#114;&#097;&#110;&#116;&#046;&#099;&#111;&#109;?subject=Website enquiry about a room (Figart)">Enquire about this room</a>
+        <p><strong>Price:</strong> From &euro;50 per person B&amp;B / Single from &euro;70 B&amp;B</p>
+        <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a>
         <div class="cf"></div>
       </div>
     </div>
@@ -143,8 +149,8 @@
           <li>Lake view</li>
           <li>Also used for single occupancy</li>
         </ul>
-        <p><strong>Price:</strong> &euro;50 per person bed &amp; breakfast / &euro;20 single supplement</p>
-        <a class="btn" href="mailto:&#105;&#110;&#102;&#111;&#064;&#116;&#104;&#101;&#109;&#105;&#108;&#108;&#114;&#101;&#115;&#116;&#097;&#117;&#114;&#097;&#110;&#116;&#046;&#099;&#111;&#109;?subject=Website enquiry about a room (Rinclevin)">Enquire about this room</a>
+        <p><strong>Price:</strong> From &euro;50 per person B&amp;B / Single from &euro;70 B&amp;B</p>
+        <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a>
         <div class="cf"></div>
       </div>
     </div>
@@ -161,8 +167,8 @@
           <li>Lake view</li>
           <li>Nepresso Coffee Machine</li>
         </ul>
-        <p><strong>Price:</strong> &euro;55 per person bed &amp; breakfast</p>
-        <a class="btn" href="mailto:&#105;&#110;&#102;&#111;&#064;&#116;&#104;&#101;&#109;&#105;&#108;&#108;&#114;&#101;&#115;&#116;&#097;&#117;&#114;&#097;&#110;&#116;&#046;&#099;&#111;&#109;?subject=Website enquiry about a room (Casey)">Enquire about this room</a>
+        <p><strong>Price:</strong> From &euro;55 per person B&amp;B</p>
+        <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a>
         <div class="cf"></div>
       </div>
     </div>
@@ -179,8 +185,8 @@
           <li>Lake view</li>
           <li>Nepresso Coffee machine</li>
         </ul>
-        <p><strong>Price:</strong> &euro;55 per person bed &amp; breakfast</p>
-        <a class="btn" href="mailto:&#105;&#110;&#102;&#111;&#064;&#116;&#104;&#101;&#109;&#105;&#108;&#108;&#114;&#101;&#115;&#116;&#097;&#117;&#114;&#097;&#110;&#116;&#046;&#099;&#111;&#109;?subject=Website enquiry about a room (Castlebane)">Enquire about this room</a>
+        <p><strong>Price:</strong> From &euro;55 per person B&amp;B</p>
+        <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a>
         <div class="cf"></div>
       </div>
     </div>
@@ -198,8 +204,8 @@
           <li>Overlooking trees</li>
           <li>Nepresso Coffee machine</li>
         </ul>
-        <p><strong>Price:</strong> &euro;55 per person bed &amp; breakfast</p>
-        <a class="btn" href="mailto:&#105;&#110;&#102;&#111;&#064;&#116;&#104;&#101;&#109;&#105;&#108;&#108;&#114;&#101;&#115;&#116;&#097;&#117;&#114;&#097;&#110;&#116;&#046;&#099;&#111;&#109;?subject=Website enquiry about a room (Marfagh)">Enquire about this room</a>
+        <p><strong>Price:</strong> From &euro;55 per person B&amp;B</p>
+        <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a>
         <div class="cf"></div>
       </div>
     </div>
@@ -217,32 +223,9 @@
           <li>Overlooking the trees</li>
           <li>Nepresso Coffee machine</li>
         </ul>
-        <p><strong>Price:</strong> &euro;55 per person bed &amp; breakfast</p>
-        <a class="btn" href="mailto:&#105;&#110;&#102;&#111;&#064;&#116;&#104;&#101;&#109;&#105;&#108;&#108;&#114;&#101;&#115;&#116;&#097;&#117;&#114;&#097;&#110;&#116;&#046;&#099;&#111;&#109;?subject=Website enquiry about a room (Corgannive)">Enquire about this room</a>
+        <p><strong>Price:</strong> From &euro;55 per person B&amp;B</p>
+        <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a>
         <div class="cf"></div>
-      </div>
-    </div>
-    <div class="c-tab">
-      <div class="c-tab__content">
-        <h3>Packages</h3>
-        <p>We have some fantastic packages available for May, June and September 2016.</p>
-        <h4>Cosy rooms - Figart and Rinclevin</h4>
-        <p>Two night B&amp;B and one dinner / Sunday and Monday / Tuesday and Wednesday</p>
-        <p><strong>Price:</strong> &euro;260 / single &euro;170</p>
-        <a class="btn" href="mailto:&#105;&#110;&#102;&#111;&#064;&#116;&#104;&#101;&#109;&#105;&#108;&#108;&#114;&#101;&#115;&#116;&#097;&#117;&#114;&#097;&#110;&#116;&#046;&#099;&#111;&#109;?subject=Website enquiry about cosy room package">Enquire about the cosy package</a>
-
-        <hr>
-        <h4>Comfy rooms - Casey, Castlebane, Corgannive or Marfagh</h4>
-        <p>Two night B&amp;B and one dinner / Sunday and Monday / Tuesday and Wednesday</p>
-        <p><strong>Price:</strong> &euro;280</p>
-        <a class="btn" href="mailto:&#105;&#110;&#102;&#111;&#064;&#116;&#104;&#101;&#109;&#105;&#108;&#108;&#114;&#101;&#115;&#116;&#097;&#117;&#114;&#097;&#110;&#116;&#046;&#099;&#111;&#109;?subject=Website enquiry about comfy room package">Enquire about the comfy package</a>
-
-        <hr>
-        <h4>Classic - The Studio</h4>
-        <p>Two night B&amp;B and one dinner / Sunday and Monday / Tuesday and Wednesday</p>
-        <p><strong>Price:</strong> &euro;360</p>
-        <a class="btn" href="mailto:&#105;&#110;&#102;&#111;&#064;&#116;&#104;&#101;&#109;&#105;&#108;&#108;&#114;&#101;&#115;&#116;&#097;&#117;&#114;&#097;&#110;&#116;&#046;&#099;&#111;&#109;?subject=Website enquiry about classic room package">Enquire about the classic package</a>
-
       </div>
     </div>
   </div>

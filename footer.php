@@ -13,7 +13,7 @@ echo "
 </div>
 <div id='footerRightColumn'>
   <a href='http://www.ireland-guide.com/establishment/mill-restaurant-and-accommodation-the.3355.html' target='_blank'>
-    <img class='footer-image' src='images/georgina-campbell-logo.png' alt='Featured in Georgina Campbell's Best of the Best Guide' title='Featured in Georgina Campbell's Best of the Best Guide' />
+    <img class='footer-image' src='images/georginaCampbell2018.jpg' alt='Featured in Georgina Campbell's Best of the Best Guide' title='Featured in Georgina Campbell's Best of the Best Guide' />
   </a>
   <a href='reviews.php'>
     <img class='footer-image' src='images/county-winner-2017.png' alt='Irish restaurant awards winner logo' title='County winner of for the irish restaurant awards' />
@@ -31,7 +31,7 @@ echo "
     <img class='footer-image' src='images/breakfast2017.png' alt='Georgina Campbell breakfast awards logo' title='Featured in the Georgina Campbell best breakfasts' />
   </a>
   <a href='reviews.php'>
-    <img class='footer-image' src='images/ghg2017.jpg' alt='Featured in the Good Hotel Guide' title='Featured in the Good Hotel Guide' />
+    <img class='footer-image' src='images/ghg2018.png' alt='Featured in the Good Hotel Guide' title='Featured in the Good Hotel Guide' />
   </a>
   <br />
   <a href='http://www.wildatlanticway.com/'><img src='images/WAW-logo.png' alt='Wild atlantic way logo' /></a>

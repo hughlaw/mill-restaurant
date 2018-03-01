@@ -20,9 +20,6 @@
     <?php include 'navigation.php'; ?>
   </div>
   <div id="mainContentContainer">
-    <div class="alert">
-      <p><strong>Please note we are closed until 16th March.</strong><br />Online bookings will be available for restaurant and room bookings from 1st March.</p>
-    </div>
     <div id="leftColumn">
         <h1>Contact Us</h1>
         <p>You can use any of the below methods to get in contact with us, or fill in the form to send us an email directly</p>
