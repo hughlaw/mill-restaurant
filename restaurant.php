@@ -89,16 +89,16 @@
               <h3>Sample dinner menu</h3>
               <h4>To begin</h4>
               <ul>
-                <li><b>Scallops &amp; Cauliflower</b><br />
-                Seared scallops and cauliflower flavours, hazelnuts, Golden raisin  and Tomato salsa. (2, 3)</li>
-                <li><b>Asparagus &amp; Crab</b><br />
-                Grilled English asparagus with Crab's claws, soft fried egg, samphire and a butter sauce.
-                <li><b>Horn Head Kid Goat</b><br />
-                Roast slow cooked Cleggan Goat  with  saute  new potatoes,  smoked bacon and red onion marmalade. (7)</li>
-                <li><b>Mulroy Bay Mussels</b><br />
-                Steamed mussels with White wine, garlic and parsley cream. (7,14)</li>
-                <li><b>Home Smoked Beef  Salad</b><br />
-                Smoked Beef salad with Organic leaves, horseradish croquettes, sweet and sour Vegetables and smoked  mayonnaise. (1,3,7)</li>
+                <li><b>Horn head Kid Goat</b><br>
+                Roast slow cooked Cleggan goat Shoulder, goat rack, sauté potato, smoked bacon and red onion marmalade.</li>
+                <li><b>Organic egg</b><br>
+                Slow poached egg, Tarka daal, carrot, orange and coriander foam.
+                <li><b>Bracon Hill Pheasant with parfait</b><br>
+                Smoked pheasant breast, chicken liver parfait, brioche toast and a pear and ginger chutney.</li>
+                <li><b>Horn Head crab panna cotta</b><br>
+                Spring pea Panna Cotta, crab mango sorbet and brown crab toasts.</li>
+                <li><b>Mulroy Bay Mussels &amp; Leitirmacaward Oysters</b><br>
+                Mussels in smoked bacon and Bally Brie glazed sauce, grilled Oysters in Café de Paris butter.</li>
               </ul>
 
               <h4>Something refreshing</h4>
@@ -108,45 +108,48 @@
 
               <h4>To follow</h4>
               <ul>
-                <li><b>New Season Arch Lamb</b><br />
-                Plate of Lamb, rack, shoulder,  belly &amp; liver with pea puree, samphire  and Dauphinoise Potatoes. (7)</li>
-                <li><b>Fish and Chips</b><br>
-                Greencastle Hake and crispy goujon, with buttered leeks, Chips, and a pea and lettuce tartare sauce. (7,1,3,4)</li>
-                <li><b>Horn Head Beef</b><br>
-                Pan Fried Horn Head Beef steak with maple glazed shin, chive mash, shallot and port &amp; herb butter. (7)</li>
-                <li><b>Seabass &amp; Crab</b><br>
-                Grilled Seabass with Crab meat, spinach, pine &amp; Sundried tomato risotto and a Lime &amp; Coriander butter. (2,4,8)</li>
-                <li><b>Summer Risotto</b><br>
-                Sweet pepper and pine nut risotto with Wild mushrooms, Boilie Goats cheese and Summer vegetables. (7,8)</li>
+                <li><b>Horn Head lamb</b><br>
+                  Roast Arch lamb, shoulder hotpot, white onion puree, spiced onion and olive sauce.
+                </li>
+                <li><b>Dexter Beef</b><br>
+                  Horn Head Dexter steak with slow cooked cheek and horseradish ravioli, barley risotto and red wine.
+                </li>
+                <li><b>Cratloe hills beignets and risotto</b><br>
+                  Wild mushroom risotto with parsnip puree, cheese beignets and toasted sesame dressing.
+                </li>
+                <li><b>Greencastle hake</b><br>
+                  Grilled Hake with a soft potato crust, warm tartare sauce and leeks.
+                </li>
               </ul>
 
-              <h4>Sides</h4>
+              <h4>Extras</h4>
               <ul>
-                <li>Crispy fat chips</li>
-                <li>Purple sprouting broccoli with almond butter</li>
-                <li>Organic Leaves with coconut and coriander dressing</li>
-                <li>Dauphinoise Potatoes</li>
+                <li>Fat chips with garlic mayonnaise</li>
+                <li>Cauliflower cheese</li>
+                <li>Crispy fried green beans & tartare sauce</li>
               </ul>
 
-              <p><strong>Price: &euro;45 per person</strong></p>
+              <h4>Something sweet</h4>
+              <ul>
+                <li><b>Lemon &amp; Rhubarb</b><br>
+                  Lemon Posset with roasted rhubarb and ginger biscuits.</li>
+                <li><b>Hazelnut trio</b><br>
+                  Hazelnut ice cream, Hazelnut foam and sea salt with toasted hazelnuts.</li>
+                <li><b>Sliders</b><br>
+                  Vanilla,brown bread and peanut butter sliders with crushed honeycomb.
+                </li>
+                <li><b>Plate of Irish cheeses</b></li>
+                <li><b>Chocolate</b><br>
+                  Chocolate fondant with vanilla milk ice cream and dark chocolate sauce.
+                </li>
+              </ul>
 
-              <h5>Allergens</h5>
-              <ol>
-                <li>1:Gluten</li>
-                <li>2:Crustaceans</li>
-                <li>3:Eggs</li>
-                <li>4:Fish</li>
-                <li>5:Peanuts</li>
-                <li>6:Soya beans</li>
-                <li>7:Milk</li>
-                <li>8:Nuts</li>
-                <li>9:Celery</li>
-                <li>10:Mustard</li>
-                <li>11:Seseme seeds</li>
-                <li>12:Sulphur</li>
-                <li>13:Lupin</li>
-                <li>14:Molluscs</li>
-              </ol>
+              <h4>Tea / Coffee</h4>
+              <p>Help yourself to filter coffee/ tea in the conservatory, if you would prefer decaffeinated tea/coffee just ask.</p>
+
+              <p><strong>Price: &euro;45 per person, extras &euro;3.50 per item</strong></p>
+              <p><small>Allergen and Suppliers/Team information available on request.</small></p>
+
               <a href="https://www.resdiary.com/restaurant/themillrestaurantaccommodation" class="btn" target="restaurantBookings">Book a table</a>
             </div>
           </div>
@@ -155,22 +158,22 @@
             <div class="c-tab__content">
               <h3>Breakfast menu</h3>
               <ul>
-                <li><b>Full Irish Breakfast</b><br />
+                <li><b>Full Irish Breakfast</b><br>
                 Burrowe’s Pork sausages and Home cured bacon, Free range fried egg, Potato bread, Tomato, Black/White Pudding, Mushrooms. </li>
-                <li><b>Organic Porridge</b><br />
+                <li><b>Organic Porridge</b><br>
                 with whiskey &amp; cream or Honey &amp; mixed seeds</li>
-                <li><b>Pancakes</b><br />
+                <li><b>Pancakes</b><br>
                 with crispy bacon &amp; maple syrup / bananas &amp; maple syrup</li>
                 <li><b>Home smoked fresh fish with poached egg</b></li>
-                <li><b>Omelette</b><br />
+                <li><b>Omelette</b><br>
                 with bacon, mushroom or tomato</li>
                 <li><b>Poached eggs</b></li>
                 <li><b>Scrambled Eggs with  Smoked Salmon</b></li>
                 <li><b>Eggs Benedict</b></li>
-                <li><b>Vegetarian breakfast</b><br />
+                <li><b>Vegetarian breakfast</b><br>
                 Vegetarian sausage tomato beans fried organic egg mushrooms and potato bread</li>
                 <li><b>Smoked Haddock Omelette</b></li>
-                <li><b>Burrowe's Sausages</b><br />
+                <li><b>Burrowe's Sausages</b><br>
                 Pork, herb &amp; tomato sausages served with homemade potato bread and onion marmalade</li>
               </ul>
             </div>
@@ -184,9 +187,9 @@
                 <li><b>Richard Alcorn, Horn Head, Dunfanaghy (Derek’s nephew) supplies Kid goat</b></li>
                 <li><b>Ivan McElhinney, Dunfanaghy supplies shellfish, Pollock and Mackerel</b></li>
                 <li><b>Karl Burrowes, Butcher, Illistrin</b></li>
-                <li><b>An LAN teo, Killult, Falcarragh supplies Organic Vegetables</b><br />
+                <li><b>An LAN teo, Killult, Falcarragh supplies Organic Vegetables</b><br>
                 "The Glasshouses" as it is known locally, is a horticultural project which uses organic methods to produce high quality fruit, vegetables and herbs, made available to the local community through shops, restaurants, and plant sales. The centre includes a one acre Glasshouse, several large polytunnels and an extensive area of arable land. It is run by a community based company; Lárionad Acmhainní Nádúrtha Teoranta (LAN Teo.) ~ Centre for Natural Resources.</li>
-                <li><b>Mulroy Bay Mussels, Mulroy Bay</b><br />
+                <li><b>Mulroy Bay Mussels, Mulroy Bay</b><br>
                 A family run business supplying mussels for over thirty years.</li>
                 </li>
                 <li><b>Donegal Rapeseed Oil Company</b></br />

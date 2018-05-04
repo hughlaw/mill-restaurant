@@ -22,10 +22,10 @@ echo "
     <img class='footer-image' src='images/mckennas2018.png' alt='McKenna guide logo' title='Awarded best in Ireland by the McKennas guide 2018' />
   </a>
   <a href='reviews.php'>
-    <img class='footer-image' src='images/irish-hospitality-finalist-2017.png' alt='2017 Irish hospitality awards logo' title='Finalist in the 2017 Irish hospitality awards' />
+  <img class='footer-image' src='images/best-places-to-stay-18.png' alt='McKennas guide logo: 100 best places to stay in ireland' title='featured in the McKennas 100 best places to stay guide' />
   </a>
   <a href='reviews.php'>
-    <img class='footer-image' src='images/michelin-accommodation2017.jpg' alt='Featured in The Michelin Guide' title='Featured in the Michelin Guide' />
+    <img class='footer-image' src='images/irish-hospitality-finalist-2017.png' alt='2017 Irish hospitality awards logo' title='Finalist in the 2017 Irish hospitality awards' />
   </a>
   <a href='reviews.php'>
     <img class='footer-image' src='images/breakfast2017.png' alt='Georgina Campbell breakfast awards logo' title='Featured in the Georgina Campbell best breakfasts' />

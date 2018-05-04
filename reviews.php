@@ -73,7 +73,7 @@
     <div id="rightColumn">
         <table style="width:240px; margin:30px auto 0 auto">
             <tr>
-                <td><a href="http://www.ireland-guide.com/establishment/mill-restaurant-and-accommodation-the.3355.html" target="_blank"><img src="images/georginaCampbell2018.jpg" alt="Featured in Georgina Campbell's Best of the Best Guide" title="Featured in Georgina Campbell's Best of the Best Guide" class="gallery" /></a></td>
+                <td><a href="http://www.guides.ie/recommendations/mill-restaurant" target="_blank"><img src="images/best-places-to-stay-18.png" alt="McKennas 100 best places to stay in Ireland logo" title="Featured in the McKennas 100 best places to stay in Ireland guide" class="gallery" /></a></td>
                 <td><a href="http://www.guides.ie/recommendations/mill-restaurant" target="_blank"><img src="images/mckennas2018.png" alt="McKennas best in Ireland logo" title="Featured in the McKennas best in Ireland guide" class="gallery" /></a></td>
             </tr>
             <tr>
@@ -82,7 +82,7 @@
               </td>
             </tr>
             <tr>
-                <td><img src="images/waw2015.jpg" class="gallery" alt="Wild atlantic way logo" title="Features in the McKennas 'Where to eat on the Wild Atlantic Way' guide"/></td>
+                <td><a href="http://www.ireland-guide.com/establishment/mill-restaurant-and-accommodation-the.3355.html" target="_blank"><img src="images/georginaCampbell2018.jpg" alt="Featured in Georgina Campbell's Best of the Best Guide" title="Featured in Georgina Campbell's Best of the Best Guide" class="gallery" /></a></td>
                 <td><img src="images/michelin-accommodation2017.jpg" alt="Featured in The Michelin Guide" title="Featured in the Michelin Guide" class="gallery" /></td>
             </tr>
             <tr>
