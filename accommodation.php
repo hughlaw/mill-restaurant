@@ -53,7 +53,7 @@
       <table style="width:240px; margin:30px auto 0 auto">
         <tr>
           <td colspan="2" style="text-align:center">
-            <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a>
+            <!-- <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a> -->
           </td>
         </tr>
         <tr>
@@ -114,7 +114,7 @@
           <li>Sitting Area</li>
         </ul>
         <p><strong>Price:</strong> From &euro;70 per person B&amp;B</p>
-        <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a>
+        <!-- <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a> -->
         <div class="cf"></div>
       </div>
     </div>
@@ -132,7 +132,7 @@
           <li>Also used for single occupancy</li>
         </ul>
         <p><strong>Price:</strong> From &euro;50 per person B&amp;B / Single from &euro;70 B&amp;B</p>
-        <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a>
+        <!-- <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a> -->
         <div class="cf"></div>
       </div>
     </div>
@@ -150,7 +150,7 @@
           <li>Also used for single occupancy</li>
         </ul>
         <p><strong>Price:</strong> From &euro;50 per person B&amp;B / Single from &euro;70 B&amp;B</p>
-        <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a>
+        <!-- <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a> -->
         <div class="cf"></div>
       </div>
     </div>
@@ -168,7 +168,7 @@
           <li>Nepresso Coffee Machine</li>
         </ul>
         <p><strong>Price:</strong> From &euro;55 per person B&amp;B</p>
-        <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a>
+        <!-- <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a> -->
         <div class="cf"></div>
       </div>
     </div>
@@ -186,7 +186,7 @@
           <li>Nepresso Coffee machine</li>
         </ul>
         <p><strong>Price:</strong> From &euro;55 per person B&amp;B</p>
-        <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a>
+        <!-- <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a> -->
         <div class="cf"></div>
       </div>
     </div>
@@ -205,7 +205,7 @@
           <li>Nepresso Coffee machine</li>
         </ul>
         <p><strong>Price:</strong> From &euro;55 per person B&amp;B</p>
-        <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a>
+        <!-- <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a> -->
         <div class="cf"></div>
       </div>
     </div>
@@ -224,7 +224,7 @@
           <li>Nepresso Coffee machine</li>
         </ul>
         <p><strong>Price:</strong> From &euro;55 per person B&amp;B</p>
-        <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a>
+        <!-- <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a> -->
         <div class="cf"></div>
       </div>
     </div>

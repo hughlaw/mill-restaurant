@@ -39,11 +39,11 @@
 
         <div id="rightColumn">
           <table style="width:240px; margin:30px auto 0 auto">
-            <tr>
+            <!-- <tr>
               <td colspan="2" style="text-align:center">
                 <a href="https://www.resdiary.com/restaurant/themillrestaurantaccommodation" class="btn" target="restaurantBookings">Book a table</a>
               </td>
-            </tr>
+            </tr> -->
             <tr>
               <td>
                 <a href="images/galleryImages/IMG_0541.jpg" rel="lightbox[homepage]"><img src="images/galleryImages/thumbnails/IMG_0541.jpg" class="gallery" /></a>
@@ -80,7 +80,7 @@
                 <li><strong>March to April</strong> - Open weekends with the exception of Easter week when we are open every night but Monday</li>
                 <li><strong>May to October</strong> - Wednesday to Sunday 6:30 - 8:30pm</li>
               </ul>
-              <a href="https://www.resdiary.com/restaurant/themillrestaurantaccommodation" class="btn" target="restaurantBookings">Book a table</a>
+              <!-- <a href="https://www.resdiary.com/restaurant/themillrestaurantaccommodation" class="btn" target="restaurantBookings">Book a table</a> -->
             </div>
           </div>
 
@@ -150,7 +150,7 @@
               <p><strong>Price: &euro;45 per person, extras &euro;3.50 per item</strong></p>
               <p><small>Allergen and Suppliers/Team information available on request.</small></p>
 
-              <a href="https://www.resdiary.com/restaurant/themillrestaurantaccommodation" class="btn" target="restaurantBookings">Book a table</a>
+              <!-- <a href="https://www.resdiary.com/restaurant/themillrestaurantaccommodation" class="btn" target="restaurantBookings">Book a table</a> -->
             </div>
           </div>
 

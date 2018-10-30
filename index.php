@@ -25,8 +25,10 @@
       </div>
       <div id="mainContentContainer">
         <div class="alert">
-          <p><strong>Online bookings now available</strong></p>
-          <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings"><i class="fas fa-bed"></i> Book a room</a><span class="spacer"></span><a href="https://www.resdiary.com/restaurant/themillrestaurantaccommodation" class="btn" target="restaurantBookings"><i class="fas fa-utensils"></i> Book a table</a>
+          <p><strong>The Mill restaurant &amp; Accommodation is now closed until Friday 16th March 2019.</strong></p>
+          <p>Bookings will be available for 2019 online <strong>ONLY</strong> on our website from 1st January 2019 and by email or phone from 1st March 2019.</p>
+          <p>Gift vouchers available at <a href="http://www.thegallerydunfanaghy.com" target="_blank">The Gallery</a>, Dunfanaghy or you can contact us by email <a href="mailto:info@themillrestaurant.com">info@themillrestaurant.com</a> or phone <a href="tel:+353749136224">074 9136224</a>.
+          <p>Thank you for all your support during the year and see you in 2019.</p>
         </div>
         <div id="leftColumn">
           <h1>Welcome</h1>
