@@ -76,11 +76,13 @@
           <div class="c-tab is-active">
             <div class="c-tab__content">
               <h3>Restaurant opening hours</h3>
+              <p>The restaurant is open from 6:30pm to 8:30pm on the following days:</p>
               <ul>
-                <li><strong>March to April</strong> - Open weekends with the exception of Easter week when we are open every night but Monday</li>
-                <li><strong>May to October</strong> - Wednesday to Sunday 6:30 - 8:30pm</li>
+                <li><strong>March to April</strong> - Friday and Saturday</li>
+                <li><strong>Easter week</strong> - Thurs 18th April to Sat 27th</li>
+                <li><strong>May to October</strong> - Wednesday to Sunday</li>
               </ul>
-              <!-- <a href="https://www.resdiary.com/restaurant/themillrestaurantaccommodation" class="btn" target="restaurantBookings">Book a table</a> -->
+              <a href="https://www.resdiary.com/restaurant/themillrestaurantaccommodation" class="btn" target="restaurantBookings">Book a table</a>
             </div>
           </div>
 

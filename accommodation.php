@@ -44,16 +44,16 @@
 
       <h3>Opening hours</h3>
       <ul>
-          <li><strong>1st March - 28th April</strong> - Weekends only with the exception of Easter week</li>
-          <li><strong>29th April - 29th October</strong> - Open 7 days a week (please note the restaurant is closed on Monday and Tuesday)</li>
-          <li>Bookings for 2019 will be available <strong>online</strong> from 1st January 2019</li>
+          <li><strong>15th March - 30th April</strong> - Weekends only with the exception of Easter week</li>
+          <li><strong>Easter week</strong> - available for bookings 18th April - 25th April</li>
+          <li><strong>May to 2nd November</strong> - Open 7 days (please note the restaurant is closed on Monday and Tuesday)</li>
       </ul>
     </div>
     <div id="rightColumn">
       <table style="width:240px; margin:30px auto 0 auto">
         <tr>
           <td colspan="2" style="text-align:center">
-            <!-- <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a> -->
+            <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a>
           </td>
         </tr>
         <tr>
