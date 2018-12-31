@@ -48,14 +48,10 @@
           <li><strong>Easter week</strong> - available for bookings 18th April - 25th April</li>
           <li><strong>May to 2nd November</strong> - Open 7 days (please note the restaurant is closed on Monday and Tuesday)</li>
       </ul>
+      <p><a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a></p>
     </div>
     <div id="rightColumn">
       <table style="width:240px; margin:30px auto 0 auto">
-        <tr>
-          <td colspan="2" style="text-align:center">
-            <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a>
-          </td>
-        </tr>
         <tr>
           <td>
             <a href="images/galleryImages/121_2153.jpg" rel="lightbox[accommodation]"><img src="images/galleryImages/thumbnails/121_2153.jpg" class="gallery" /></a>

@@ -35,6 +35,7 @@
           <p><a href="images/galleryImages/County-Winner-2017.jpg" rel="lightbox" title="County winner of the Irish resturant awards 2017"><img src="images/galleryImages/thumbnails/County-Winner-2017.jpg" alt="Irish restaurant awards logo" class="scrapbook" /></a>Our restaurant, seating 30 people, offers our customers a very special evening, starting the six course dinner menu with canapés and aperitifs at the turf fire or in the conservatory and ending with tea/coffee and petit fours in the same comfortable surroundings.</p>
           <p>Our menu is based on seasonal local produce, with the majority of our suppliers living within a ten mile radius. We offer local craft beers and a small interesting wine list.</p>
           <p><strong>Dinner menu price: &euro;47.50 per person</strong></p>
+          <p><a href="https://www.resdiary.com/restaurant/themillrestaurantaccommodation" class="btn" target="restaurantBookings">Book a table</a></p>
         </div><!-- / #leftColumn -->
 
         <div id="rightColumn">
@@ -82,7 +83,6 @@
                 <li><strong>Easter week</strong> - Thurs 18th April to Sat 27th</li>
                 <li><strong>May to October</strong> - Wednesday to Sunday</li>
               </ul>
-              <a href="https://www.resdiary.com/restaurant/themillrestaurantaccommodation" class="btn" target="restaurantBookings">Book a table</a>
             </div>
           </div>
 
