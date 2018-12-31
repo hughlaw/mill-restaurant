@@ -25,8 +25,10 @@
       </div>
       <div id="mainContentContainer">
         <div class="alert">
-          <p><strong>Online bookings now available</strong></p>
-          <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings"><i class="fas fa-bed"></i> Book a room</a><span class="spacer"></span><a href="https://www.resdiary.com/restaurant/themillrestaurantaccommodation" class="btn" target="restaurantBookings"><i class="fas fa-utensils"></i> Book a table</a>
+          <p><strong>The Mill Restaurant &amp; Accommodation will reopen Friday 15th March</strong></p>
+          <p><br>Online bookings are available now below</p>
+          <p><a href="https://www.resdiary.com/restaurant/themillrestaurantaccommodation" class="btn" target="restaurantBookings">Book a table</a> <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a></p>
+
         </div>
         <div id="leftColumn">
           <h1>Welcome</h1>

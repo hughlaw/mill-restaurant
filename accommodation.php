@@ -44,18 +44,14 @@
 
       <h3>Opening hours</h3>
       <ul>
-          <li><strong>1st March - 28th April</strong> - Weekends only with the exception of Easter week</li>
-          <li><strong>29th April - 29th October</strong> - Open 7 days a week (please note the restaurant is closed on Monday and Tuesday)</li>
-          <li>Bookings for 2019 will be available <strong>online</strong> from 1st January 2019</li>
+          <li><strong>15th March - 30th April</strong> - Weekends only with the exception of Easter week</li>
+          <li><strong>Easter week</strong> - available for bookings 18th April - 25th April</li>
+          <li><strong>May to 2nd November</strong> - Open 7 days (please note the restaurant is closed on Monday and Tuesday)</li>
       </ul>
+      <p><a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a></p>
     </div>
     <div id="rightColumn">
       <table style="width:240px; margin:30px auto 0 auto">
-        <tr>
-          <td colspan="2" style="text-align:center">
-            <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a>
-          </td>
-        </tr>
         <tr>
           <td>
             <a href="images/galleryImages/121_2153.jpg" rel="lightbox[accommodation]"><img src="images/galleryImages/thumbnails/121_2153.jpg" class="gallery" /></a>
@@ -113,8 +109,8 @@
           <li>Overlooking drive and garden</li>
           <li>Sitting Area</li>
         </ul>
-        <p><strong>Price:</strong> From &euro;70 per person B&amp;B</p>
-        <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a>
+        <p><strong>Price:</strong> From &euro;80 per person B&amp;B</p>
+        <!-- <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a> -->
         <div class="cf"></div>
       </div>
     </div>
@@ -131,8 +127,8 @@
           <li>Lake view</li>
           <li>Also used for single occupancy</li>
         </ul>
-        <p><strong>Price:</strong> From &euro;50 per person B&amp;B / Single from &euro;70 B&amp;B</p>
-        <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a>
+        <p><strong>Price:</strong> From &euro;55 per person B&amp;B / Single from &euro;75 B&amp;B</p>
+        <!-- <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a> -->
         <div class="cf"></div>
       </div>
     </div>
@@ -149,8 +145,8 @@
           <li>Lake view</li>
           <li>Also used for single occupancy</li>
         </ul>
-        <p><strong>Price:</strong> From &euro;50 per person B&amp;B / Single from &euro;70 B&amp;B</p>
-        <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a>
+        <p><strong>Price:</strong> From &euro;55 per person B&amp;B / Single from &euro;75 B&amp;B</p>
+        <!-- <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a> -->
         <div class="cf"></div>
       </div>
     </div>
@@ -167,8 +163,8 @@
           <li>Lake view</li>
           <li>Nepresso Coffee Machine</li>
         </ul>
-        <p><strong>Price:</strong> From &euro;55 per person B&amp;B</p>
-        <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a>
+        <p><strong>Price:</strong> From &euro;60 per person B&amp;B</p>
+        <!-- <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a> -->
         <div class="cf"></div>
       </div>
     </div>
@@ -185,8 +181,8 @@
           <li>Lake view</li>
           <li>Nepresso Coffee machine</li>
         </ul>
-        <p><strong>Price:</strong> From &euro;55 per person B&amp;B</p>
-        <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a>
+        <p><strong>Price:</strong> From &euro;60 per person B&amp;B</p>
+        <!-- <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a> -->
         <div class="cf"></div>
       </div>
     </div>
@@ -204,8 +200,8 @@
           <li>Overlooking trees</li>
           <li>Nepresso Coffee machine</li>
         </ul>
-        <p><strong>Price:</strong> From &euro;55 per person B&amp;B</p>
-        <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a>
+        <p><strong>Price:</strong> From &euro;60 per person B&amp;B</p>
+        <!-- <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a> -->
         <div class="cf"></div>
       </div>
     </div>
@@ -223,8 +219,8 @@
           <li>Overlooking the trees</li>
           <li>Nepresso Coffee machine</li>
         </ul>
-        <p><strong>Price:</strong> From &euro;55 per person B&amp;B</p>
-        <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a>
+        <p><strong>Price:</strong> From &euro;60 per person B&amp;B</p>
+        <!-- <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a> -->
         <div class="cf"></div>
       </div>
     </div>

@@ -12,20 +12,17 @@ echo "
   <p><a href='https://www.facebook.com/themilldunfanaghy/' target='_blank'><img src='images/FB-FindUsonFacebook-online-100.png' alt='find us on facebook logo' title='Find us on facebook'/></a></p>
 </div>
 <div id='footerRightColumn'>
+  <a href='http://www.guides.ie/recommendations/mill-restaurant' target='_blank'>
+    <img class='footer-image' src='images/mckennas2019-circle.png' alt='McKenna guide logo' title='Awarded best in Ireland by the McKennas guide 2019' />
+  </a>
   <a href='http://www.ireland-guide.com/establishment/mill-restaurant-and-accommodation-the.3355.html' target='_blank'>
-    <img class='footer-image' src='images/georginaCampbell2018.jpg' alt='Featured in Georgina Campbell's Best of the Best Guide' title='Featured in Georgina Campbell's Best of the Best Guide' />
+    <img class='footer-image' src='images/georginaCampbell2019.jpg' alt='Featured in Georgina Campbell's Best of the Best Guide' title='Featured in Georgina Campbell's Best of the Best Guide' />
+  </a>
+  <a href='reviews.php'>
+    <img class='footer-image' src='images/best-places-to-stay-18.png' alt='McKennas guide logo: 100 best places to stay in ireland' title='featured in the McKennas 100 best places to stay guide' />
   </a>
   <a href='reviews.php'>
     <img class='footer-image' src='images/county-winner-2017.png' alt='Irish restaurant awards winner logo' title='County winner of for the irish restaurant awards' />
-  </a>
-  <a href='http://www.guides.ie/recommendations/mill-restaurant' target='_blank'>
-    <img class='footer-image' src='images/mckennas2018.png' alt='McKenna guide logo' title='Awarded best in Ireland by the McKennas guide 2018' />
-  </a>
-  <a href='reviews.php'>
-  <img class='footer-image' src='images/best-places-to-stay-18.png' alt='McKennas guide logo: 100 best places to stay in ireland' title='featured in the McKennas 100 best places to stay guide' />
-  </a>
-  <a href='reviews.php'>
-    <img class='footer-image' src='images/irish-hospitality-finalist-2017.png' alt='2017 Irish hospitality awards logo' title='Finalist in the 2017 Irish hospitality awards' />
   </a>
   <a href='reviews.php'>
     <img class='footer-image' src='images/breakfast2017.png' alt='Georgina Campbell breakfast awards logo' title='Featured in the Georgina Campbell best breakfasts' />
