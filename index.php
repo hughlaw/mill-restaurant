@@ -28,7 +28,6 @@
           <p>The Mill Restaurant &amp; Accommodation will reopen Friday 15th March. The office is closed until 1st March.</p>
           <p><br><strong>Please note: bookings are available ONLINE ONLY below.<br>If you wish email or phone us please do so from the 1st March. <br>Thank you and Happy New Year.</strong></p>
           <p><a href="https://www.resdiary.com/restaurant/themillrestaurantaccommodation" class="btn" target="restaurantBookings">Book a table</a> <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a></p>
-
         </div>
         <div id="leftColumn">
           <h1>Welcome</h1>

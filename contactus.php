@@ -20,60 +20,33 @@
     <?php include 'navigation.php'; ?>
   </div>
   <div id="mainContentContainer">
+    <div class="alert">
+      <p>The Mill Restaurant &amp; Accommodation will reopen Friday 15th March. The office is closed until 1st March.</p>
+      <p><br><strong>Please note: bookings are available ONLINE ONLY below.<br>If you wish email or phone us please do so from the 1st March. <br>Thank you and Happy New Year.</strong></p>
+      <p><a href="https://www.resdiary.com/restaurant/themillrestaurantaccommodation" class="btn" target="restaurantBookings">Book a table</a> <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a></p>
+    </div>
     <div id="leftColumn">
-        <h1>Contact Us</h1>
-        <p>You can use any of the below methods to get in contact with us, or fill in the form to send us an email directly</p>
-        <fieldset>
-            <ul>
-              <label for="phone" class="addresslabels">Tel / Fax:</label>
-              <li id="phone"><a href="tel://+353749136985">+353 (0)74 913 6985<a></li>
-              <label for="address" class="addresslabels">Address:</label>
-              <li id="address">The Mill Restaurant<br />Susan &amp; Derek Alcorn<br />Dunfanaghy<br />Co. Donegal<br />Ireland</li>
-            </ul>
-        </fieldset>
-
-
-<!-- Start of Contact Form -->
-<form action="sendmail.php">
-  <fieldset>
-      <legend>Your Contact Details</legend>
-        <ul>
-          <li>
-            <label for="name">Name:</label>
-            <input id="name" name="name" class="textfield" type="text" />
-            </li>
-            <li>
-            <label for="email">Email Address:</label>
-            <input id="email" name="email" class="textfield" type="text" />
-            </li>
-            <li>
-            <label for="phone">Telephone Number:</label>
-            <input id="phone" name="phone" class="textfield" type="text" />
-            </li>
-          <li>
-            <label for="comment">Comment or Question:</label>
-          <textarea name="comment" cols="50" rows="5" class="textfield" id="comment"></textarea>
-            </li>
-        </ul>
-  </fieldset>
-
-    <fieldset class="submit">
-      <input class="submit" type="submit" value="Send Email"  />
-    </fieldset><br />
-</form>
-
-<!-- End of Contact Form -->
-
-      </div>
+      <h1>Contact Us</h1>
+      <p>The Mill is situated at Dunfanaghy, in North West Donegal.</p>
+      <p>From Letterkenny, take the N56, we are situated half a mile past the village on the right, at the shores of the new lake.<br /> You can use the interactive map to the right to see our exact location</p>
+      <p>You can use any of the below methods to get in contact with us</p>
+      <fieldset>
+          <ul>
+            <label for="phone" class="addresslabels">Tel / Fax:</label>
+            <li id="phone"><a href="tel://+353749136985">+353 (0)74 913 6985<a></li>
+            <label for="email" class="addresslabels">Email:</label>
+            <li id="phone"><a href="mailto:info@themillrestaurant.com">info@themillrestaurant.com<a></li>
+            <label for="address" class="addresslabels">Address:</label>
+            <li id="address">The Mill Restaurant<br />Susan &amp; Derek Alcorn<br />Dunfanaghy<br />Co. Donegal<br />Ireland</li>
+          </ul>
+      </fieldset>
+    </div>
     <div id="rightColumn">
     <div align="left">
       <iframe src="//www.google.com/maps/embed/v1/place?q=The%20Mill,Dunfanaghy,Ireland
         &zoom=13
         &key=AIzaSyCSO1PN83N-tMO9d41wvhQEjN8H7w3aPfY">
       </iframe>
-      <p>The Mill is situated at Dunfanaghy, in North West Donegal.</p>
-      <p>From Letterkenny, take the N56, we are situated half a mile past the village on the right, at the shores of the new lake.<br /> You can use the interactive map to the right to see our exact location, marked by the blue pin.</p>
-      <p>You can also get directions by clicking the blue pin and then selecting 'Get Directions to Here'</p>
     </div>
     </div>
     <div style="clear:both"></div>
