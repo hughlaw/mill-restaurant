@@ -12,14 +12,14 @@ echo "
   <p><a href='https://www.facebook.com/themilldunfanaghy/' target='_blank'><img src='images/FB-FindUsonFacebook-online-100.png' alt='find us on facebook logo' title='Find us on facebook'/></a></p>
 </div>
 <div id='footerRightColumn'>
-  <a href='http://www.guides.ie/recommendations/mill-restaurant' target='_blank'>
-    <img class='footer-image' src='images/mckennas2019-circle.png' alt='McKenna guide logo' title='Awarded best in Ireland by the McKennas guide 2019' />
+  <a href='reviews.php'>
+    <img class='footer-image' src='images/michelin2019.png' alt='Michelin 2019 logo' />
   </a>
   <a href='http://www.ireland-guide.com/establishment/mill-restaurant-and-accommodation-the.3355.html' target='_blank'>
     <img class='footer-image' src='images/georginaCampbell2019.jpg' alt='Featured in Georgina Campbell's Best of the Best Guide' title='Featured in Georgina Campbell's Best of the Best Guide' />
   </a>
   <a href='reviews.php'>
-    <img class='footer-image' src='images/best-places-to-stay-18.png' alt='McKennas guide logo: 100 best places to stay in ireland' title='featured in the McKennas 100 best places to stay guide' />
+    <img class='footer-image' src='images/best-places-to-stay-19.png' alt='McKennas guide logo: 100 best places to stay in ireland' title='featured in the McKennas 100 best places to stay guide' />
   </a>
   <a href='reviews.php'>
     <img class='footer-image' src='images/county-winner-2017.png' alt='Irish restaurant awards winner logo' title='County winner of for the irish restaurant awards' />
@@ -28,7 +28,7 @@ echo "
     <img class='footer-image' src='images/breakfast2017.png' alt='Georgina Campbell breakfast awards logo' title='Featured in the Georgina Campbell best breakfasts' />
   </a>
   <a href='reviews.php'>
-    <img class='footer-image' src='images/ghg2018.png' alt='Featured in the Good Hotel Guide' title='Featured in the Good Hotel Guide' />
+    <img class='footer-image' src='images/ghg2019.png' alt='Featured in the Good Hotel Guide' title='Featured in the Good Hotel Guide' />
   </a>
   <br />
   <a href='http://www.wildatlanticway.com/'><img src='images/WAW-logo.png' alt='Wild atlantic way logo' /></a>

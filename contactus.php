@@ -20,10 +20,14 @@
     <?php include 'navigation.php'; ?>
   </div>
   <div id="mainContentContainer">
-    <div style="text-align:center">
+  <div class="alert">
+          <p>The Mill is now closed for the season and reopens on 13th March 2020 for <strong><em>accommodation only</em></strong> as we have decided to close the restaurant.</p>
+          <p>Bookings for the rooms will be available online from the 1st January 2020 and the office will be open for phone and email bookings / enquiries  on the 1st March.</p>
+        </div>
+    <!-- <div style="text-align:center">
       <a href="https://www.resdiary.com/restaurant/themillrestaurantaccommodation" class="btn" target="restaurantBookings">Book a table</a>
       <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a>
-    </div>
+    </div> -->
     <div id="leftColumn">
       <h1>Contact Us</h1>
       <p>The Mill is situated at Dunfanaghy, in North West Donegal.</p>

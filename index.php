@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -24,10 +24,14 @@
         <?php include 'navigation.php';  ?>
       </div>
       <div id="mainContentContainer">
-        <div style="text-align:center">
+        <div class="alert">
+          <p>The Mill is now closed for the season and reopens on 13th March 2020 for <strong><em>accommodation only</em></strong> as we have decided to close the restaurant.</p>
+          <p>Bookings for the rooms will be available online from the 1st January 2020 and the office will be open for phone and email bookings / enquiries  on the 1st March.</p>
+        </div>
+        <!-- <div style="text-align:center">
           <a href="https://www.resdiary.com/restaurant/themillrestaurantaccommodation" class="btn" target="restaurantBookings">Book a table</a>
           <a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a>
-        </div>
+        </div> -->
         <div id="leftColumn">
           <h1>Welcome</h1>
           <img src="images/bodyImage.png" class="scrapbook" alt="Picture of the Mill"/>

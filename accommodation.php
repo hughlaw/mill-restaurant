@@ -26,6 +26,10 @@
     <?php include 'navigation.php';  ?>
   </div>
   <div id="mainContentContainer">
+    <div class="alert">
+      <p>The Mill is now closed for the season and reopens on 13th March 2020 for <strong><em>accommodation only</em></strong> as we have decided to close the restaurant.</p>
+      <p>Bookings for the rooms will be available online from the 1st January 2020 and the office will be open for phone and email bookings / enquiries  on the 1st March.</p>
+    </div>
     <div id="leftColumn">
       <h1>Rooms</h1>
       <p><a href="images/galleryImages/breakfast-award-2017.png" rel="lightbox"><img src="images/breakfast2017.png" alt="Irish breakfast awards logo" title="Winner in the Georgina Campbell Irish Breakfast Awards 2017" class="scrapbook"></a>Our seven bedrooms are individually decorated and named after our nearby townlands with the exception of The Studio, which was where my grandfather painted.</p>

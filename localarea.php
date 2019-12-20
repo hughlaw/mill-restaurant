@@ -24,6 +24,10 @@
             <?php include 'navigation.php';	?>
         </div>
         <div id="mainContentContainer">
+        <div class="alert">
+          <p>The Mill is now closed for the season and reopens on 13th March 2020 for <strong><em>accommodation only</em></strong> as we have decided to close the restaurant.</p>
+          <p>Bookings for the rooms will be available online from the 1st January 2020 and the office will be open for phone and email bookings / enquiries  on the 1st March.</p>
+        </div>
             <div id="leftColumn">
                 <h1>Local Area</h1>
                 <p>Dunfanaghy and the surrounding area is full of great attractions to suit all ages and tastes, not to mention Donegal being named <a href="http://www.natgeotraveller.co.uk/smart-travel/features/cool-list-17-2017/" target="_blank">the &quot;coolest place on the planet&quot; by National Geographic</a>.</p>
