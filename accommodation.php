@@ -43,8 +43,8 @@
         <li>Wine</li>
       </ul>
 
-      <h3>Dinner bookings for residents</h3>
-      <p>Our restaurant is small so to avoid disappointment please book your preferred time to dine on our <a href="https://www.resdiary.com/restaurant/themillrestaurantaccommodation" target="restaurantBookings">online booking system</a>. If booking a two night bed and breakfast and dinner package please note the restaurant is closed Mondays and Tuesdays.</p>
+      <!-- <h3>Dinner bookings for residents</h3>
+      <p>Our restaurant is small so to avoid disappointment please book your preferred time to dine on our <a href="https://www.resdiary.com/restaurant/themillrestaurantaccommodation" target="restaurantBookings">online booking system</a>. If booking a two night bed and breakfast and dinner package please note the restaurant is closed Mondays and Tuesdays.</p> -->
 
       <h3>Opening hours</h3>
       <ul>
