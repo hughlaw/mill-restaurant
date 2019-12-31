@@ -28,3 +28,5 @@ Temporary Items
 
 .vscode
 non-site/
+**/.cache
+node_modules
