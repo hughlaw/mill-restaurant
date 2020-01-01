@@ -46,12 +46,12 @@
       <!-- <h3>Dinner bookings for residents</h3>
       <p>Our restaurant is small so to avoid disappointment please book your preferred time to dine on our <a href="https://www.resdiary.com/restaurant/themillrestaurantaccommodation" target="restaurantBookings">online booking system</a>. If booking a two night bed and breakfast and dinner package please note the restaurant is closed Mondays and Tuesdays.</p> -->
 
-      <h3>Opening hours</h3>
+      <!-- <h3>Opening hours</h3>
       <ul>
           <li><strong>15th March - 30th April</strong> - Weekends only with the exception of Easter week</li>
           <li><strong>Easter week</strong> - available for bookings 18th April - 25th April</li>
           <li><strong>May to 2nd November</strong> - Open 7 days (please note the restaurant is closed on Monday and Tuesday)</li>
-      </ul>
+      </ul> -->
       <p><a href="https://bookingengine.myguestdiary.com/1184" class="btn" target="roomBoookings">Book a room</a></p>
     </div>
     <div id="rightColumn">
