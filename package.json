@@ -1,0 +1,30 @@
+{
+  "name": "themilldunfanaghy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hughlaw/mill-restaurant.git"
+  },
+  "browserslist": "last 2 versions",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hughlaw/mill-restaurant/issues"
+  },
+  "homepage": "https://github.com/hughlaw/mill-restaurant#readme",
+  "devDependencies": {
+    "cssnano": "^4.1.10",
+    "hamburgers": "^1.1.3",
+    "lodash": "^4.17.15",
+    "parcel-bundler": "^1.12.4",
+    "postcss-normalize": "^8.0.1",
+    "sass": "^1.24.0"
+  }
+}
