@@ -30,3 +30,4 @@ Temporary Items
 non-site/
 **/.cache
 node_modules
+dist
