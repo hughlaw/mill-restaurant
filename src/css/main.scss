@@ -35,6 +35,17 @@ img {
   }
 }
 
+.navigation__bg {
+  transition: background-color 0.4s;
+  position: fixed;
+  width: 100%;
+  height: 50px;
+  background-color: rgba(0,0,0,0);
+  &.is-active {
+    background-color: rgba(0,0,0,0.8);
+  }
+}
+
 .hamburger {
   pointer-events: all;
   position: fixed;
@@ -49,7 +60,7 @@ img {
   pointer-events: all;
 }
 
-$panel-width: 60vw;
+$panel-width: 70vw;
 
 .navigation__panel {
   transition: left 0.4s cubic-bezier(0.42, 0, 0.12, 1);
@@ -78,11 +89,64 @@ $panel-width: 60vw;
   font-family: 'Playfair Display', serif;
   font-size: 1.6rem;
   text-transform: uppercase;
+  &:hover {
+    color: $red;
+    border-left: 10px solid;
+    padding-left: 6px;
+    margin-left: -($spacing);
+  }
 }
 
 .navigation__contact-details {
   position: absolute;
   bottom: $spacing*2;
+}
+
+@media screen and (min-width: $md) {
+  .navigation {
+    pointer-events: all;
+  }
+  .hamburger {
+    display: none;
+  }
+  .navigation__panel {
+    display: flex;
+    left: 0;
+    width: 100vw;
+    min-height: auto;
+    padding:1rem 2rem;
+    background-color: rgba(0,0,0,0.7);
+  }
+  .navigation__link-block {
+    flex-grow: 1;
+    display:flex;
+    margin-bottom: 0;
+  }
+  .navigation__item {
+    flex-grow: 1;
+    margin-bottom: 0;
+    align-self: center;
+  }
+  .navigation__link:hover {
+    border-left: none;
+    padding-left: 0;
+    margin-left: 0;
+  }
+  .navigation__book-button {
+    justify-self: end;
+    padding: 0.5rem 1rem;
+    margin: 0;
+  }
+  .navigation__contact-details {
+    display: none;
+  }
+}
+
+@media screen and (min-width: $lg) {
+  .navigation__item {
+    flex-grow: unset;
+    margin-right: 2rem;
+  }
 }
 
 .splash {
@@ -91,9 +155,29 @@ $panel-width: 60vw;
   min-height: 100vh;
   margin-left: -$spacing;
   margin-right: -$spacing;
-  background-image: url(../media/images/splash-image@2x.jpg);
+  background-image: url(../media/images/splash-image-small.jpg);
   background-position: center;
   background-size: cover;
+}
+
+@media screen and (min-resolution: 144dpi) {
+  .splash { background-image: url(../media/images/splash-image-small@2x.jpg) }
+}
+
+@media screen and (min-width: $md) {
+  .splash { background-image: url(../media/images/splash-image-medium.jpg) }
+}
+
+@media screen and (min-width: $md) and (min-resolution: 144dpi) {
+  .splash { background-image: url(../media/images/splash-image-medium@2x.jpg) }
+}
+
+@media screen and (min-width: $lg) {
+  .splash { background-image: url(../media/images/splash-image-large.jpg) }
+}
+
+@media screen and (min-width: $lg) and (min-resolution: 144dpi) {
+  .splash { background-image: url(../media/images/splash-image-large@2x.jpg) }
 }
 
 .splash__brand {
@@ -149,6 +233,7 @@ section {
 
 button {
   background-color: $red;
+  color:white;
   padding: 1em;
   border-radius: 2em;
   margin: $spacing auto;

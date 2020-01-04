@@ -189,7 +189,7 @@ var reloadCSS = require('_css_loader');
 
 module.hot.dispose(reloadCSS);
 module.hot.accept(reloadCSS);
-},{"./../media/images/splash-image@2x.jpg":[["splash-image@2x.a452c080.jpg","media/images/splash-image@2x.jpg"],"media/images/splash-image@2x.jpg"],"./../media/images/footer-image@2x.jpg":[["footer-image@2x.89bf91d2.jpg","media/images/footer-image@2x.jpg"],"media/images/footer-image@2x.jpg"],"_css_loader":"../../../../.nvm/versions/node/v12.10.0/lib/node_modules/parcel-bundler/src/builtins/css-loader.js"}],"css/layout.scss":[function(require,module,exports) {
+},{"./../media/images/splash-image-small.jpg":[["splash-image-small.3fd10d6e.jpg","media/images/splash-image-small.jpg"],"media/images/splash-image-small.jpg"],"./../media/images/splash-image-small@2x.jpg":[["splash-image-small@2x.f4a1f8a7.jpg","media/images/splash-image-small@2x.jpg"],"media/images/splash-image-small@2x.jpg"],"./../media/images/splash-image-medium.jpg":[["splash-image-medium.42f48f1d.jpg","media/images/splash-image-medium.jpg"],"media/images/splash-image-medium.jpg"],"./../media/images/splash-image-medium@2x.jpg":[["splash-image-medium@2x.1a8a8198.jpg","media/images/splash-image-medium@2x.jpg"],"media/images/splash-image-medium@2x.jpg"],"./../media/images/splash-image-large.jpg":[["splash-image-large.b3e30b75.jpg","media/images/splash-image-large.jpg"],"media/images/splash-image-large.jpg"],"./../media/images/splash-image-large@2x.jpg":[["splash-image-large@2x.e1750a59.jpg","media/images/splash-image-large@2x.jpg"],"media/images/splash-image-large@2x.jpg"],"./../media/images/footer-image@2x.jpg":[["footer-image@2x.89bf91d2.jpg","media/images/footer-image@2x.jpg"],"media/images/footer-image@2x.jpg"],"_css_loader":"../../../../.nvm/versions/node/v12.10.0/lib/node_modules/parcel-bundler/src/builtins/css-loader.js"}],"css/layout.scss":[function(require,module,exports) {
 var reloadCSS = require('_css_loader');
 
 module.hot.dispose(reloadCSS);
@@ -19375,22 +19375,71 @@ var nav_panel = document.querySelector(".navigation__panel");
 function initMenu() {
   menuButton.addEventListener('click', onToggleMenu);
   window.addEventListener('scroll', checkMenuVisibility);
+  initMenuItems();
+}
+
+function initMenuItems() {
+  var menu_links = document.querySelectorAll('.navigation__item');
+  menu_links.forEach(function (link) {
+    link.addEventListener('click', onToggleMenu);
+  });
 }
 
 function onToggleMenu(e) {
-  e.preventDefault();
-  menuButton.classList.toggle('is-active');
-  navigation.classList.toggle('is-active');
-  nav_panel.classList.toggle('is-active');
+  var isSmallScreen = window.innerWidth < 700;
+
+  if (isSmallScreen) {
+    menuButton.classList.toggle('is-active');
+    navigation.classList.toggle('is-active');
+    nav_panel.classList.toggle('is-active');
+  }
+
+  if (e.target.classList.contains('navigation__link')) {
+    _lodash.default.delay(function () {
+      window.scrollTo({
+        top: window.scrollY - 60,
+        behavior: 'smooth'
+      });
+    }, 1);
+  }
 }
 
-var checkMenuVisibility = _lodash.default.debounce(function (e) {
-  console.log('checking scroll height');
+var checkMenuVisibility = _lodash.default.throttle(function (e) {
+  var viewport_height = window.innerHeight;
+  var scroll_length = window.scrollY;
+  var nav_bg = document.querySelector('.navigation__bg');
+
+  if (scroll_length > viewport_height) {
+    nav_bg.classList.add('is-active');
+  } else {
+    nav_bg.classList.remove('is-active');
+  }
 }, 500);
 
 var _default = initMenu;
 exports.default = _default;
-},{"lodash":"../node_modules/lodash/lodash.js"}],"js/index.js":[function(require,module,exports) {
+},{"lodash":"../node_modules/lodash/lodash.js"}],"js/modules/buttons.js":[function(require,module,exports) {
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+
+function initButtons() {
+  var bookButtons = document.querySelectorAll('.button');
+  bookButtons.forEach(function (button) {
+    button.addEventListener('click', onBook);
+  });
+}
+
+function onBook() {
+  window.open('https://bookingengine.myguestdiary.com/1184', 'mill_room_booking');
+}
+
+var _default = initButtons;
+exports.default = _default;
+},{}],"js/index.js":[function(require,module,exports) {
 "use strict";
 
 var _main = _interopRequireDefault(require("../css/main.scss"));
@@ -19401,10 +19450,13 @@ var _typography = _interopRequireDefault(require("../css/typography.scss"));
 
 var _menu = _interopRequireDefault(require("./modules/menu"));
 
+var _buttons = _interopRequireDefault(require("./modules/buttons"));
+
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 (0, _menu.default)();
-},{"../css/main.scss":"css/main.scss","../css/layout.scss":"css/layout.scss","../css/typography.scss":"css/typography.scss","./modules/menu":"js/modules/menu.js"}],"../../../../.nvm/versions/node/v12.10.0/lib/node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
+(0, _buttons.default)();
+},{"../css/main.scss":"css/main.scss","../css/layout.scss":"css/layout.scss","../css/typography.scss":"css/typography.scss","./modules/menu":"js/modules/menu.js","./modules/buttons":"js/modules/buttons.js"}],"../../../../.nvm/versions/node/v12.10.0/lib/node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
 var OldModule = module.bundle.Module;
@@ -19432,7 +19484,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "63879" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "50189" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};

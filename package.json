@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/hughlaw/mill-restaurant#readme",
   "devDependencies": {
+    "cssnano": "^4.1.10",
     "hamburgers": "^1.1.3",
     "lodash": "^4.17.15",
     "postcss-normalize": "^8.0.1",

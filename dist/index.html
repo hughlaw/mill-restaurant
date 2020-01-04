@@ -10,21 +10,22 @@
 <body>
 
   <nav class="navigation">
-    <button class="hamburger hamburger--spin" type="button">
+    <div class="navigation__bg"></div>
+    <button class="hamburger hamburger--spin" type="button" aria-label="Menu">
       <span class="hamburger-box">
         <span class="hamburger-inner"></span>
       </span>
     </button>
     <div class="navigation__panel">
       <ul class="navigation__link-block">
-        <li class="navigation__item"><a class="navigation__link link--unstyled" href="#food-and-drink">Food & drink</a></li>
         <li class="navigation__item"><a class="navigation__link link--unstyled" href="#rooms">Our rooms</a></li>
+        <li class="navigation__item"><a class="navigation__link link--unstyled" href="#food-and-drink">Food & drink</a></li>
         <li class="navigation__item"><a class="navigation__link link--unstyled" href="#experiences">Experiences</a></li>
         <li class="navigation__item"><a class="navigation__link link--unstyled" href="#about-us">About us</a></li>
-        <li class="navigation__item"><a class="navigation__link link--unstyled" href="#find-us">Find us</a></li>
+        <!-- <li class="navigation__item"><a class="navigation__link link--unstyled" href="#find-us">Find us</a></li> -->
       </ul>
 
-      <button class="button">Book a room</button>
+      <button type="button" class="button navigation__book-button">Book a room</button>
 
       <div class="navigation__contact-details">
         <address class="address">
@@ -63,7 +64,7 @@
       </div>
 
       <div class="grid__cell">
-        <button class="button">Book a room</button>
+        <button type="button" class="button">Book a room</button>
 
         <h2>Opening hours</h2>
         <p>We are open from March until November.</p>
@@ -80,7 +81,7 @@
     <p>From our carefully curated Antiques, Egginton paintings, books and furniture, all our bedrooms are unique.</p>
 
     <div class="divider">
-      <img src="/coffee-and-biscuits@2x.010db31f.jpg" sizes="100vw" srcset="/coffee-and-biscuits@2x.010db31f.jpg 750w,/coffee-and-biscuits.fe72f570.jpg 375w" alt="Cofee cups with a jar of homemde buscuits" class="divider__image">
+      <img src="/coffee-and-biscuits-small.72ecb0b2.jpg" sizes="100vw" srcset="/coffee-and-biscuits-small@2x.f31d16d8.jpg 750w,/coffee-and-biscuits-small.72ecb0b2.jpg 375w,/coffee-and-biscuits-medium@2x.9942dadb.jpg 1668w,/coffee-and-biscuits-medium.655c9033.jpg 834w,/new-lake-in-the-mist-large@2x.a95d1170.jpg 2880w,/new-lake-in-the-mist-large.70aa752c.jpg 1440w" alt="Cofee cups with a jar of homemade buscuits" class="divider__image">
     </div>
 
     <p>Of course, they all feature TV's, heavenly mattresses, complimentary wifi but its the wee added touches that make the difference.</p>
@@ -90,7 +91,7 @@
     <div class="grid room-grid">
 
       <div class="card">
-        <img src="/studio@2x.87cdc65a.jpg" alt="interior of the Studio room" class="card__image">
+        <img src="/studio.96abe14b.jpg" sizes="100%" srcset="/studio@2x.87cdc65a.jpg 670w,/studio.96abe14b.jpg 335w" alt="interior of the Studio room" class="card__image">
         <div class="card__text">
           <h2>The Studio</h2>
           <ul class="card__text--no-bullets">
@@ -107,7 +108,7 @@
       </div>
 
       <div class="card">
-        <img src="/figart@2x.5e16c235.jpg" alt="interior of the Figart room" class="card__image">
+        <img src="/figart.acfda326.jpg" sizes="100%" srcset="/figart@2x.5e16c235.jpg 670w,/figart.acfda326.jpg 335w" alt="interior of the Figart room" class="card__image">
         <div class="card__text">
           <h2>Figart</h2>
           <ul class="card__text--no-bullets">
@@ -121,7 +122,7 @@
       </div>
 
       <div class="card">
-        <img src="/rinclevin@2x.6a9e1167.jpg" alt="interior of the Rinclevin room" class="card__image">
+        <img src="/rinclevin.b38991bd.jpg" sizes="100%" srcset="/rinclevin@2x.6a9e1167.jpg 670w,/rinclevin.b38991bd.jpg 335w" alt="interior of the Rinclevin room" class="card__image">
         <div class="card__text">
           <h2>Rinclevin</h2>
           <ul class="card__text--no-bullets">
@@ -135,7 +136,7 @@
       </div>
 
       <div class="card">
-        <img src="/castlebane@2x.81aab42c.jpg" alt="interior of the Castlebane room" class="card__image">
+        <img src="/castlebane.47f3f536.jpg" sizes="100%" srcset="/castlebane@2x.81aab42c.jpg 670w,/castlebane.47f3f536.jpg 335w" alt="interior of the Castlebane room" class="card__image">
         <div class="card__text">
           <h2>Castlebane</h2>
           <ul class="card__text--no-bullets">
@@ -150,7 +151,7 @@
       </div>
 
       <div class="card">
-        <img src="/casey@2x.22c6c21d.jpg" alt="interior of the Casey room" class="card__image">
+        <img src="/casey.0c762f4b.jpg" sizes="100%" srcset="/casey@2x.22c6c21d.jpg 670w,/casey.0c762f4b.jpg 335w" alt="interior of the Casey room" class="card__image">
         <div class="card__text">
           <h2>Casey</h2>
           <ul class="card__text--no-bullets">
@@ -164,7 +165,7 @@
       </div>
 
       <div class="card">
-        <img src="/marfagh@2x.7694d192.jpg" alt="interior of the Marfagh room" class="card__image">
+        <img src="/marfagh.d7e1a03f.jpg" sizes="100%" srcset="/marfagh@2x.7694d192.jpg 670w,/marfagh.d7e1a03f.jpg 335w" alt="interior of the Marfagh room" class="card__image">
         <div class="card__text">
           <h2>Marfagh</h2>
           <ul class="card__text--no-bullets">
@@ -179,7 +180,7 @@
       </div>
 
       <div class="card">
-        <img src="/corgannive@2x.8b6fa61e.jpg" alt="interior of the Corgannive room" class="card__image">
+        <img src="/corgannive.4778456f.jpg" sizes="100%" srcset="/corgannive@2x.8b6fa61e.jpg 670w,/corgannive.4778456f.jpg 335w" alt="interior of the Corgannive room" class="card__image">
         <div class="card__text">
           <h2>Corgannive</h2>
           <ul class="card__text--no-bullets">
@@ -195,7 +196,7 @@
 
     </div>
 
-    <button class="button">Book a room</button>
+    <button type="button" class="button">Book a room</button>
 
   </section>
 
@@ -206,19 +207,19 @@
     <p>You will find a wide choice of cereal, delicious Fruit salad, Natural yougurt, Carrageen Moss, Homemade breads , Irish cheeses, juices and much more.</p>
 
     <div class="divider">
-      <img src="/healthy-breakfast@2x.d420db99.jpg" alt="Fruit salad with natural yougurt" class="divider__image">
+      <img src="/healthy-breakfast-small.976841c3.jpg" sizes="100vw" srcset="/healthy-breakfast-small@2x.b29f8699.jpg 750w,/healthy-breakfast-small.976841c3.jpg 375w,/healthy-breakfast-medium@2x.60faa98a.jpg 1668w,/healthy-breakfast-medium.c4601143.jpg 834w,/healthy-breakfast-large@2x.a0288754.jpg 2880w,/healthy-breakfast-large.488766eb.jpg 1440w" alt="Fruit salad with natural yogurt" class="divider__image">
     </div>
 
     <p>For a more hearty start to the day, a vast range that includes a Full Irish Breakfast, Vegetarian breakfast, Smoked salmon, Egg dishes and Fresh fish from The Bay can be ordered from the kitchen.</p>
 
     <div class="divider">
-      <img src="/fried-breakfast@2x.6a6fce03.jpg" alt="Full Irish breakfast" class="divider__image">
+      <img src="/fried-breakfast-small.4faad146.jpg" sizes="100vw" srcset="/fried-breakfast-small@2x.9ecdfc80.jpg 750w,/fried-breakfast-small.4faad146.jpg 375w,/fried-breakfast-medium@2x.2711d7ec.jpg 1668w,/fried-breakfast-medium.d137e76e.jpg 834w,/fried-breakfast-large@2x.b6def063.jpg 2880w,/fried-breakfast-large.43027f02.jpg 1440w" alt="Full Irish breakfast" class="divider__image">
     </div>
 
     <p>On a lovely Summer's evening, if you fancy a glass of Prosecco at one of our many romantic  seating areas in the garden , we do have an Honesty Bar for to avail of, offering a selection of fine wines and Donegal Craft Beers . Or of course by the Open fire on cold, wet night. </p>
 
     <div class="divider">
-      <img src="/prosseco-and-olives@2x.72bfd1c8.jpg" alt="Prosecco and olives with cheese and cold meats" class="divider__image">
+      <img src="/prosseco-and-olives-small.aa3b4731.jpg" sizes="100vw" srcset="/prosseco-and-olives-small@2x.22844c1b.jpg 750w,/prosseco-and-olives-small.aa3b4731.jpg 375w,/prosseco-and-olives-medium@2x.f27b31ba.jpg 1668w,/prosseco-and-olives-medium.5bc06d29.jpg 834w,/prosseco-and-olives-large@2x.b6224cdd.jpg 2880w,/prosseco-and-olives-large.b647fd1c.jpg 1440w" alt="Prosecco and olives with cheese and cold meats" class="divider__image">
     </div>
 
     <h2 class="heading--centered">Breakfast menu</h2>
@@ -276,7 +277,7 @@
       <h3 class="menu-item__title">Fish Omelette</h3>
     </div>
 
-    <button class="button">Book a room</button>
+    <button type="button" class="button">Book a room</button>
 
   </section>
 
@@ -285,7 +286,7 @@
     <p>From a relaxing afternoon browsing the many gift shops in town or cantering along the amazing Tramore beach, there are activities and experiences to suit everyone.</p>
 
     <div class="divider">
-      <img src="/boats-on-the-new-lake@2x.47615653.jpg" alt="Rowing boats moored at the side of the new lake on a warm summer's evening" class="divider__image">
+      <img src="/boats-on-the-new-lake-small.16414638.jpg" sizes="100vw" srcset="/boats-on-the-new-lake-small@2x.8c510c40.jpg 750w,/boats-on-the-new-lake-small.16414638.jpg 375w,/boats-on-the-new-lake-medium@2x.5007daa4.jpg 1668w,/boats-on-the-new-lake-medium.f98dea48.jpg 834w,/boats-on-the-new-lake-large@2x.3e80a053.jpg 2880w,/boats-on-the-new-lake-large.c21b555d.jpg 1440w" alt="Rowing boats moored at the side of the new lake on a warm summer's evening" class="divider__image">
     </div>
 
     <p>With our local knowledge we can help you experience all the highlights that Dunfanaghy area has to offer including superb Blue Flag beaches, golf courses, horseriding, surfing, walking, hiking , fishing, Glenveagh National Park, Heritage sites and of course shopping.</p>
@@ -319,14 +320,14 @@
 
     <p>Our new chapter begins in 2020.</p>
 
-    <button class="button">Book a room</button>
+    <button type="button" class="button">Book a room</button>
 
   </section>
 
-  <section id="find-us">
+  <!-- <section id="find-us">
     <h1>Find us</h1>
     <div class="map"></div>
-  </section>
+  </section> -->
 
   <footer>
     <address class="address">
