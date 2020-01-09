@@ -218,7 +218,7 @@ $panel-width: 70vw;
 
 
 .divider {
-  margin: 0 (-$spacing);
+  margin: $spacing (-$spacing);
 }
 
 .divider__image {
@@ -258,7 +258,7 @@ button {
 
 .grid {
   display: grid;
-  column-gap: $spacing;
+  gap: $spacing*2;
 }
 
 @media screen and (min-width: $md) {
@@ -275,7 +275,6 @@ button {
 
 .card {
   box-shadow: 0 4px 4px rgba(0,0,0,0.15);
-  margin-bottom: $spacing;
 }
 
 .card__image {
@@ -301,14 +300,18 @@ button {
   margin: 0 auto 2rem;
 }
 
+.siema {
+  padding: 0
+}
+
 footer {
   background-image: url(../media/images/footer-image@2x.jpg);
   background-position: center;
   background-size: cover;
   min-height: 25vh;
   padding: $spacing;
-  display: flex;
-  flex-direction: column;
+  // display: flex;
+  // flex-direction: column;
   color:white;
 }
 

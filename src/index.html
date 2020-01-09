@@ -54,7 +54,7 @@
       </div>
     </div>
     <h1 class="sr-only">Introduction</h1>
-    <div class="grid intro-grid">
+    <div class="grid intro-grid restricted-width">
       <div class="grid__cell">
         <p class="text--with-margin-top">The Mill has reached a new chapter in 2020, offering the best place to stay if you want to bridge the gap between a large hotel and a B&B.</p>
 
@@ -98,7 +98,7 @@
 
     <p>A welcome with coffee and homebaking, complimentary water, wine, homemade oaties for your room and fresh milk when you want it. Our larger rooms also have a Nepresso machine.</p>
 
-    <div class="grid room-grid">
+    <div class="grid room-grid restricted-width">
 
       <div class="card">
         <img src="./media/images/studio.jpg"
@@ -387,7 +387,34 @@
 
   </section>
 
-  <section id="gallery">
+  <section id="gallery" class="siema">
+    <img src="./media/images/slideshow/dogs-on-the-beach-small.jpg"
+      sizes="100vw"
+      srcset="./media/images/slideshow/dogs-on-the-beach-small.jpg 375w,
+      ./media/images/slideshow/dogs-on-the-beach-small@2x.jpg 750w"
+      alt="Two happy dogs on the beach"
+      class="siema__image">
+
+    <img src="./media/images/slideshow/muckish-in-the-winter-small.jpg"
+      sizes="100vw"
+      srcset="./media/images/slideshow/muckish-in-the-winter-small.jpg 375w,
+      ./media/images/slideshow/muckish-in-the-winter-small@2x.jpg 750w"
+      alt="winter scene with Muckish mountain in the background"
+      class="siema__image">
+
+    <img src="./media/images/slideshow/horses-on-the-beach-small.jpg"
+      sizes="100vw"
+      srcset="./media/images/slideshow/horses-on-the-beach-small.jpg 375w,
+      ./media/images/slideshow/horses-on-the-beach-small@2x.jpg 750w"
+      alt="winter scene with Muckish mountain in the background"
+      class="siema__image">
+
+    <img src="./media/images/slideshow/new-lake-at-sunset-small.jpg"
+      sizes="100vw"
+      srcset="./media/images/slideshow/new-lake-at-sunset-small.jpg 375w,
+      ./media/images/slideshow/new-lake-at-sunset-small@2x.jpg 750w"
+      alt="winter scene with Muckish mountain in the background"
+      class="siema__image">
 
   </section>
 
@@ -422,18 +449,20 @@
   </section> -->
 
   <footer>
-    <address class="address">
-      The Mill<br>
-      Dunfanaghy<br>
-      Co. Donegal<br>
-      Ireland<br>
+    <div class="restricted-width">
+      <address class="address">
+        The Mill<br>
+        Dunfanaghy<br>
+        Co. Donegal<br>
+        Ireland<br>
 
-      <a href="tel://+353749136985" class="footer__link--block link--unstyled text--with-margin-top">+353 (0)74 913 6985</a>
-      <a href="mailto:info@themilldunfanaghy.com" class="footer__link--block link--unstyled">info@themilldunfanaghy.com</a>
-    </address>
-    <div class="social">
-      <a href="" class="social__icon"></a>
-      <a href="" class="social__icon"></a>
+        <a href="tel://+353749136985" class="footer__link--block link--unstyled text--with-margin-top">+353 (0)74 913 6985</a>
+        <a href="mailto:info@themilldunfanaghy.com" class="footer__link--block link--unstyled">info@themilldunfanaghy.com</a>
+      </address>
+      <div class="social">
+        <a href="" class="social__icon"></a>
+        <a href="" class="social__icon"></a>
+      </div>
     </div>
   </footer>
 
