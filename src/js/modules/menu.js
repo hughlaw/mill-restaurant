@@ -5,7 +5,7 @@ const nav_panel  = document.querySelector(`.navigation__panel`);
 
 function initMenu() {
   menuButton.addEventListener('click', onToggleMenu);
-  window.addEventListener('scroll', checkMenuVisibility);
+  window.addEventListener('scroll', checkMenuVisibility, { passive: true });
   initMenuItems();
 }
 
