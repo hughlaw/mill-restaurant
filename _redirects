@@ -2,6 +2,7 @@
 
 # Redirect domain aliases to primary domain
 https://www.themillrestaurant.com/* https://www.themilldunfanaghy.com/:splat 301!
+https://www.themilldunfanaghy.ie/* https://www.themilldunfanaghy.com/:splat 301!
 
 # Optional: Redirect default Netlify subdomain to primary domain
 https://themilldunfanaghy.netlify.com/* https://www.themilldunfanaghy.com/:splat 301!
