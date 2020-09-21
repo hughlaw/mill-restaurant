@@ -22,7 +22,7 @@
   "devDependencies": {
     "cssnano": "^4.1.10",
     "hamburgers": "^1.1.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "parcel-bundler": "^1.12.4",
     "parcel-plugin-imagemin": "^3.0.0",
     "postcss-normalize": "^8.0.1",
